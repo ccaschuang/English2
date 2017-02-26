@@ -1,0 +1,85 @@
+
+
+writing主要分為兩大類題目：
+
+1:Report (約１０％～１５％）
+2:Argument類型
+3: Mix 類型(一年約出現2~3次) 
+	ex: In modern society, fashion has become more popular in people's daily lives. What are the causes of this phenomenon? Is it a positive development or a negative development? 
+
+
+Argument:  一般是寫4~5段，而且一定要超過250字  
+	(若是沒有到250字，通常只會有五分或更低)
+4段：
+1: 開頭：
+
+	寫背景跟話題
+
+	第一句：介紹社會背景(也可以不寫)，
+	*第二句：交待這篇文章要辯論的是哪一個話題：  <--注意不可以省略
+	第三句：用自己的話轉述一下原題的觀點(可以省略)
+	第四句: 陳述自機的態度 (可省略，但比較少見)
+
+2: 寫自己傾向的該方觀點 (5~7句)
+	第一句：概括本段觀點
+	第2~5~7句：本觀點的理由  (至少寫五句，可以寫到7句也可以)
+
+3: 第三段：寫一個讓步段，5句左右  陳述自己不太傾向的那一方的觀點
+	第一句：概括本段觀點，
+	第2~3句：這種觀點的理由、解釋
+	第四句：寫一句話提出你不大支持這種觀點的理由 
+		最好是直接反駁本段第二句的內容，會使得這句話看起來更具體，而不是去反駁第一句話，直接反駁第一句話會使得這段文章變得過於空洞
+	第五句話：寫一句話來解釋，支持第四句。
+
+4:結尾段：總結：
+	第一句話：概括在讓步段中自己不大傾向的觀點(可省略)
+	第二句：重申自己更喜歡的觀點  <--重點
+	最後一句提出我們/政府/媒體應該作的建議，表明自己確實是關注話題的。
+	(這邊要注意：task 2是主觀性寫作，可以建議，但是task 1是客觀性寫作，不宜提建議)
+
+
+注意：這只是一個整體的框架，具體寫作的時候是需要視情形調整的。
+ex: 如果想出超過一句的支持句，就完全可以多寫幾句，尤其是第二段的論點支持句是不嫌多的。就算句子意思是一樣的也是可以寫。
+
+分論點的句子不宜過多，但是主體段中的支持句愈多愈好。
+
+
+
+另外：雅思的考試本質與GRE不同，GRE重視的是profound(深刻)，所以論述會>文法
+但是雅思的高分標準是reasonable,所以即使是用換句話說，把同樣的意思句子用不同的單字與方法說個2~3遍當做支持句，是可以接受的，而且也有九分範文是這樣子使用：ex:
+
+Some people think high-school graduates should travel or work for a period of time before they go to university. To what extend do you agree? 
+
+第二段的主論述：
+
+The reasons for this trend may involve the recognition that a young adult who passes directly from school to university is rather restricted in terms of general knowledge and experience of the world.
+By contrast, those who have spent some time earning a living or travelling to other places, have a broader view of life and better personal resources to draw on. They tend to be more independent, which is a very important factor in academic study and research, as well as giving them an advantage in terms of coping with the challenges of student life.
+
+注意這段從第一句說不去旅行或工作眼界窄，但後面(By contract後)又說去旅行或是工作眼界寬，就是種換句話說的概念。
+
+所以前面介紹的高分字詞與連接詞要多使用。
+
+
+
+=======
+
+從劍橋給予的範例，可以知道高分範文有幾種特性：
+
+	1: 嚴格扣題，不需要使用模板，但是一定有清晰的結構
+		不論正反雙方，都一定會有提出2~3個明確的分論點
+
+	2: 高分範文一定有不少準確使用的連詞，來組成其複雜句。
+		各支持句是高分作文中使用連詞最密集的位置
+
+	3: 每個分論點後面一定有1~2句，甚至到三句的支持句。立論點不需要特別高深，只要有關連度的解釋性句子即可。
+	但是支持句通常會用比較複雜的句型，
+
+	4: 通常會出現數個加分字詞(通常是6~8個)， 跟加分句型(五個左右) 但是不會過多。
+
+	5: 結尾段通常會重申上文的傾向性。有時候還會提出建議
+
+	6: 很少出現語法或是拚寫錯誤(通常低於五個)，IELTS是語言考試，所以連詞、句式、語法的重要性>思維能力。
+
+	7:敢寫：多看多練，還要有足夠的勇氣跟自信。Don't sell yourself short
+
+	3:

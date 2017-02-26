@@ -1,0 +1,143 @@
+最常使用的：
+
+逗號 comma ，
+句號 period 。
+分號 semicolon ；
+冒號 colon：
+驚歎號 exclamation ！
+問號 question mark ？
+雙引號 double quotation marks “ ”
+破折號 dash —
+底線 Underscore _　
+
+{　Open brace (左大括弧)
+}　Close brace (右大括弧)
+(　Open parenthesis (左括弧)
+)　Close parenthesis (右括弧)
+[　Open bracket (左中括弧)
+]　Close bracket (右中括弧)
+
+!　Exclamation point (驚歎號)
+~　Tilde /ˈtɪl.də/ (取代符號，毛毛蟲)
+
+
+●英文無、之標點符號，可以「and」代之。
+●英文無「」，可以方括號square brackets [ ]代替。
+
+其他：
+省略號；所有格符號 apostrophe '
+
+連字元 hyphen ￣
+
+單引號 single quotation marks ‘ ’
+
+圓括號 parentheses ( )
+
+方括號 square brackets [ ]
+
+法文引號；書名號 French quotes 《 》
+省略號 ellipsis ...
+雙點號 tandem colon ¨
+同上 ditto "
+
+雙線號 parallel
+
+斜線號 Slash /
+
+反斜線 Backslash \　
+
+ampersand = and ＆
+
+代字型大小 swung dash ～
+
+分節號 section; division §
+
+箭號；參見號 arrow →
+
+加號；正號 plus ＋
+
+減號；負號 minus －
+
+正負號 plus or minus ±
+
+乘號 is multiplied by ×
+
+除號 is divided by ÷
+等於號 is equal to ＝
+
+不等於號 is not equal to ≠
+
+全等於號 is equivalent to ≡
+
+等於或約等於號 is equal to or approximately equal to
+
+約等於號 is approximately equal to
+
+
+
+電腦符號
+
+&　Ampersand (And 符號)
+
+*　Asterisk (星號)
+
+@　At sign, at (At 符號，At)
+
+\　Backslash (反斜線)
+
+^　Caret (插入號)
+
+[　Open bracket (左中括弧)
+
+]　Close bracket (右中括弧)
+
+(　Open parenthesis (左括弧)
+)　Close parenthesis (右括弧)
+
+:　Colon (冒號)
+
+,　Comma (逗號)
+
+$　Dollar sign (錢符號)
+
+–　Double dash (雙破折號)
+
+…　Ellipsis (省略符號)
+
+‘　Single quote (單引號)
+
+“　Quote (雙引號)
+
+=　Equals (等號)
+
++　Plus, plus sign (加，加號)
+
+!　Exclamation point (驚歎號)
+
+#　Pound sign (井字號)
+
+?　Question mark (問號)
+
+.　Period, dot (句號，點)
+
+;　Semicolon (分號)
+
+-　Hyphen (連字號)
+
+—　Dash (破折號)
+
+_　Underscore (底線)
+
+|　Vertical bar (垂直線)
+
+{　Open brace (左大括弧)
+
+}　Close brace (右大括弧)
+
+%　Percent, percent sign (百分比，百分比符號)
+
+/　Slash (斜線)
+
+//　Double slash (雙斜線)
+
+~　Tilde (取代符號，毛毛蟲)

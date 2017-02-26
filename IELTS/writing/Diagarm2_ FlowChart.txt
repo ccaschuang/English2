@@ -1,0 +1,53 @@
+(Academic 使用，General不用準備)
+
+Diagarm2_  Flow chart
+流程圖：又稱process diagram
+
+以平均3~4個月出現一次，非常稀有，如果時間不夠，可以先行跳過。
+
+Process Diagram有幾個特色：
+1: information會比其他的diagram更為零散，所以讀圖的時候要更加仔細
+
+2: 圖裡面有不認識的字是完全正常的。因為會有很多term的出現。
+	由於幾乎都是名詞，所以不知道的時候就直接照抄即可。
+
+3:需要多使用順序的字或是詞組
+
+	at first = initially = in the first stage
+	then = in the next step = after that = in the following stage
+	at this point = in this phase (specifically)
+	finally = eventually = in the final step
+
+4: 如果發現流程圖特別複雜，就一定要合併成幾大步來寫。
+
+====
+P234 劍橋滿分實例：
+The first diagram shows that there are four main stages in the life of the silk worm.
+
+First of all, eggs are produced by the moth and it takes ten days for each egg to become a silkworm larva that feeds on mulberry leaves. This stage lasts for up to six weeks until the larva produces a cocoon of silk thread around itself. After a period of about three weeks, the adult moths eventually emerge from these cocoons and the life cycle begins again.
+
+The cocoons are the raw material used for the production of silk cloth. Once selected, they are boiled in water and the threads can be separated in the unwinding stage. Each thread is between 300 and 900 meters long, which means they can be twisted together, dyed and then used to produce cloth in the weaving stage.
+
+Overall, the diagrams show that the cocoon stage of the silkworm can be used to produce silk cloth through a very simple process.
+
+這就是一個很明顯的使用template拿到分數的範文：
+
+注意他使用到了
+the first diagram shows that there are four main stages in ....
+
+First of all,
+After a period of about 
+
+Overall, the diagram shows that ...
+through a very simple process.
+
+================================
+高分範例２
+The process diagram illustrates in four stages how the Australian Bureau of Meteorology gathers its weather information in order to make weather forecasts.
+
+According to the diagram, in the first stage there is the "incoming information". Specifically, weather data is collected from outer space, on land , or at sea, using satellite, radar and drifting buoy respectively. Next, in the second step, this data is analyzed and forecast by experts. At this stage experts study satellite photos, radar screens and synoptic charts to determine weather conditions. Stage three of the process is when the information is prepared for broadcast. This is done through computer which sends all necessary data to the fourth stage. At this point the weather data is broadcast to the general public via TV, radio and telephone (recorded announcement).
+
+Thus, the process diagram clearly shows how weather data is collected, studied prepared, and finally broadcast.
+
+
+

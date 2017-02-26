@@ -1,0 +1,402 @@
+模板：Patterns
+用來寫作可以直接套用的樣板，
+如果目標只是在七分以下，可以使用，但是真正高分的是八、九分是不使用的。
+
+判斷方式：
+
+教師應該鼓勵學生獨立思考   <--能夠直接完整翻譯這句話的人，Pattern只需要了解，但是
+不需要死背
+
+1: Arguments 辯論類模板
+
+第一段：介紹背景，並引出話題
+first : 寫入背景
+	In the present age,... are playing significant roles in our lives
+	In the present age, the issue of ... is increasingly disturbing.
+second:
+	But in the mean time, whether...(辯論話題) has sparked much debate.
+third:
+	Some people assert that... while many others argue that...
+fourth:
+	Personally, I am in favor of  the former/ the latter  view. (前者或後者)
+
+P.S. 1、2 句可省略，但只要寫了，一定要扣題，如果偏離題目太遠，不如不寫。
+
+第二段寫自己傾向的觀點： 至少要有三個分論點，每個分論點各自有1~2句支持句
+
+	說明自己的論點是有說服力(或是有證據)可以表明……
+	Convincing arguments can be made that... 
+	
+	(第一個理由)
+	To start with...
+	Therefore(因此),....
+
+	第二個理由
+	Moreover,...
+	Specifically(具體來說),...
+
+	第三個理由
+	Lastly, ... 
+	In other words,...
+
+	其中的支持句，都盡量寫成複雜句，可以用之前的連接詞，使句型複雜化。 
+	(可以參考之前的連接詞conjunction使用。)
+
+第三段寫不傾向的一方， 需要先支持兩句，再指出這種觀點的不足之處。
+	
+	1:承認___(不傾向的觀點)
+	Admittedly, … 
+
+	2: 第一個理由
+	The reason for this is that...(寫一個理由)
+
+	3: 支持句， 
+	Obviously, (支持前句), ... 
+
+	4:寫這種觀點的不足之處。
+	Even so,...
+
+	5: 舉例支持4
+	for instance…
+
+	另外：3，5的支持句盡量寫成複雜句
+
+第四段：結尾，一般是3~5句，
+	In summary, I would concede that... (我承認…)
+
+	儘管如此
+	Despite that, ... 
+
+	提出應該怎麼做，就是提一個建議。
+	Overall, I am convinced that ... should... 
+
+
+	結尾也可以壓成兩句：
+	ex: 
+	In summary ,I would concede that..., even though... 
+	or 
+	Overall, I am convinced that... should....
+
+辯論類模版B:
+	There has been much discussion revolving around the issue of whether...
+	In this essay, I will compare and contrast two typical opinons regarding this issue.
+
+	It is evidently reasonable for some to argue that... 
+	To start with,... This is mainly due to the fact....
+	Moreover, it is widely acepted that.... 
+	Plenty of evidence has shown that..., which in turn proves that...
+	An even more significant factor that should be taken into account is...
+	After all, --- this is to day,....
+
+	By contrast, some others may claim that...
+	apparently,... 
+	For example,...
+	Nonetheless, it should not be overlooked that...
+	Few can deny..., by which I mean...
+
+	Having considered the respective merits of both view, I think...
+	Aslo, I would suggest..., which I believe is soundly based on the above reasoning i have presented.
+
+Nonetheless = Nevertheless= Inspite of that...儘管如此
+
+開頭段可以使用的替換句 (背下其中的3、4種，可以適不同的情形來使用)
+	These days, public debate has been going on in my country over whether...
+	This essay will discuss both sides in this debate.
+
+	People are having a hard time reahing consensus on whether... Some think that...
+	I will analyze their thought in detail in the following text.
+		consensus: 共識
+
+	People still have mixed views on whether.... I will analyze this issue in this essay.
+	
+	Whether... is an issue that arouses controversy.
+		arouse: 引起
+
+	Today, heated debated has been going on about whether ... I will explore two main arguments often heard in this controversy.
+
+	Concerning the issue of whether..., I tend to believe that... --for the following reasons.
+
+	Public concern has arisen about... I personally believe that... --for three reasons.
+
+	Whether ... has been a highly debatable issue.
+
+	The issue of whether ... has caused quite a stir.
+
+
+	(十天突破雅思寫作p158)
+	開頭段的替換詞選擇：  
+		注意：用詞不是愈大、愈難愈好，適合自己水平的即可。
+
+	在當代
+	In the present age= In this day and age = In present-day society = Today = At present = In current society = In the contemporary world = In contemporary society = Nowadays
+
+	眾所周知
+		It is generally (widely/commonly/extensively/universally) believed that…
+		It is generally (widely/commonly/extensively/universally) accepted that...
+		It is generally (widely/commonly/extensively/universally) acknowledged that...
+		It is generally arguable that... 
+			(arguable 可論證的)
+		We are all agreed that...
+		It is a well-known fact that...
+		It is popular/common belief that...
+	愈來愈重要
+		plays an increasingly key (or crucial/essential/vitally important/significatn/critical/indispensable ) role in....
+
+	以驚人的速度向前發展
+		is advancing at an amazing (staggering/astonishing/meteoric/astounding/drastic/rapid/accelerated/unprecedented) speed in present-day society.
+
+	愈來愈流行
+		is increasingly prevalent/ popular in the contemporary world
+
+	徹底改變我們的生活：
+		has transformed = fundamentally changed = completed changed our lives
+
+	(負面背景) 的問題愈來愈嚴重
+		The problem of ... is becoming increasingly severe (or grave/serious/worrying/ disturbing/worrisome)
+
+
+第二段開頭：引出話題的可能替換句型
+	But in the mean time, whether... has become a highly debatable issue.
+
+	However, whether...has sparked 	       spirited  debate  是否……這個問題不同的人持不同看法。
+						   aroused         heated
+						   given rise to
+						   created 
+						   caused
+						   provoked
+						   triggered
+
+	But when it comes to 	whether... people hold divergent      views 
+		with respect to 						   contrasting
+		regarding								   conflicting
+		Concerning        						   contradictory
+		as for                                     opposing
+		when asked about                           different
+
+	Yet at the same time, people are divided over whether...
+
+	However, there is no consensus on whether... yet.
+
+	But meanwhile, whether... is an issue open to debate.
+
+	However, in the meanwhile whether.... constitutes a controversial issue.
+
+	可能用到的詞還包括了：
+
+	Compelling arguments can be made that...
+	Undeniably,...
+	Indisputably,...
+	On the one hand, it is arguable that...
+	There is no denying that...
+
+	True,...
+	It is true that...
+	It is evident that...
+	It is apparent that....
+	It is obvious that...
+	It is clear that...
+	It is manifest that....
+
+
+第二段可以用到的連接詞，
+
+	首先：First, Firstly,
+		In the first place
+		To begin with
+		To start with
+		For one thing
+		The first point with respect to this is that...
+
+	其次Second
+		Secondly,
+		In the second place,
+		Then,
+		Moreover,
+		Further,
+		Furthermore,
+		Besides,
+		For another
+	最後Lastly,
+		Finally,
+		Last but not least,
+		More importantly,
+		Above all,
+		Additionally
+
+
+第二段第三句之後可以用到的連接詞：
+	therefore,
+	thus,
+	hence,
+	consequently,
+	as a consequence,
+	as a result
+
+第二段第五句開頭可能用到的詞：
+	Specifically,
+	More precisely,
+	More exactly,
+
+第二段第七句可能用到的詞：
+	In other words,
+	By that I mean
+	This makes sense in that...
+	As a matter of fact
+	... that is to say...
+	This is true in that...
+	In fact
+	It seems that...
+
+
+
+第三段開頭：轉述原題觀點可能用到的寫法
+
+	Some people = some = some individuals
+
+	think = believe = say = argue = maintain = contend = assert = insist = aver = claim
+
+第三段可能用到的詞語跟句型：
+	Admittedly
+	It may be tempting to argue that...
+	Granted,...
+	On the other hand, colorable arguments can be made that...
+	I admit that 
+	I conced taht...
+	I would agree that
+	I recognize that...
+	I would acknowledge that...
+	Surely,...
+	To be sure, ... 
+
+第三段第二句可能用到的句型： (讓步段)
+	The reason si that...
+
+	This is because...
+
+	The main reason for this is that...
+
+	The fundamental reason for this is that...
+	This is due to the fact that...
+	This is reasonable to the extent that...
+
+	this is valid insofar as ...
+	this argument has considerable merit in that...
+
+	extent:程度
+	insofar as:  conj. (insofar 後面只能加as) to the degree that...(程度)
+
+第三段 第三句可能用到的詞：(讓步段)
+
+	obviously,
+	clearly,
+	it is manifest that...
+	apparently,
+	evidently
+
+第三段：第四句(讓步段)
+	Even so, 
+	Nonetheless,
+	Still
+	Nevertheless,
+	However,
+	Despite that,
+	But closer examination would reveal that...
+	But further analysis would make it clear that...
+	Having said this, however,...
+
+第三段，第五句
+	For instance, 
+	for example
+	one illustration of this is ...
+	A case in point is...
+
+第四段開頭：給出自己論點會用到的句型
+	1:if 是兩種觀點要你辯論
+	As far as I am concerned, I am in favor of the former (or latter) view.
+	
+	As far as I am concerned = To (or In ) my mind = From my own perspective
+
+	Speaking for myself, I think ... = Personally, ...  = In my view, ... = As I see it...
+
+	In favor of = favor = support = incline towards = side with
+
+	View = opinion = point of view = notion
+
+	２：if題目只有一種觀點，而你主要是偏向支持方：
+	Personally, I agree with their view, but I would qualify it to some extent (or somewhat).
+
+	Personally, I think their view has considerable merit.
+
+	Speaking for myself, I agree with their proposition, wiht certain qualifications.
+
+	Personally, I sympathize with their view. 
+		sympathize: 同情
+
+	To my mind, the merits (or strength/strong points) of their view outweigh (or prevail over/outbalance) the demerits (or weakness/weak points).
+
+	I can agree with the view, but with reservations.
+
+	As I see it, there is more to it than that.
+
+	Speaking for myself, I am of mixed opinions about this issue.
+
+	3: 如果原題裡只有一種觀點，而你偏向反對方
+	Personally, I think their view is only partly true.
+
+	Personally, I find this view ill-founded (不成立)
+
+    Personally, I think this view is specious at best.
+
+    at best不需要加the, 此為adv  ，意思是"最好"
+    	ex: If he drops the course now, at best he’ll get an incomplete, and he could fail.
+
+    Personally, I think this view overlooks important factors of this issue.
+
+    I think their view is overly simplistic.
+
+    I think their view is over generalized.
+
+    I found their view unconvincing (or unpersuasive/problematic/somewhat) untenable
+    	persuasive 有說服力的/unpersuasive沒說服力的
+    	problematic 有問題的
+    	somewhat 有些
+
+    	untenable: adj  站不住腳的。
+
+    I think their view amounts to an oversimplification.
+
+  
+結尾段可能用到的詞：
+開頭：
+	In summary/To sum up, in sum, In the final analysis
+	Based on all the arguments offered above
+	On the basis of the above discussion
+	Having considered all the arguments above
+	Personally.../ Speaking for myself...
+
+	concede = admit = recognize = acknowledge = agree
+
+結尾第二段可能用到的詞：
+	Despite that
+	Nevertheless
+	However
+	Yet
+	But
+	Nontheless
+	Still
+	Even so
+
+結尾第三句開頭可能用到的詞：
+	On balance
+	Overall
+	Therefore
+	Accordingly
+	As a result
+	As a consequence
+	Hence
+	Thus/For this reason/To conclude/ In conclusion
+	I am convince that = I believe = I would assert that = I would conclude that...
+
+
+
+

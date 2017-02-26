@@ -1,0 +1,518 @@
+(Academic 使用，General不用準備)
+
+Diagram:
+ Writing的第一個part, 因為佔的分數比較少，一般建議使用20分鐘左右將之寫出來。
+ 通常字數限制是 150字以上。
+
+ 主要是table , line graph, bar chart, pie chart四大類圖表
+ 	寫法十分固定，屬於基本分，務必在考前至少把四種圖表寫過一次。
+
+
+準備動作：
+	1: 仔細審題
+		-單位
+		-數字如果不精確的話，可以使用大約 around/about/just over/just under/approximately
+		也允許目測數字
+
+	2: 確定主體寫幾段：
+		開頭、結尾段是一定要寫的。
+		主體的話則是最重要的地方，直接決定圖表題的成敗，分段分好，怎麼寫都好寫，分不好的話怎麼寫都亂
+
+		一般來說，如果是兩張圖表的比對，
+		或是一張圖表但是有兩條不同的線，  一般是寫兩段。
+
+		還有一種是只有給予一張圖，裡面只有幾種元素，或是一條線，那麼就只需要寫一個主體段即可。
+
+		有些則是那種M*N的圖表：那麼主體段切成m段或是n段都不錯。看其xy軸來決定。
+
+	3: 確定每部份的結構：
+		開頭段： 		 1~2句  改寫原題
+		主體段 1~n段  1+x句  主體段第一句總體概括，x句具體介紹數字
+		結尾段： 		 1~2句  結尾段第一句介紹總數(如果有總數的話)，第二句話作總結，
+							總結只要是依圖表的數據給出的合作規律就可以，並不是只有一個固定答案
+
+	4: 主體段的時態由題目的時間決定：如果題目給的是過去或著將來的時間，需要調整時態。
+
+開頭段：轉述原題通常以
+	1: 增加單詞
+	2: 刪除單詞      三種方法為主，不要改動過多，3~4處即可。
+	3: 替換單詞      
+
+	開頭段的時態永遠是用一般現在式。
+
+
+
+替換字詞：
+	the UK		Britain  (注意是tain)
+				British: 英國人、英國人
+				UK residents 英國居民...etc(residents要祝情況替換，不是所有的都可以用。)
+
+	THE US 		USA, America
+
+	country		nation
+	countries	nations
+
+	proportion  percentage
+	information	data
+	number		figure
+	family		household
+	males		men
+	females		women
+	influence	affect(v.)/effect(n.)
+	categories	kinds/types
+	demand		need
+	subway		underground railway
+	store		shop
+	university	college
+	show		describe/illustrate/demonstrate/summarize/outline/indicate
+	poor  		proverty 
+
+	graph      視圖形可以改成line graph, pie chart, bar graph,...etc
+
+
+Ex:
+	原題目：
+	The graph and table below give information about water use worldwide and water consumption in two different countries.
+	Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+	可以改寫成：
+	The line graph describes data about water use worldwide while the table shows information about consumption in two different countries--Brazil and Congo.
+
+	就可以完第一段的介紹了
+		(替換字詞是增加分數的重點，盡可能的找到4、5個字來作替換。)
+
+ex2:
+	原題目：
+	The graph below shows the proportion of the population aged 65 and over between 1940 and 2040 in three different countries.
+	Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+	可以改寫成：
+	The line graph indicates the percentage of the population elders(aged 65 and over) between 1940 and 2040 in three different nations -- Japan, Sweden and USA.
+
+	(替換了graph--> line graph, proportion --> percentage,  countries -->nations, aged 65 and over --> elders 四個詞)
+
+
+主體段：
+	1+x句：第一句總概括本段 X句按順序介紹數據
+	第一句用來概括總體變化趨勢或是概括由幾部份組成。
+		有時間變化的圖：比如多數的line graph or bar chart, 概括總體趨勢(上升、下降、波動)的情況比較多。
+		沒有時間推移的：如pie chart, table 則多數使用概括組成的部份情況。
+
+	後面的X句是"具體"的數據介紹， 主要把握三個重點  
+			(可以發現：介紹數據是相當機械化的事情，沒有太多技術涵量。)
+		1: 數據盡可能按照順序介紹
+		2: 取捨數字的原則是：如果題目的數字很少，就盡量多介紹一些，否則有可能導致文章字數無法達到要求。
+		   但如果數字很多，是允許合理捨棄一些非特徵數字的。
+		   但是：
+		   ．起點、拐點、終點、特徵點之間的變化趨勢   -- 這四種數字絕對不能捨棄。
+		   ．line graph的交點，如果時間夠的話也可以介紹一下。
+
+		   還是一句話：題目是考驗英文描述數字的能力，不是考數學，所以重點在介紹數字。
+		3: 考前請認真研究table, line graph, bar chart, pie chart四種範文各一篇。
+
+
+ex:
+	We can see from the table that the non-book club member figures are made up of sales to college staff, college students and members of the public. More specifically, college staff bought 332 magazines, 44 fiction and 29 non-fiction books while college students bought 1249 magazines, 194 non-fiction books and 31 fiction books. More magazines were sold to college students than any other groups of customers.  In contrast, although non-fiction books were sold to members of the public, they bought 122 non-fiction books and 82 magazines.
+
+
+ex2:
+	As we can see from the line graph, the number of people using this station fluctuates over these 16 hours. More specifically, at first at 6 am the number of people at the station stands at only 100. Then, the number shoots up over the next two hours, peaking at 400 at 8am. After that, the number declines rapidly for two hours, bottoming out at 180 at 10 am. The period between 10 o'clock and 12 o'clock experiences a slight growth in the number of people in the station, with the number reaching 280 at midday. Numbers in the following two hours level off at just under 300 people. From this point onwards, the number plunges to only 100 from 2pm to 4pm. The next two hours experiences a sharp rise again, with 6pm arriving at 380 people. After 6pm, the number falls again, reaching the low point of 130 at 8pm. The period from 8pm to 10pm sees a slight rise, but finally the number of people declines again from 180 at 9pm to 135 at 10pm.
+	
+	例二中，大量使用了表示時間推移的短語，如at first (initially), then, after that, from this point onwards, finally(eventually) 。這些詞組可以打破不斷有如at 6 o'clock, at 8pm 等光粹時間的單調感。
+
+	fluctuates 波動 (重要字，必背)
+	ex: 
+		Vegetable prices fluctuate according to the season.
+		Her wages fluctuate between £150 and £200 a week.
+		Her weight fluctuates wildly.
+
+
+
+其他固定會用到的開頭(不需要全背，大概只需要會3個左右即可)
+主體段第一句開頭
+	According to the 			{chart/graph/table}, ...
+	As shown in the             			       , ...
+	As can be seen from the             		   , ...
+	We cn see from the 							   , ...
+	In is manifest from the 					   , ... 
+
+主體段第二句開頭：
+	To be more exact, ... = More exactly
+	To be more precise, ...  More precisely
+	To be more specific, ... = More specifically
+
+主體段中會用到的各項動詞： (大約每一項只需要背三個左右即可。)
+上升：
+	go up (went up)
+	increase (increased)
+	rise (rose)
+	ascend (ascended)
+	grow (grew)
+
+	其中，rise, increase 也可以當作名詞。
+	使用名詞的上升、下降還可以使用an upward/downward trend來表達。
+	ex:
+	The consumption of chicken showed an upward trend, exceeding that of lamb in 1980.
+
+超過：
+	exceed
+	overtke
+	surpass
+
+急劇上升：
+	jump (jumped)
+	surge (surged)
+	shoot up (shot up)
+	soar (soared)
+
+	surge也可以當作名詞
+	ex:
+	The spending on researh and development soared to 2.7 illion pounds in 1990.
+
+下降：
+	decline
+	fall
+	drop
+	sink
+	dip
+	decrease
+	descend
+
+	decline, fall, drop, decrease也常作名詞用。
+	ex: 
+	The figure for the US dipped to only 4% for much of this period, which was the lowest in the figures for these countries.
+
+	dip:
+		1:  v.下降to go down to a lower level 
+			ex: House prices dipped in the first three months of the year.
+		2:  v. put in to the liquid (丟入水/液體中)
+			She dipped her toe into the pool to see how cold it was.
+			Dip the fish in the batter, then drop it into the hot oil.
+急劇下降：
+	plummet  
+	plunge
+
+	ex:
+	The average price of tennis racquets plummeted to 79 pounds in 1990.
+
+由……組成的
+	be made up of 
+	consist of
+	be composed of
+	comprise/be comprised of
+
+	ex:
+	Households that consisted of only one parent or a single adult were less like to be poor (7%).
+
+波動 (必背)
+	fluctuate v.
+	fluctuation n. 常常用作fluctuate between ... and ...
+
+	ex
+	In spite of some fluctuations in the expected percentages, the proportion of older people will continue to rise in the next two decades.
+
+穩定在一個水平上
+	level off at
+	level out at
+	hover at
+	stabilize at 
+	rached a plateau at
+	remain stable at
+
+	ex:
+	Its consumption levels remained stabe at around 14% over the three decades.
+
+到達最高點
+	peak at 
+	reach the peak at
+	reach the highest point at
+
+	(peak可以當動詞或是名詞使用)
+到達最低點
+	reach the bottom at 
+	the lowest point at
+	bottom out at
+
+到達多少數量
+	reach 
+	arrive at
+	amount to 
+	hit 
+	register
+	stand at
+
+佔多少 (接% 或是數字)
+	account for 
+	represent
+	constitute
+	make up
+	occupy
+
+	ex:
+	In 2003, men constituted 53% of Master's graduates.
+
+對將來數字的預測 (注意這三個動詞常常是以被動形式出現)
+	expect
+	predict
+	project
+	
+	ex:
+	The proportion of elderly people in all three countries is expected to increase to almost 25%.
+
+表示速度快 (Adj/adv)
+	sharp,
+	rapid
+	* dramatic  (dramatically)
+	drastic
+	* steep
+	(dramatic, steep較少人使用，若是剛好有的話可以嘗試使用)
+
+	ex:
+		A more dramatic rise is predicted between 2030 and 2040.
+緩慢的，逐漸的或是持續 (adj/adv)
+	gradual (gradually)
+	steady  (steadily)
+	consistent
+	gentle  (gently) 溫和的
+	slow
+
+	(gradually/steadily 特別常用。  表示持續穩定地(上升或是下降)
+
+	ex:
+	The number of people working as scientists and technicians in industrialized countries increased steadily fro m55 to 85 per 1000 people between 1980 and 1990.
+
+大幅度 (adj/adv)
+	marked
+	significant
+	substantial (substantially)
+		(另外：substantially 跟considerably 都是很常用的重要副詞)
+	The consumption of fast food also declined, but much less significantly.
+
+小幅度 (adj/adv)
+	modest
+	moderate
+	slight
+	marginal
+
+	ex:
+	Italy's spending on personal stereos is only marginally greater than that of Germany.
+
+大約  (adv)
+	about
+	around
+	* approximately
+	roughly
+	* just over
+	* just under
+
+	ex:
+	In 1940 the proportion of people aged 65 and over stood at approximately 7% in Sweden
+		(stand at是到達-->必背)
+
+分別 (adv)
+	respectively (用在句子結尾, 表示兩組元素分別對應。)
+
+	ex:
+	During this 25-year period the consumption of beef and lamb fell dramatically to approximately 100 grams and 55 grams respectively.
+
+類比：
+	Similarly, /Likewise,... (類似的，…多用在句首來引出類比)
+
+	ex:
+	Similarly, in terms of the number of years of schooling received we can see that the length of time people spent at school in these countries was much greater in 1980.
+對比
+	Unlike..., ...				(與……不同，多用在句首表示對比)
+	In comparison, ...			(比較來說, ...)
+	By/In contrast				(對比來說, ... )
+	A ... while/whereas B...	(A......而B則...)
+
+	ex:
+	In Australia, coal was the fuel for 50 units of electricity produced in 1980.
+	By contrast, France used coal as a source for only 25 units of electricity in the same year.
+
+注意：
+	task 1的單字有一點特別的點：
+	同樣意思的詞，用冷門的字會比較容易拿高分
+
+	除了快慢、上升、下降等字以外，  其他的如佔…穩定、逐漸 這些字很容易被忽略，但這些字是拿高分不可缺少的單字…
+	務必每組至少背1~2個，比且在task 1裡面積極使用。
+
+	account for +數字/百分比
+	level off at + 數字, 
+	gradually/ steadily/consistently 這種冷門字很重要。
+
+
+注意2：時態
+	時態與發生時間一一對應
+	由圖表展示/看出... etc一定是現在式
+	ex:
+	The line graph shows/illustrates/outlines/describes/is made up of/consists of...,
+	We can see from the bar chart that...
+	It can be seen from the pie chart that...    (that後面的動詞需要跟據題目所給的時間確定時態)
+	It is clear that...
+	The figures in the table indicate that...
+
+	如果題目沒有給時間的話，全文使用現在式。
+	其他的話需要看題目所給的時間決定時態，介紹過去的數據就用過去式，未來的數據就用未來式。
+
+
+=====================================
+
+高分範例： (不含結尾段)
+需要七分以上的同學需要把每個類型讀過一次
+
+題目： (十天突破雅思寫作p213)
+The chart below shows the amount of leisure time enjoyed by men and women of different employment status in March, 2002.
+	Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+Write at least 150 words
+
+第一段：使用前面講述的方式來轉換題目
+	The bar chart indicates the data of leisure time enjoyed by males and females of different job status in the month of March, 2002.
+
+主體段 使用1+ X句的結構，注意每一段第一句，第二句的句子使用的連接詞
+We can see from the bar chart that in the employed full-time, unemployed and retired groups, men enjoyed more leisure time than women. Specifically, men employed full-time had 48 hours of leisure time while their female counterparts only enjoyed 38 hours. In the unemployed group, men enjoyed 85 hours of leisure time whilst ladies only had 75. In the retired category, males had 83 hours of leisure time whereas female retirees had less than 75.
+
+According to the bar chart, in the employed part-time and housewife groups, only figures about women are given. More precisely, female part-timers and housewives had 39 and 52 hourse of leisure time, respectively.
+
+	注意主體段使用的連接句
+	We can see from the bar chart that...
+	Specifically,
+	while,
+	whilst   = at the same time( 同時) = while
+	whereas 連接詞
+
+	According to the bar chart,
+	More precisely,
+	respectively.
+
+=====================================
+高分範例2： (不含結尾段)
+
+題目(含一張line graph and a pie chart)
+The graph below shows the demand for electrictiy in England during typical days in winter and summer. The pie chart shows how electricity is used in an average English home.
+	Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+Write at least 150 words.
+
+第一段： 題目改寫：
+	The line graph describes the need for electricity in England during typical days in winter and summer while the pie chart illustrates how electricity is used in an average English household.
+
+主體段：
+	這題明顯需要寫兩段，第一段寫line graph, 概括冬天和夏天的用電量都是fluctuate(波動)，然後抄具體數字，第二主體段則是寫pie chart. 照1+X句的寫法來處理。
+
+	Then, it can be seen from the pie chart that the electricity is used for four purposes.
+	Specifically, heating rooms and water accounts for the largest proprotion (52.5%) of the electricity used while the demand of ovens, kettles and washing machines makes up 17.5% of the total need of electricity. Lighting, TV and the radio represent the same proportion (15%) as do vacuum cleaners, food mixers and electric tools.
+
+		注意其連接詞：
+		Then
+		Specifically
+
+		accounts for
+		makes up
+		represent
+===============================
+
+結尾段： 1 ~ 2 句，第三句寫總數，第二句寫結論
+	重點：
+		主體段並不適合寫總數，但是放在結尾段的第一句很適合，也有助於結論。
+		但題目如果沒有寫總數，就不要寫了，直接寫一句話作總結即可。
+
+		結尾只要合理即可。不需要太過深奧
+
+		如果題目裡面有兩個或者多個圖的，一般結尾段的結論是通選圖之間的比較得出來。
+
+		也可以依常識+圖表來作結論：
+		比方說銷售量、用電量…等一般會用來找出尖峰時段或是賣最好的產品…所以可以指出最高的比例值，或是最低的比例值來作結尾。
+
+		結尾段的時態也是由題目的時間決定的。
+
+ex:
+	The total number of sales for the month was 3134 (1474 to college students, 405 to staff, 204 to the public and 1051 to book club members). 151 books sold were fiction and 1287 were non-fiction.
+
+ex2: (同題目，但只找出最高的選項)
+	Therefore, it can be clearly seen from the table that magazines accounted for the greatest numbers of sales (1696).
+
+ex3: (找出尖峰時刻的值。)
+	Therefore, it can be clearly seen from the line graph that the most people use the subway station during the rush hours in the early morning and the early evening.
+
+
+=========================
+完整範例：(十天突破雅思寫作p216)
+
+You should spend about 20 minutes on this task.
+	The charts below give information about USA marriage and divorce rates between 1970 and 2000, and the marital status of adult Americans in two of the years.
+
+	Summarize the information by selecting and reporting the features, and make comparisons where relevant. 
+
+Write at least 150 words.
+
+The first bar chart shows data about American marriage and divorce rates between 1970 and 2000 while the second bar chart describes information about the married status of adult Americans in 1970 and 2000.
+	(注意第一段使用的while連接詞來連接兩張圖表的敘述)
+
+
+According to the first bar chart, the marriage rate was consistently higher than the divorce rate over the thirty-year period. More precisely, in 1970 the number of marriages stood at 2.5 millions whist the number of divorces was 1 million. Then, the number of marriages remained stable at this level over the next ecade whereas the number of divorces increased to 1.1 millions over the same period. After taht, the number of marriages gradually declined to 2 millions in the next twenty years. The number of divorces also experienced a downward trend (1.4 millions and 1 million in 1990 and 2000, respectively).
+
+The second bar chart clearly shows that married people accounted for the greatest proportion of the adult American population in both 1970 and 2000(70% and 59%, respectively). As for other categories, the percentage of Americans adults who were never married was 14% in 1970 and 20% in 2000. By contrast, people who were windowed represented 8% of the population in 1970 and 6% in 2000. divorced couples constitued represented 8% of the population in 1970 and 6% in 2000. Divorced couples constituted represented 8% of the population in 1970 and 6% in 2000.  Divorced couples constitued only 2% of the entire population in 1970 but in 2000, this figure amounted to 9%.
+
+Therefore, it can be clearly seen from the charts that the USA marriage rates were substantially higher than the divorce rates over the three decades and married population made up the largest proportion of the whole population in both 1970 and 2000.
+
+=========================
+完整範例 2：(十天突破雅思寫作p218，圖在p200)
+You should spend about 20 minutes on this task.
+	The graph below shows radio and television audiences throughout the day in 1992.
+	Summarize the information by selecting and reporting the main features, and make compparisons where relevant.
+
+Write at least 150 words.
+
+The lne graph indicates the data of radio and TV audiences in 24 hours (6am to 6am the next day) in 1992.
+
+As can be seen from the line graph, there was a slight rise in the number of TV audiences from around 3% at 6am to about 7% at 8%. Then, from 8am to noon, it remained stable. After that, the number of audiences rose sharply until 8pm, peaking at just over 40%. From this point onwards, the number declined fast to around 4% at 6am the next morning.
+
+According to the line graph, unlike the TV audiences, the number of radio audiences increased rapidly from 6am (4%) to 8am, raching the hihgest point at 27%. Then, in the next 22 hourse, the number decresed gradually, with a slight rise from 4pm to 5pm and around 11pm.
+
+Therefore, it can be clearly seen from the line graph that before 1pm, the number of people who listened to the radio was larger than the number of people watching TV. After that, more UK residents chose to watch TV instead of listening to the radio. Overall, in these 24 hours, the TV audiences were larger than the radio audiences. 
+
+
+=====
+相似連接詞解釋：
+http://wenda.guixue.com/article/921
+http://ielts-simon.com/ielts-help-and-english-pr/2010/11/ielts-grammar-while-whilst-whereas-as.html
+
+
+While and whilst are the same, but whilst is a bit more formal (according to one famous grammar book).
+
+Whereas is always used for contrast. While/whilst can be used for contrast, OR to mean "at the same time".
+
+As can mean "because" or "exactly at the moment when".
+
+
+
+while, whilst 兩個字意思相同，都表示同時(at the same time), 但是whilst比較正式。
+在寫作時可以兩字替換。
+	可以用在前後意思相近，或是相反都可以。
+
+whereas 則只能用作"對比" (A與B相反)
+	A ... while/whereas B...	(A......而B則...)
+
+as = becasue (因為)
+
+
+however和whereas
+
+You can't use 'however' and 'whereas' in the same way. Follow these general rules in order to avoid grammar mistakes:
+However和whereas的用法不同。请遵守下面的规则，以避免错误。
+
+Use 'however' (followed by a comma) at the beginning of a sentence to contrast with the previous sentence:
+在句首使用however（后面要加逗号）来表示和前一句意思相反。
+
+Some people believe that schools are responsible for the behaviour of their students. However, others argue that discipline is the responsibility of parents.
+
+Use 'whereas' (after a comma) to contrast two ideas in the same sentence:
+Whereas用于同一句内的两个相反意见（前面要加逗号）。
+
+Some people believe that schools are responsible for the behaviour of their students, whereas others argue that discipline is the responsibility of parents.
+
+You can use 'on the other hand' or 'by contrast' in the same way as 'however'. You can use 'while' instead of 'whereas'.
+
+On the other hand和by contrast的用法和however相同，而while和whereas的用法一樣。

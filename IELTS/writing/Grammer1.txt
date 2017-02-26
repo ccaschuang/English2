@@ -1,0 +1,115 @@
+the Seven: 常錯的七大類型文法錯誤。
+
+文法：
+高分技巧: 同一篇文章中，不要只固定使用簡單句或是複合句，多一些變化(加上連接詞、中間加上一、兩個複雜句…etc) 多變的文法可以拿高分
+
+Seven   英文最常犯的七大文法錯誤
+
+1:可屬名詞永遠不能單獨使用
+ex:
+	Employee can get more benefits from telecommuting than employer.
+
+問題：所有的可屬名詞，均需要加上限定詞或是ｓ
+	如The/an/a/this/that/my/your
+正解：
+	Employees can get more benefits from telecommuting than the employer.
+
+
+2: 動詞的使用時態：
+
+動詞不能當作主語：
+
+2.1 Wrong
+Work at home using modern technology can greatly enhance our efficiency.
+(應該改為Working 或是To work)
+
+Correct:
+	Working at home using modern technology can greatly enhance our efficiency.
+
+2.2 Wrong
+Children who are raise in improverished families can generally deal with problems
+more effectively in their adult years.
+(are 後面要加ing或是d/ed  不能加原形動詞)
+
+Correct ，改成raised
+	Children who are raise in improverished families can generally deal with problems
+	more effectively in their adult years.
+
+
+2.3 Wrong
+The problems that are created by environmental contamination is very hard to resolve
+
+詞性錯誤，The Problems是複數，不能用is
+Correct: 改成are
+The problems that are created by environmental contamination are very hard to resolve
+
+
+2.4: Wrong
+ Many students are like studying home economics.
+雙動詞
+
+correct:
+Many students like studying home economics.
+
+2.5 Wrong:
+	In present-day society, cultures were becoming very similar.
+	時態前後不同
+	(另外：議論文裡不常使用過去式)
+	正確：　were 改成are
+Correct:
+	In present-day society, cultures are becoming very similar.
+
+3: 動詞後是接副詞
+	Intelligent students should not be treated different by their teachers.
+	correct
+	Intelligent students should not be treated differently by their teachers.
+
+4:  介系詞用錯
+
+	Countries should pay attention on the disadvantages globalizaton may create.
+
+Pay attention 後面只能加to 
+	Correct:
+		Countries should pay attention to the disadvantages globalizaton may create.
+
+常見的還有
+	reason for
+	solution to/for (只有在極少數的數學等特殊情況用for,大多數只能用to)
+
+	ex: 
+		10 Good Reasons For Leaving A Job.
+
+		解決方法或方程式的解答，英文叫做 the solution to the problem 或 the solution to the equation，亦即 solution 後面慣用的介系詞是 to。然而，若是要求出方程式中某個未知數的值，那麼 solution 後面的介系詞必須用 for。
+
+		ex: 
+			Solutions to Debt Problems 
+			Solutions to win
+			The solution for y in the equation (a) is 5. (求出方程式(a) 中 y 的值是5)
+
+5: 代名詞單、複數
+	Some parents do not obey traffic rules himself.
+
+	正確：himself 應該改成themselves
+	Some parents do not obey traffic rules themselves.
+
+
+6: 沒有加上連接詞
+	Some people think the internet only has positive impact, other people think it also has negative influence on our lives.
+
+	兩句句子以上，要加上連接詞，需要加上while
+	(書上介紹應該是要加上while，但我覺得用but比較好)
+	正確：
+	Some people think the internet only has positive impact but other people think it also has negative influence on our lives.
+
+7: 
+	There are a great many children think the main purpose of education should be to afford them pleasure and enjoyment.
+   There be句型後面的名詞，要再加上動詞時需要用ing
+   	把think 改成thinking
+
+   正確
+   	There are a great many children thinking the main purpose of education should be to afford them pleasure and enjoyment.
+
+
+
+
+
