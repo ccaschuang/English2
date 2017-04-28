@@ -193,3 +193,229 @@ Unfortunately,...
 By the way, ....
 Incidentally, ... 
 On top of all this...
+
+
+=========
+其他資料： 從coursea課程上的
+
+[English]Introduction, Announcement, Request, Apology Emails
+
+
+Introduction Emails
+
+
+Ex: 
+Subject:
+Introducing Sam Boyle, CPA Tax Specialist
+Meet Sam Boyle, CPA Tax Specialist
+
+
+Email內容：
+
+* Introduction 
+* Controlling Idea
+* Development
+* Conclusion
+
+
+
+Body: Reason for introduction
+
+In the end: add skill set 
+I am specially skilled at**_****_**____
+My skills include **_**___
+
+
+**Introduction : **
+ex:
+My name is George Brown, and I am with the Georgia Tech Language Institute in Atlanta, GA.
+
+ex2:
+My name is Elizabeth Brown, and I am a general manager at ABC, Inc.
+
+**Controlling Idea**
+ex: 
+I am interested in learning more about Coursera, and I would like more information about
+creating an online course.
+
+ex2 :
+I am very interested in your product. I will be your city, and I would like to visit your factory
+
+ex3: 
+Matt, I would like to introduce you to Sarah.
+
+**Development**
+(Use Wh question and answer)
+Give more information like Current Job/Role
+Additional contact information
+
+ex:
+I would like more information or links you have to help me in my process.
+
+
+//Template for introduction emaail
+
+Dear [first name],
+
+My name is [your name], and I’m a [job title] who works in [your location]. I’m reaching out because [reason why you want to speak with this person]. I’d love to learn more about [two or three things you’d like to learn from the person].
+
+I’m sure you’re busy, so even 20 minutes would be appreciated.
+
+Thanks so much,
+
+
+
+
+Announcement Emails
+
+Attract people's attention. Therefore , the language will be more bold, direct 
+
+Announcement is important email!!
+**Double check for errors before you click “send”**
+
+
+
+Rethink “What's missing?”
+
+**Introduction**
+ex: 
+The Language Institute is pleased to inform you that we now offer Business Writing courses
+in the evening.
+
+第二段則是加上細節，不一定要分段
+[Image: file:///-/blob/faHAAAYWvOn/3NOGslMF-BRNQayxkHwBmw]第三段：則跟第二段一樣，但是需要把who, where, why, how,when等資訊全部都要寫上去
+
+
+
+Request Emails
+
+Write more politely and Sincerely
+Please,
+Could, Would...?
+Would you mind...?
+would like
+
+
+Ex: 
+Please send me your resume.
+Please meet me today at 3:00PM 
+
+Could you send me your resume?
+Could you meet me at 3:00PM?
+
+Could you **please** send me your resume?
+Could you **please** meet me at 3:00PM?
+(Please要放在動詞前)
+
+Would you mind sending me your resume?
+Would you mind meeting me at 3:00PM?
+
+**Would like**←want的代替字
+I would like to meet you at 3:00PM
+(不要用want, 用would like較為polite)
+
+
+**Making 2nd Request:**
+1: add number
+   ex: 
+1: Please send me your resume
+2: Please include 3  references
+
+2: also
+ex: 
+Please send me your resume. Could you please **also** include three references?
+Could you please meet me at 3:00PM? I would **also** like to know the directions to your office.
+
+結尾加上
+Thank you.
+Sincerely thanks.
+I appreciate it.
+也可以加上理由
+Thank you for your time and effort.
+Thank you for your interest in our company.
+
+I appreciate  your time and effort
+I appreciate your interest in our company.
+
+
+
+
+
+**Apology Emails**
+I'm sorry
+
+I am sorry if...
+I am sorry that...
+I am sorry about...
+
+
+**I am sorry if (not sure of responsibility) **
+//用此法可以避免很像是在blame 對方
+  I am sorry if you didn't receive the resume I sent.
+  I am sorry if I didn't understand the directions correctly.
+
+**I am sorry that (100% sure of responsibility)**
+ex:
+I am sorry that the correct file  was not sent.
+I am sorry that our meeting next week needs to be cancelled.
+
+通常使用that的下一句會加上補救錯施
+ex:
+I am sorry that the correct file  was not sent.
+**I have included the correct file in this email.**
+
+I am sorry that our meeting next week needs to be cancelled.
+**Please check the new dates below at your convenience.**
+
+
+**I am sorry about (using for small slip-ups, errors) (small mistakes)**
+like *typos , spelling)
+
+ex:
+I am sorry  about confusion. I will send you a new document with correct address shortly.
+
+I am sorry about the inconvenience/delay.
+
+**差別：**
+I am sorry about是用在較小的問題，
+I am sorry that是比較嚴重的過失，所以通常會立刻寫下補救方法。
+
+
+
+**Culture **
+**Low Context Communication**
+     North America, Europe 主要都是這種方式
+     concise,straight forward只寫最少的字，直接回答、問重點
+**High Context Communication**
+    Middle East, Asia, Africa, South America多屬此類
+     non-explicit, descriptive, longer emails
+
+
+
+
+
+**Reference**
+
+Introduction Email template
+http://lifehacker.com/this-template-makes-introduction-emails-easier-1716092031
+
+More on an announcement email
+http://www.getvero.com/resources/guides/lifecycle-marketing/promotional-emails/
+
+Making requests more polite 
+http://www.businessenglishresources.com/31-2/teachers-section/skill-based-lessons/business-english-lessons-softening-phrases-to-make-polite-requests/
+
+More general information about requests as well as some on suggestions 
+http://www.grammar-quizzes.com/modal5.html
+
+Formal and informal expressions used for apologies 
+http://www.bloomsbury-international.com/blog/2013/10/18/how-to-apologise-in-english/
+
+High context / Low context 
+http://www.culture-at-work.com/highlow.html
+
+At this website you can find a clear explanation with some useful graphics of some of the differences and distinctions between high and low context cultures.
+More general information about high and low context traits that might affect writing emails http://www.marin.edu/buscom/index_files/Page605.htm
+
+Formal and informal expressions you might use in an email http://image.slidesharecdn.com/keyphrasesformalinformalforemail-131106220315-phpapp02/95/key-phrases-formal-informal-for-email-1-638.jpg?cb=1383775514
+

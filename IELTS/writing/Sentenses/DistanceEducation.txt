@@ -41,8 +41,39 @@ Tele-education/Distance education 遠距教學 (朗文雅思應考聖經 P106)
 	video conference: 視訊會議
 
 
+22: Technology is getting better and better, which means that distance education is becoming easier and more interactive; and that it can reach more people , and more easily cross economic geographic, gender and social boundaries, with a much broader range of subjects.
 
 
+26: Not having to commute adds as much extra time to the day as several hours a week for some students.
+	commute: 通勤
+27: Distance education cn also accommodate disabled students who often find it difficult to access educational opportunities.
+	accommodate: 1:容納 2: 遷就
+		ex: New students may be accommodated in halls of residence.
+			formal There wasn't enough space to accommodate the files.
+
+	    to give what is needed to someone:
+	    ex: 
+	    	The new policies fail to accommodate the disabled.
+
+28: To school administrators, distance education is alluring, because it can lower costs and help their institutions modernise and "get-digital"
+	allure: 引誘、誘惑(v. n.)
 
 
+Against: 
 
+1: Face-to-face contact can never be replaced.
+	Face-to-face contact: 面對面接觸
+
+2: It may lead to some side-effects including psychological problems such as isolation, selfishness, self-centeredness, introvertedness, egoism, stubbornness.
+	selfishness: 自私
+	self-centeredness: 自我中心
+	introvertedness: 內向
+	egoism = egotism: 自我主義、 ego:自我, egocentric: 自我中心
+	stubbornness: 頑固
+
+3: Students receiving tele-education to be socially unadaptable, lacking the necessary interpersonal skills.
+	socially unadapatable: 社會適應不良
+	lacking of the necessary interpersonal skills: 缺乏人際交往技巧
+
+4: Students fail to cultiviate teamwork spirit, cooperation and competition.
+	cultivate: 培養 = foster, train, nurture
