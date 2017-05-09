@@ -22,7 +22,7 @@ Tele-education/Distance education 遠距教學 (朗文雅思應考聖經 P106)
 9: Tele-education makes lifelong study possible.
 	lifelong study: 終身學習 = lifelong learning
 
-10: Tele-education caters to the needs of idfferent learners.
+10: Tele-education caters to the needs of different learners.
 	cater to: 符合、迎合
 		ex: 
 		I'm in the catering business - among other things - and I will be most glad to cater your 
@@ -77,3 +77,4 @@ Against:
 
 4: Students fail to cultiviate teamwork spirit, cooperation and competition.
 	cultivate: 培養 = foster, train, nurture
+
