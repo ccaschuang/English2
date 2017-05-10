@@ -30,3 +30,8 @@ astonish: v.震驚
 astonishing: 驚人的
 
 marvelous: 奇妙的、不平凡的
+
+magnificent adj.華麗的, 壯麗的
+  ex: One of its finest features is its magnificent wooden tower and spire which stand 240 feet high.
+magnet : 磁鐵
+magnify: 放大
