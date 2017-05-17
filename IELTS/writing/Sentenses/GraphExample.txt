@@ -37,22 +37,97 @@ Social unemployment rate kept around 20 % in Italy and Hungary .
 =========================
 The table demonstrates how different modes of travel changed in England in 15 years spanning from 1985 to 2000 .
 该表格展示了1985年到2000年，15年时间内英格兰不同出行方式的变化
-=========================
+
 In general , the modes are classified into two kinds in terms of average miles travelled per person per year : one enjoyed rising popularity while the other decreasing .
 总体看，根据每人每年旅行的平均公里数，可将该方式分为两种：上升和下降
-=========================
+
 The travel modes which gained popularity in the period included cars , long distance buses , trains , taxis and others .
 上升的出行方式包括汽车、长途汽车、火车、出租车和其他的方式
-=========================
+
 Long distance buses and taxis seemed to be warmly welcomed by travelers
 长途汽车和出租车看起来也比较受欢迎
-=========================
+
 Travels by walking , bicycles and local buses lost travelers ' favor in the one and a half decade .
 走路、自行车和公交车在15年时间内，越来越不受欢迎。
 
 =========================
 The table demonstrates how different modes of travel changed in England in 15 years spanning from 1985 to 2000 .
 该表格展示了1985年到2000年，15年时间内英格兰不同出行方式的变化
+
+The modes are classified into two kinds , one enjoyed rising popularity while the other decreasing
+该方式分为两种：上升和下降
+
+Bicycles and local buses lost travelers ' favor in the one and a half decade
+自行车和公交车在15年时间内，越来越不受欢迎
+
+Cars remained top among the modes in the 15 years
+在15年时间内，汽车处于领先地位
+
+Average travelling distance by local buses suffered the biggest decrease , dropping from 429 to 274
+公交车的平均公里数遭受巨大下降，从429到274
+=========================
+Switzerland and Denmark both witnessed a noticeable increase in the investment.
+瑞士和丹麦的投资都明显上升
+
+witness: n.證人、見證 v.目賭(see with one's eyes)
+	ex: Police are appealing for witnesses to the accident to come forward.
+
+(注意是用in the investment)
+
+Starting from 1975 , spending on research in Switzerland boomed to 2.6 dollars per person in the next five years
+从1975年开始，瑞士在随后的5年时间内，在研究方面的投入上升到每人2.6美元
+
+The chart illustrates the financial input on researching renewable energy of four countries .
+该图表展示了四个国家对于可再生能源研究的经济投入情况
+
+The period from 1980 to 1995 saw a moderate increase to final 2 dollars per person .
+1980年到1995期间，增长平缓，最终达到每人2美元
+=========================
+Compared with Spain and the UK , Switzerland and Denmark invested more on the research of renewable energy .
+与西班牙和英国比，瑞士和丹麦在新能源研究方面的投资更多
+
+=========================
+Spending , 5 dollars , in Switzerland was even more than the combination of the other three in the year of 2000.
+
+在2000年，瑞士每人5美元的投资额甚至比其他三个国家相加还要多
+=========================
+Likewise , spending in Spain increased from 0 to 1 dollar per person in five years .
+相似的是，西班牙的投资在前五年从0上升到每人1美元
+=========================
+Spending in Spain crept down to 0.8 with a mild fluctuation from 1980 to 2000
+西班牙的投资在1980年到2000之间，略带波动地下降到0.8
+
+creep down
+=========================
+The UK constantly invested the renewable energy research till 1985 ( 0.8 dollar per person ) .
+英国直到1985年，都在持续投资新能源研究，达到每人0.8美元。
+=========================
+Cost cut in the UK occurred during the rest 15 years
+在余下的15年时间内，成本削减在英国发生了。
+=========================
+Spending on research in Switzerland doubled in the following two decades .
+瑞士在研究方面的投入在之后的20年时间内翻倍。
+=========================
+Similarly , Denmark enhanced the economic support strikingly during the first and last five years .
+相似的是，丹麦在头5年和后5年，也加大了经济支持
+
+Spending in Denmark jumped by 1.7 dollars and 1 respectively in the first and last five years .
+丹麦的投入在头5年和后5年，都分别以1.7和1的差额增长
+
+In contrast , research expenditure in Spain and the UK experienced an obvious fluctuation in 15 years .
+相比之下，西班牙和英国的经济支出在15年时间内经历了一个明显的波动
+
+All four countries started their investment in renewable energy from 1975 .
+四个国家在新能源方面的科研投入都是从1975年开始的
+=========================
+The charts illustrate the data on electricity produced by various fuel sources
+该图表展示了用不同能源发电的数据
+
+
+
+
+
+
 =========================
 =========================
 =========================
@@ -61,13 +136,10 @@ The table demonstrates how different modes of travel changed in England in 15 ye
 =========================
 =========================
 =========================
-=========================
-=========================
-=========================
-=========================
-=========================
-=========================
-=========================
-=========================
-=========================
-=========================
+https://blog.cybertranslator.idv.tw/archives/2784
+Compare to 和 compare with 有時可以互換，有時則不行。當 compare 用作及物動詞時，compare to 和 compare with (更精確的寫法是：compare sth to/with sth) 是同義詞，意為「與…相比；與…作比較」，如 If we compare French schools to/with British schools, we find there are many differences. (如果我們將法國的學校與英國的學校作一比較，會發現有許多不同之處)；The results are then compared to/with the results of previous studies. (這些結果再與以前的研究結果作比較)。
+
+然而，compare to 除了上述意思外，還意為「把…比作；把…比喻為」，而這意思是 compare with 所沒有的，如 His poems have been compared to those of the English Romantics. (他的詩被拿來與英國浪漫主義的詩相提並論)；He usually compares women to roses. (他經常將女人比作玫瑰花)。當 compare 用作不及物動詞時，其後只能接介系詞 with (不可接 to)，意為「(與…) 相比；比得上」，如 It's a good university, but its architecture doesn't compare with that of the older institutions. (這是一所不錯的大學，但其建築無法與那些老牌的大學相比)；Taiwan's performance compares very favorably [unfavorably] with that of other Asian countries. (台灣的表現比亞洲其他國家好 [差] 很多)。
+
+Compare 的過去分詞形容詞 compared 亦可接 to 或 with，而兩者均意為「(與…) 相比；相較於」(注意：compared to 並無「把…比作；把…比喻為」之意)。因此，compared to 和 compared with 是完全可以互換的同義詞，並由此衍生出意思相同的 as compared to/with，而這幾個片語都相當常用：Compared to/with mine, your car looks new. (與我的車子相比，你的車看起來較新)；Beijing is large, compared to/with Taipei. (與台北相比，北京較大)；Compared to/with some of the things she's said, this was polite. (和她說過的一些話相比，這算是客氣的)；25% of school-age children smoke, as compared to/with 20% of adults. (學齡兒童有百分之 二十五抽菸，相較於成人的僅百分之二十)。
+
