@@ -35,3 +35,8 @@ magnificent adj.華麗的, 壯麗的
   ex: One of its finest features is its magnificent wooden tower and spire which stand 240 feet high.
 magnet : 磁鐵
 magnify: 放大
+
+excursion [ ɪkˈskɜ:ʃn ] n. （尤指集体）远足;短途旅行，游览;离题;[机]冲程
+词典例句
+She felt more than usually hungry after her excursion.
+远足后，她比平时感觉更饿。
