@@ -1,150 +1,224 @@
 同義詞替換
 	talent 才能
-	aptitude 天资；才能
+	aptitude 天資；才能
 
-	ridiculous 可笑的，荒谬的
-	absurd 荒谬的
+	ridiculous 可笑的，荒謬的
+	absurd 荒謬的
 
 	terror 恐怖
-	horror 惊骇，恐怖
+	horror 驚駭，恐怖
 
-	obtain 获得，达到
-	attain 获得，达到
+	obtain 獲得，達到
+	attain 獲得，達到
 
-	occurrence 事件；发生，出现
+	occurrence 事件；發生，出現
 	incident 事件
-	不同义的词为：
+	不同義的詞為：
 	coincidence 巧合
 
-	skeptical 怀疑的，多疑的
-	suspect 怀疑；猜想
+	skeptical 懷疑的，多疑的
+	suspect 懷疑；猜想
 
-同义的词为：
-	comply 遵守；顺从
+同義的詞為：
+	comply 遵守；順從
 	conform 符合，遵守
-不同义的词为：
-	frown 皱眉
+不同義的詞為：
+	frown 皺眉
 
-同义的词为：
-	release 发表；发射
-	issue 发行；问题
-不同义的词为：
-	respond 反应，回应
+同義的詞為：
+	release 發表；發射
+	issue 發行；問題
+不同義的詞為：
+	respond 反應，回應
 
-同义的词为：
-	ambiguous 模糊不清的，有歧义的
-	indefinite 不确定的，模糊的
-不同义的词为：
-	ubiquitous 无处不在的
+同義的詞為：
+	ambiguous 模糊不清的，有歧義的
+	indefinite 不確定的，模糊的
+不同義的詞為：
+	ubiquitous 無處不在的
 
-同义的词为：
-	acclaim 称赞，喝彩
-	applause 欢呼，喝彩
-不同义的词为：
-	exclaim 大叫，惊叫
+同義的詞為：
+	acclaim 稱讚，喝彩
+	applause 歡呼，喝彩
+不同義的詞為：
+	exclaim 大叫，驚叫
 
 indispensable 不可或缺的
 essential 首要的，重要的
 
-conscious 意识到的，有意识的
-aware 意识到的；懂…的
+conscious 意識到的，有意識的
+aware 意識到的；懂…的
 
 ascend 上升，攀登
 climb 上升，攀登
 mount 增加，上升；爬
-不同义的词为：
-adverse 逆境的，困难的
+不同義的詞為：
+adverse 逆境的，困難的
 
 
-journal 刊物，杂志；日记
+journal 刊物，雜誌；日記
 publication 出版物
-periodical 杂志，期刊  <--periodical
-press 报刊；新闻；印刷机
-不同义的词为：
-conference 会议；协商
+periodical 雜誌，期刊  <--periodical
+press 報刊；新聞；印刷機
+不同義的詞為：
+conference 會議；協商
 
-同义的词为：
+同義的詞為：
 designate 指定，指派
 allocate 分配，指定
 assign 分配，指派
-不同义的词为：
-sanction 制裁，处罚
+不同義的詞為：
+sanction 制裁，處罰
 
 
-同义的词为：
-	verify 证实，核实
-	justify 证明…合法，正当
-	testify 证明，证实
-不同义的词为：
+同義的詞為：
+	verify 證實，核實
+	justify 證明…合法，正當
+	testify 證明，證實
+不同義的詞為：
 	clarify 澄清
 
-同义的词为：
+同義的詞為：
 hold back 抑制
-hinderance 障碍物
-hamper 妨碍，束缚
+hinderance 障礙物
+hamper 妨礙，束縛
 
-damage 损坏
-spoil 破坏，糟蹋
-destroy 破坏
-wreck 破坏；失事；残骸
-ruin 毁坏
+damage 損壞
+spoil 破壞，糟蹋
+destroy 破壞
+wreck 破壞；失事；殘骸
+ruin 毀壞
 
 
 halt 停止，休息
-cease 停止，终了
-pause 暂停，间歇
+cease 停止，終了
+pause 暫停，間歇
 
-不同义的词为：
+不同義的詞為：
 shrewd 精明的 having or showing sharp powers of judgment; astute.
 	ex: 
 	she was shrewd enough to guess the motive behind his gesture
 
-luminous 清楚的；发光的
+luminous 清楚的；發光的
 
-summon 召唤，振作
+summon 召喚，振作
 
-frontier 前线，边界
+frontier 前線，邊界
 
 postulate 假定；要求
 
-flourish 兴旺，繁盛；挥舞，炫耀
+flourish 興旺，繁盛；揮舞，炫耀
 
 augment 增加
 
-同义的词为：
-sustain 维持；支持
-advocate 拥护，支持
-back 支持；在…后面
+同義的詞為：
+sustain 維持；支持
+advocate 擁護，支持
+back 支持；在…後面
 
-同义的词为：
-	evident 明显的
-	apparent 显然的，明显的
-	distinct 明显的；独特的
-	manifest 显然的，明白的
-不同义的词为：
-	obscure 晦涩的，难懂的
+同義的詞為：
+	evident 明顯的
+	apparent 顯然的，明顯的
+	distinct 明顯的；獨特的
+	manifest 顯然的，明白的
+不同義的詞為：
+	obscure 晦澀的，難懂的
 
 
-	broadcast 广播，传播
-	advertise 宣传
-	disseminate 宣传，散步
-	propagate 宣传，传播
+	broadcast 廣播，傳播
+	advertise 宣傳
+	disseminate 宣傳，散步
+	propagate 宣傳，傳播
 
 	ex:	try propagating your own houseplants from cuttings
 
 	similar 相似的
-	comparable 可比较的
-	analogue 类似的；类似物
-	parallel 类似的，相同的，平行的
-不同义的词为：
-	alive 活着的
+	comparable 可比較的
+	analogue 類似的；類似物
+	parallel 類似的，相同的，平行的
+不同義的詞為：
+	alive 活著的
 
-yield 产出；屈服
-* comply 遵守，顺从、執行，實現
-submit 提交；服从
-subject 主题；科目；服从的
+yield 產出；屈服
+* comply 遵守，順從、執行，實現
+submit 提交；服從
+subject 主題；科目；服從的
 	ex:
 		we are unable to comply with your request
 		all secondhand furniture must comply with the new standards
 
+augment 增加
+
+pension 撫卹金；養老金
+
+transcend 勝過，超越
+exceed 超過，勝過
+surpass 超越，勝過
+outnumber 數目超過，比…多
+outstrip 超過，勝過
+
+responsible 負責的，可靠的
+liable 易於…的；有責任的
+
+Water is pumped from the irrigation canals into the lagoons.
+釋義：水由灌溉運河中泵出，流入瀉湖。
+
+The sediment sinks to the bottom of the canals and then is added to fields by farmers or pumped with the water into the four large freshwater lagoons that are located near the outer edges of the delta.
+釋義：淤泥沉入運河的底部，然後被農民添加到土地上，或者被水沖到四個靠近三角洲外圍的淡水瀉湖中。
+
+Chimpanzees make particular noises when they are playing.
+釋義：黑猩猩玩的時候會發出特定的聲音。
+Chimpanzees have a 'play-face' - a gaping expression accompanied by a panting 'ah, ah' noise.
+釋義：黑猩猩有一種“玩耍狀態”－張著嘴，伴隨一種“啊，啊”的喘氣聲。
+
+
+popular 流行的
+* prevailing 流行的；盛行的；最普通的
+universal 普遍的，通用的
+
+	prevail: v: 戰勝、贏得
+		 I think it also possible that he has such a low opinion of her that he is determined that his opinions and views shall prevail over hers.
+	prevailing adj 1: 流行的；盛行的；最普通的
+				   2: 優勢　＝　superior, dominant
+
+
+同義的詞為：
+	demonstrate 證明，展示
+	illustrate 闡釋，說明
+不同義的詞為：
+	advocate 提倡，擁護
+
+The builders of pagodas knew how to absorb some of the power produced by severe weather conditions.
+釋義：寶塔的建造者知道如何吸收惡劣的天氣環境所產生的力量。
+Clearly, Japanese carpenters of the day knew a few tricks about allowing a building to sway and settle itself rather than fight nature's forces.
+釋義：很明顯，日本當時的工匠知道一些小技巧，使得建築能夠搖晃並使自身穩定，而不是跟自然力量直面對抗。
+
+There is plenty of scientific evidence to support photoperiodism.
+釋義：有很多科學證據支持光週期學說。
+The seasonal impact of day length on physiological responses is called photoperiodism, and the amount of experimental evidence for this phenomenon is considerable.
+釋義：日照時長對於生理反應的季節性影響被稱作光週期，這一現象的實驗證據的量是相當大的。
+
+
+prosper 繁榮的
+thriving 繁榮的，旺盛的
+不同義的詞為：
+depressed 蕭條的，沮喪的
+
+surrender 投降；讓步於
+yield 產生；屈服
+不同義的詞為：
+summit 頂峰；最高
+
+同義的詞為：
+impose 利用；強加，施加
+exert 運用，發揮；施加…影響
+
+fatigue 疲憊
+linguistic 語言的，語言學的
+
+同義的詞為：
+display 展覽，陳列
+exposition 博覽會；闡述，展覽
+exhibition 展覽，陳列
+presentation 展示，陳述
 

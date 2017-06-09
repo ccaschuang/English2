@@ -123,12 +123,33 @@ All four countries started their investment in renewable energy from 1975 .
 The charts illustrate the data on electricity produced by various fuel sources
 该图表展示了用不同能源发电的数据
 
+According to the charts , in 1980 , all sources produced 100 units of electricity in total .
+根据图表，在1980年，各种能源一共发电100单位
 
+Both Hydro power and natural gas contributed 20 units respectively
+水能和天然气分别贡献了20单位
 
+By 2000 , the total electricity production rose by 70 % to 170 units .
+到2000年，总电量以70%的比例上升到170单位
 
-
-
+Coal remained the dominant fuel source, producing 130 units ( about 75 % ) .
+煤在能源中占领先地位，共生产130单位电，占总体75%左右
 =========================
+Coal only produced 25 units and natural gas produced the same amount .
+煤仅生产了25单位，天然气生产了相同的数量
+
+The remaining 45 units were produced by oil , nuclear power and hydro power ( 20 units , 15 units and 5 units respectively ) .
+剩下的45单位电由石油、核能和水能生产，分别20单位、15单位和5单位
+
+Yet , by 2000 , nuclear power became the most important fuel source , generating 126 units .
+然而，到2000年，核能变成最重要的能源，发电126单位
+
+** 
+Notably , there was no contribution of nuclear power in Australia at all throughout the time .
+比较显著的是，这段时间内，核能在澳大利亚并未贡献力量
+
+Hydro power and natural gas , which became almost negligible , produced only 4 units .
+水能和天然气的贡献值微乎其微，一共仅生产了4单位
 =========================
 =========================
 =========================
