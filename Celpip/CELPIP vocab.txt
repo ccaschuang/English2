@@ -1,0 +1,284 @@
+CELPIP vocab
+http://www.tceducation.ca/en/wordlist-500/
+https://www.shanbay.com/wordlist/181570/509182/
+========================
+whine 抱怨
+
+wrap up
+
+waist 腰部
+
+vocal
+
+vibrant
+
+vandalism
+
+tan
+
+=========================
+
+assess	v. 估定, 評定
+	The insurers will need to assess the flood damage. They assessed the cost of the flood damage at £2,500.
+
+coherence	n. 粘附(附著, 結合, 凝聚, 相參性, 同調, 連貫性)
+	There was no coherence between the first and the second half of the movie.
+compare	vt.&vi. 比較,比喻,對照 n. 比較，對照
+
+contrast	n.對比，對照； 差異； 對照物，對立面； [攝]反差
+demonstrate	vt. 示範, 演示, 證明 vi. 示威
+elaborate	adj. 精細的, 詳盡的, 精心的 v. 詳細地說明, 用心地作, 推敲
+generalize	v. 使一般化, 概括，歸納
+gist	n. 要點, 要旨
+infer	vt. 推斷,猜測,暗示 vi. 推論
+interpret	v. 解釋, 演出, 翻譯 [計算機] 解釋
+outline	n. 大綱,輪廓,概要,略圖,素描 vt. 描畫輪廓,描述要點
+persuade	v. 說服 vt. 勸說,說服
+predict	v. 預知, 預言, 預報
+response	n. 反應, 響應; 回答
+=========================
+https://www.shanbay.com/wordlist/181570/509185/
+Emotions
+bashful	adj. 害羞的
+cautious	adj. 十分小心的, 謹慎的
+confident	adj. 確信的, 自信的
+anxious	adj. 焦急的, 憂慮的
+ecstatic	n. 狂喜的人 adj. 狂喜的
+exhausted	adj.耗盡的； 用完的； 筋疲力盡的； 精疲力竭的 v.用盡( exhaust的過去式和過去分詞 )； 使非常疲倦； 詳盡討論（或研究）； 弄空
+furious	adj. 狂怒的, 猛烈的
+gloomy	adj. 陰暗的,抑沉的,憂悶的
+guilty	adj. 有罪的, 內疚的
+horrified	adj.驚悸的,帶有恐怖感的,驚駭的
+indifferent	adj. 漠不關心的, 無重要性的, 中立的
+jealous	adj. 妒忌的,戒備的
+lonely	adj. 孤獨的,寂寞的,荒涼的
+surprised	adj. 感到驚訝的 vbl. 感到驚訝
+sympathetic	adj. 同情的,共鳴的 n. 交感神經
+
+=========================
+https://www.shanbay.com/wordlist/181570/509278/
+Environment and Nature
+
+botany	n. 植物學，植物
+deplete	vt. 耗盡,使...空竭
+ecosystem	n. 生態系統
+extinction	n.熄滅； 消滅，滅絕； 廢除； [物]消光，自屏，衰減
+fauna	n. （某地區或某時期的）所有動物
+flora	n. 植物, 群落 （大寫）Flora：[羅神]花神弗洛拉，弗洛拉（女名）
+geology	n. 地質學，（某地區的）地質情況，地質學的著作
+global	adj. 全球性的, 全局的
+impact	n. 衝擊(力), 衝突, 影響(力) vt. 擠入, 壓緊; 撞擊; 對...發生影響
+pollution	n. 污染, 污染物
+reserve	n. 預備品, 貯存, 候補 n. 克制, 含蓄 vt. 保留, 預訂, 延期
+resource	n. 資源,謀略,消遣
+substance	n. 物質,實質,內容,重要性,財產
+summit	n. 頂點;最高階層 vi. 參加最高級會議,爬到最高點
+toxic	adj. 有毒的 n. 有毒物質
+=========================
+https://www.shanbay.com/wordlist/181570/509281/
+Health
+
+acute	adj.尖的，銳的； 敏銳的，敏感的； 嚴重的，劇烈的； [醫]急性的, 激烈的, 尖銳的
+antibiotics	抗生素
+bacteria	n. (複數)細菌
+cancer	n. 癌,巨蟹座
+chronic	adj. 長期的,慢性的,慣常的
+effect	n. 結果, 影響, 效果; 要旨 vt. 招致, 引起; 實現, 達到
+infection	n. 傳染, 影響, 傳染病
+insomnia	n. 失眠(症)
+medical	adj. 醫療的,醫學的,藥物的,需治療的
+metabolism	n. 新陳代謝
+muscle	n. 肌肉 vt. 用力擠 vi. 用力進行
+nauseating	adj. 使人噁心的
+nutrient	adj. 營養的,滋養的 n. 營養物,營養品
+pulse	n. 脈衝,脈波,脈搏 vt. &vi. 跳動,脈跳
+unbalanced	adj. 失衡的, 精神失常的, 判斷不可靠的 動詞unbalance的過去式和過去分詞
+=========================
+Computer
+audio	adj. 成音頻率的,聲音的 n. 音響設備
+backspace	vi. 按退格鍵 n. 退格鍵
+button	n. 鈕扣,徽章,像紐扣的東西,未成熟的蘑菇,按鈕 vt. 用紐扣裝飾,釘紐扣,閉嘴 vi. 扣上
+click	n. 點擊,滴答聲,拍答聲 vt. 點擊,作滴答聲,使...作拍答聲 vi. 擊打,完全符合,成功,以點擊的方式選擇
+cursor	光標
+delete	vt. 刪除
+enter	vi. 進入,參加,開始,上台,進入角色 vt. 進入,報名,開始,加入,報價,提出 [計算機] 送入
+headset	n. 頭戴式耳機
+keyboard	n. 鍵盤 vt. 用鍵盤輸入(信息)
+monitor	n. 監督器, 班長, 監聽員, [計算機]顯示器, 監視器 v. 監視, 監聽, 監督
+mouse	n. 老鼠,鼠標，膽小如鼠的人，烏青色的腫塊 vi. 捕鼠，躡手躡腳行動 vt. 仔細尋找
+prompt	adj. 迅速的, 敏捷的, 立刻的 vt. 激起, 促進, 推動; 提示 vi. 提示 n. 提示; 提示的內容 n. [商]付款期限
+scroll	n. 捲軸,目錄 vt.& vi. 捲動 scroll wheel 滑輪
+wheel	n. 輪子,週期,旋轉運動 vi. 旋轉,轉動 vt. 推或拉車,傳送,打圈,裝以車輪
+shift	n. 交換,變化,移動,接班者 vt. 更替,移轉,變聲 vi. 改變,定責,更衣
+spell	v. 拼寫，緩慢地或吃力地讀 n. 魅力，符咒 vt. 用符咒鎮住(某人) n. 一段時間，輪班 v. 輪班，休息
+check	vt.檢查，核對； 制止，抑制； 在…上打勾 vi.核實，查核； 中止； 打勾； [象棋]將一軍 n.<美>支票； 制止，抑制； 檢驗，核對
+tab	n.(tabulate)製表, 標籤, 垂飾, 拉環,賬單 vt. 用標籤或垂飾安裝
+
+=========================
+ Work, Success, and Failure
+accomplishment	n. 成就,完成
+ambition	n. 雄心,野心,抱負,精力 vt. 有...野心,追求
+candidate	n. 候選人, 求職者
+commute	vi. 交換,通勤,折償 vt. 交換,減刑,改變付款方式 n. 乘車上下班,通勤
+determined	adj. 堅毅的,下定決心的
+earnings	n.所得,收入
+evaluation	n. 估價,評價
+executive	n.總經理； 行政部門； [計算機]執行指令 adj.執行的； 管理的； 政府部門的
+obstacle	n. 障礙,絆腳石
+potential	adj.潛在的，有可能的； [語法學]可能語氣的，表示可能性的； 有能力的 n.潛力，潛能； [物]電位，勢能； 潛能的事物； [語]可能語氣
+professional	adj. 職業(上)的,專業的 n. 專業人員
+promotion	n. 促進,提升,推廣
+qualified	adj. 有資格的 vbl. 取得資格
+schedule	n. 時間表, 一覽表, 計畫 vt. 安排, 計畫, 預定, 編制目錄
+supervisor	n. 監督人, 管理人, 檢查員, 督學, 主管人,導師
+=========================
+ Shapes and Patterns
+ checkered	adj. 方格式的，有波折的 動詞checker的過去式和過去分詞
+circle	n. 圓周,社交圈,循環 vt. &vi. 包圍,盤旋,環繞
+diagonal	adj. 對角線的, 斜的, 斜紋的 n. 對角線, 斜線, 斜列
+diamond	n. 鑽石,像鑽石的物質,菱形,紙牌的方塊,棒球內場 vt. 用鑽石裝飾 adj. 60或75週年紀念的
+heart	n. 心,中心,要點,在撲克牌中指紅桃 v. 鼓起勇氣,激勵
+horizontal	adj. 水平的,橫的 n. 水平線,水平面
+plaid	n. 格子花呢披肩, 格子花呢 adj. 有格子圖案的
+polka	n. 波爾卡舞（19世紀流行的一種輕快舞蹈） polka-dot 帶圓點的
+dot	n. 小圓點,少量,小東西 vt. 作小點記號,點綴 vi. 作小點記號 [計算機] 點
+rectangle	n. 長方形,矩形
+square	n. 正方形,街區,平方，廣場 adj. 正方形的,正直的,公正的,結實的 vt. 使...成方形,調整，一致 vi. 符合 adv. 成直角,直接的,正方形地
+star	n. 星, 明星 v. 以星狀物裝飾, 變成演員
+striped	adj. 有斑紋的 動詞strip的過去式和過去分詞
+triangle	n. 三角(形)
+vertical	adj. 垂直的,頂點的,縱向的 n. 垂直物, 垂直的位置
+zigzag	n. 曲折, 之字形 adj. 曲折的, 鋸齒形的 adv. 曲折地, 成鋸齒形地 vt. 使曲折 vi. 曲折前行
+=========================
+Physical Descriptions
+
+beard	n. 鬍鬚 vt. 抓住鬍鬚,公開反對
+chubby	adj. 圓胖的
+gorgeous	adj. 華麗的, 燦爛的, 好極了
+handsome	adj. 英俊的,慷慨大方的,可觀的,靈巧的
+moustache	n. 小鬍子，八字須 =mustache（美）
+muscular	adj. 肌肉的, 肌肉發達的
+overweight	adj. 超重的，過胖的 n. 超重 vt.使超重，過於重視
+pimple	n. 丘疹, 膿皰, 疙瘩
+plain	n. 平原,草原 adj. 簡單的,平坦的,平常的,家常的 adj.純的，不摻雜的
+scruffy	adj. 不整齊的, 骯髒的, 破舊的
+stocky	adj. 矮胖的, 健壯結實的
+tan	n. 曬黑的皮膚 tanned 被曬黑的
+tattoo	n. &amp; vt. (在皮膚上)刺圖案, 紋身
+underweight	n. 重量不足 adj. 重量不足的
+wrinkle	n. 皺紋 v. (使)起皺紋 vi. (使)起皺紋,皺眉 vt. 使起皺紋
+=========================
+Relationships
+acquaintance	n. 熟人,相識,瞭解
+close	n. 完結, 結論 adj. 靠近的,親近的，幾乎，密切的, 勢均力敵的 vt. 關,結束,靠近 vi. 關，停業, 搏鬥 adv. 緊挨著, 緊緊地
+colleague	n. 同事
+distant	adj. 遙遠的,疏遠的，遠房的，陌生的，遠行的
+divorce	n. 離婚 v. 與...辦離婚
+employee	n. 僱員
+engaged	adj. 忙碌的,使用中的 v. 預訂,約定,參與 vbl. 預訂,約定,參與
+fiance	n. 未婚夫
+landlord	n. 地主, 房東
+tenant	n. 房客,佃戶 vt. 居住
+mentor	n. 指導者 vt. 指導
+neighbour	n. 鄰居(鄰近的東西, 鄰近值) vt 鄰接(相鄰, 接近)
+partner	n. 合作者,搭檔,配偶 vt. &vi. 同...合作,做...的搭檔, 合作
+relative	adj. 相對的,比較的,涉及到的 n. 親屬,同類事物,相關物
+strained	adj. 緊張的, 不自然的 動詞strain的過去式和過去分詞
+=========================
+Personality
+
+arrogant	adj. 傲慢的, 自大的
+clever	adj. 聰明的,機靈的
+courageous	adj. 勇敢的
+cowardly	adj. 懦弱的, 卑怯的, 膽小的
+foolish	adj. 愚蠢的，荒謬的，可笑的
+generous	adj. 慷慨的,寬宏大量的,豐盛的,味濃的
+humble	adj. 卑下的, 謙遜的, 粗陋的 vt. 使...卑下, 貶低
+idealistic	adj. 理想主義的
+miserly	adj. 吝嗇的
+objective	adj. 客觀的, 目標的 n. 目標, 目的; 物鏡 n. =objective case 賓語
+optimistic	adj. 樂觀的, 樂觀主義的
+outgoing	adj. 對人友好的，開朗的；出發的，外出的；即將離職的；樂於助人的 n. 外出；流出；開支 v. 超過；優於（outgo的ing形式）
+pessimistic	adj. 悲觀的, 悲觀主義的
+practical	adj. 實際的,實用的,明智的 n. 實踐考試
+subjective	adj. 主觀的 n. 主格,主觀事物
+withdrawn	adj. 偏僻的，離群的，孤獨的 withdraw的過去分詞
+=========================
+Travel and Transportation
+accommodation	n. 住處，膳宿；調節；和解；預訂舖位
+campsite	n. 露營地
+resort	v. 訴諸;採取
+layover	n. 短暫停留，逗留，津貼
+sightseeing	n. 觀光, 遊覽 動詞sightsee的現在分詞
+destination	n. 目的地,終點,景點
+journey	n. 旅程, 旅行, 行程 v. 旅行
+passenger	n. 乘客,旅客
+excursion	n. 遠足, 短途旅行
+motorboat	n. 汽艇
+=========================
+Social and Topical Issues
+activist	n. 活動分子, 積極分子
+bias	n. 偏見，斜紋 vt. 使偏心
+broadcast	n. 廣播,廣播節目 adj. 廣播的 vt.& vi. 廣播 adv. 經廣播,四散地
+conservative	adj. 保守的,守舊的 n. 保守派(黨),保守的人
+culture	n. 文化,教養,種植 vt. 培養
+economy	n.節約； 經濟； 理財； 秩序
+education	n. 教育,培養
+election	n. 選舉
+government	n. 政府,政體,統治
+immigration	n. 移居, 移民
+industry	n. 工業,產業,勤勉,刻苦
+inflation	n. 膨脹,通貨膨脹
+liberal	n. 自由主義者, 寬容大度的人, (Liberal)自由黨人 adj. 無偏見的, 慷慨的, 不拘泥的, 寬大的, 開明的
+poverty	n. 貧窮,貧困
+public	adj. 公開的,眾所周知的,公眾的 n. 公共場合,公眾,同好者
+=========================
+ Science and Technology
+ analyze	v. 分析,分解 vt. 分析
+capacity	n. 能力, 容量, 容積; 資格, 職位 adj. (達到最大容量)滿的
+cognition	n. 認識, 認識力, 知覺
+conduct	n. 行為, 舉動, 品行 v. 引導, 指揮, 管理 vt. 導電, 傳熱
+discipline	n. 訓練, 紀律, 懲罰; 學科 vt. 訓練, 懲罰
+experiment	n. 實驗,試驗,嘗試 vi. 做實驗,嘗試
+hypothesize	v. 假設, 假定, 猜測
+invention	n. 發明,發明物,虛構,虛構物
+malfunction	n. 故障 v. 發生故障, 不起作用
+mechanism	n. 機制,原理，機械,機構,結構
+organism	n. 生物體, 有機體
+synthetic	adj. 綜合的,合成的,人造的 n. 人工製品
+theory	n. 理論,原則,看法,推測
+thermometer	n. 溫度計
+variable	adj. 可變的,易變的 n. 變量, 易變的東西
+=========================
+Prefixes
+de-	剝奪,分離
+dis-	表示“分開, 分離, 否定, 不”之義
+em-	pref. （用於以b，m和p開頭的單詞前）同en-
+en-	pref 表示“使、使成為”之義 表示“使處於 ... 狀態”之義
+il-	pref. (用於以 l 開頭的單詞前,構成反義詞)表示“不”,“非”,“無”
+im-	pref. (用於以 m, p 或 b 開頭的單詞前,構成反義詞）表示“不”，“無”，“非”
+in-	pref. 表示“否定, 與 ... 相反”之義
+ex-	pref. 向外，離開，超過，向上 [醫] 出，離，從，除
+ir-	(=in-),(用於以r開始的字)
+un-	用於形容詞之前, 表示“不”
+=========================
+Suffixes
+-able	suf.表示"能...的","適於...的","有...特性的","有...傾向的"
+-ence	suff. （用於形容詞後構成名詞，通常是代替-ent）表示“狀態”，“性質”，“態度”，“行為”
+-er	suff. （加在多數短形容詞後構成比較級，也可以加在某些不是以-ly結尾的副詞後構成比較級）表示“更…”，“較…”
+-or	suff. （用於名詞詞尾）表示（施動的）“…者”，“…物”
+-ist	suff. (替換 -ism,構成可數名詞和形容詞）表示“…主義者”，“…信仰者”，“…主義的”，“信仰…的”
+-ity	suff. (加在形容詞後,有時替換 -ious 以構成名詞)表示“…狀態”，“…特徵”，“…行為”
+-ize	suff. (作為許多動詞的結尾形式)表示“使…化”，“使處於…的新狀態”
+-ment	suff. (加在某些動詞後構成名詞)表示“動作”、“過程”、“狀態”
+-ness	suff. (用於形容詞後構成名詞)表示“狀態”，“性質”
+-tion	
+=========================
+=========================
+=========================
+=========================
+=========================
+=========================
+=========================
+
+summarize	vt. &vi. 概述,摘要而言
