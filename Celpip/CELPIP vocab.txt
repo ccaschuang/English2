@@ -1,23 +1,3 @@
-CELPIP vocab
-http://www.tceducation.ca/en/wordlist-500/
-https://www.shanbay.com/wordlist/181570/509182/
-========================
-whine 抱怨
-
-wrap up
-
-waist 腰部
-
-vocal
-
-vibrant
-
-vandalism
-
-tan
-
-=========================
-
 assess	v. 估定, 評定
 	The insurers will need to assess the flood damage. They assessed the cost of the flood damage at £2,500.
 
@@ -421,21 +401,45 @@ withdrawn	adj. 偏僻的，離群的，孤獨的 withdraw的過去分詞
 =========================
 Travel and Transportation
 accommodation	n. 住處，膳宿；調節；和解；預訂舖位
+	There's a shortage of cheap accommodation (= places to live).
+	We have first and second class accommodation (= seats) on this flight.
+
 campsite	n. 露營地
+	The campsite is in a beautiful location next to the beach.
+
 resort	v. 訴諸;採取
+		n. 度假勝地
+	a tourist resort
+	a holiday resort
+
+	He got hold of the money legally, without resort to violence.
+
 layover	n. 短暫停留，逗留，津貼
+	We had a four-hour layover in Chicago.
+
 sightseeing	n. 觀光, 遊覽 動詞sightsee的現在分詞
+
 destination	n. 目的地,終點,景點
+
 journey	n. 旅程, 旅行, 行程 v. 旅行
+
 passenger	n. 乘客,旅客
+
 excursion	n. 遠足, 短途旅行
+
 motorboat	n. 汽艇
+	While you can take a motorboat, many people prefer to take the original Venetian taxi, the famous gondola.
+gondola     n. 覽車
+
 =========================
 Social and Topical Issues
 activist	n. 活動分子, 積極分子
 bias	n. 偏見，斜紋 vt. 使偏心
 broadcast	n. 廣播,廣播節目 adj. 廣播的 vt.& vi. 廣播 adv. 經廣播,四散地
+
 conservative	adj. 保守的,守舊的 n. 保守派(黨),保守的人
+liberal	n. 自由主義者, 寬容大度的人, (Liberal)自由黨人 adj. 無偏見的, 慷慨的, 不拘泥的, 寬大的, 開明的
+
 culture	n. 文化,教養,種植 vt. 培養
 economy	n.節約； 經濟； 理財； 秩序
 education	n. 教育,培養
@@ -443,26 +447,46 @@ election	n. 選舉
 government	n. 政府,政體,統治
 immigration	n. 移居, 移民
 industry	n. 工業,產業,勤勉,刻苦
+
 inflation	n. 膨脹,通貨膨脹
-liberal	n. 自由主義者, 寬容大度的人, (Liberal)自由黨人 adj. 無偏見的, 慷慨的, 不拘泥的, 寬大的, 開明的
+	The control of inflation is a key component of the government's economic policy.
+	Unemployment, inflation and greater inequality are often the downside of a market economy.
+deflation: n. 通貨緊縮   2:放氣(使東西變小的動作)
+	The rate of deflation of the balloon depends on the kind of material from which it is made.
+	Growth (in Japan) has recently been constrained by persistent deflations and high levels of nonperforming loans that restrain bank lending,’ she said.
+
+
 poverty	n. 貧窮,貧困
 public	adj. 公開的,眾所周知的,公眾的 n. 公共場合,公眾,同好者
 =========================
  Science and Technology
- analyze	v. 分析,分解 vt. 分析
+analyze	v. 分析,分解 vt. 分析
 capacity	n. 能力, 容量, 容積; 資格, 職位 adj. (達到最大容量)滿的
-cognition	n. 認識, 認識力, 知覺
+cognition	/kɑɡˈnɪʃ.ən/ n. 認識, 認識力, 知覺
+	a book on human learning, memory, and cognition
+	Cognitive dissonance 認知失調 (有時候也寫成congnitive disorder)
+	cognitive psychology 認知心理學
+
 conduct	n. 行為, 舉動, 品行 v. 引導, 指揮, 管理 vt. 導電, 傳熱
-discipline	n. 訓練, 紀律, 懲罰; 學科 vt. 訓練, 懲罰
+
+discipline	n. 訓練, 紀律, 懲罰; 學科 
+			vt. 訓練, 懲罰
+
 experiment	n. 實驗,試驗,嘗試 vi. 做實驗,嘗試
 hypothesize	v. 假設, 假定, 猜測
 invention	n. 發明,發明物,虛構,虛構物
 malfunction	n. 故障 v. 發生故障, 不起作用
 mechanism	n. 機制,原理，機械,機構,結構
 organism	n. 生物體, 有機體
-synthetic	adj. 綜合的,合成的,人造的 n. 人工製品
+synthetic	adj. 綜合的,合成的,人造的   = compound, complex
+			n. 人工製品
+	She criticized the synthetic charm of TV hosts.
+
 theory	n. 理論,原則,看法,推測
-thermometer	n. 溫度計
+thermometer /θɚˈmɑː.mə.t̬ɚ/	n. 溫度計
+	A thermometer there showed a shade temperature of 70.7°C in 2005.
+		celsius 攝氏
+
 variable	adj. 可變的,易變的 n. 變量, 易變的東西
 =========================
 Prefixes
@@ -488,12 +512,26 @@ Suffixes
 -ment	suff. (加在某些動詞後構成名詞)表示“動作”、“過程”、“狀態”
 -ness	suff. (用於形容詞後構成名詞)表示“狀態”，“性質”
 -tion	
-=========================
-=========================
-=========================
-=========================
-=========================
-=========================
-=========================
+========================
+whine 抱怨
 
+wrap up
+
+waist 腰部
+
+vocal
+
+vibrant
+
+vandalism
+
+tan
+
+=========================
 summarize	vt. &vi. 概述,摘要而言
+
+
+=========================
+CELPIP vocab
+http://www.tceducation.ca/en/wordlist-500/
+https://www.shanbay.com/wordlist/181570/509182/
