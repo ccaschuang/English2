@@ -26,53 +26,130 @@ coherence	n. 粘附(附著, 結合, 凝聚, 相參性, 同調, 連貫性)
 compare	vt.&vi. 比較,比喻,對照 n. 比較，對照
 
 contrast	n.對比，對照； 差異； 對照物，對立面； [攝]反差
+
 demonstrate	vt. 示範, 演示, 證明 vi. 示威
 elaborate	adj. 精細的, 詳盡的, 精心的 v. 詳細地說明, 用心地作, 推敲
+	You want a plain blouse to go with that skirt - nothing too elaborate.
+		(表示沒有太過華麗的衣服)
+	They're making the most elaborate preparations for the wedding.
+	He came out with such an elaborate excuse that I didn't quite believe him.
+
 generalize	v. 使一般化, 概括，歸納
 gist	n. 要點, 要旨
+	That was the gist of what he said.
+	I think I got (= understood) the gist of what she was saying.
+
 infer	vt. 推斷,猜測,暗示 vi. 推論
+	What do you infer from her refusal?
+	[ + that ] I inferred from her expression that she wanted to leave.
+
 interpret	v. 解釋, 演出, 翻譯 [計算機] 解釋
+
 outline	n. 大綱,輪廓,概要,略圖,素描 vt. 描畫輪廓,描述要點
+	She drew the outline of the boat and then coloured it in.
+	Underneath the hospital blankets I could see the outline of her poor wasted body.
+
 persuade	v. 說服 vt. 勸說,說服
-predict	v. 預知, 預言, 預報
+predict	v. 預知, 預言, 預報 ≒ forcast, estimate
 response	n. 反應, 響應; 回答
 =========================
 https://www.shanbay.com/wordlist/181570/509185/
 Emotions
-bashful	adj. 害羞的
-cautious	adj. 十分小心的, 謹慎的
+bashful	adj. 害羞的 = shy
+	She gave a bashful smile as he complimented her on her work.
+
+cautious	adj. 十分小心的, 謹慎的 = careful, prudent
+	He's a cautious driver.
+
 confident	adj. 確信的, 自信的
+
 anxious	adj. 焦急的, 憂慮的
-ecstatic	n. 狂喜的人 adj. 狂喜的
-exhausted	adj.耗盡的； 用完的； 筋疲力盡的； 精疲力竭的 v.用盡( exhaust的過去式和過去分詞 )； 使非常疲倦； 詳盡討論（或研究）； 弄空
-furious	adj. 狂怒的, 猛烈的
+
+ecstatic /ekˈstæt̬.ɪk/	n. 狂喜的人 adj. 狂喜的
+	The new president was greeted by an ecstatic crowd.
+
+	greet: v. 歡迎=welcome
+
+exhausted	adj.耗盡的； 用完的； 筋疲力盡的； 精疲力竭的 v.用盡( exhaust的過去式和過去分詞 )；
+		    使非常疲倦； 詳盡討論（或研究）； 弄空
+
+furious	adj. 狂怒的, 猛烈的   (後面加with, about, at)
+	I was late and he was furious with me.  
+	He's furious about/at the way he's been treated.
+	We had a furious debate about the death penalty
+	He was furious at the outrageous joke.
+
+	P.S. 如果要點明「憤怒的對象或原因」，可使用介系詞 at。
+
+	outrageous:  shocking and morally unacceptable: 不像話的、過份的
+
 gloomy	adj. 陰暗的,抑沉的,憂悶的
+	a gloomy person/expression
+	The cemetery is a gloomy place.
+
+	cemetery /ˈsem.ə.ter.i/ 公墓、墓地=graveyard
+
 guilty	adj. 有罪的, 內疚的
+
 horrified	adj.驚悸的,帶有恐怖感的,驚駭的
+
 indifferent	adj. 漠不關心的, 無重要性的, 中立的
+
 jealous	adj. 妒忌的,戒備的
+envious adj. 羨慕的
+
 lonely	adj. 孤獨的,寂寞的,荒涼的
 surprised	adj. 感到驚訝的 vbl. 感到驚訝
-sympathetic	adj. 同情的,共鳴的 n. 交感神經
+
+sympathetic /ˌsɪm.pəˈθet̬.ɪk/	adj. 同情的,共鳴的 n. 交感神經
+	He suffers from back trouble too, so he was very sympathetic about my problem.
+	She just needed someone who would lend a sympathetic ear to her (= listen to her in a kind and understanding way) once in a while.
 
 =========================
 https://www.shanbay.com/wordlist/181570/509278/
 Environment and Nature
 
-botany	n. 植物學，植物
-deplete	vt. 耗盡,使...空竭
+botany	n. 植物學，植物 the scientific study of plants
+	His leisure time was given up to natural history, and especially to mineralogy and botany.
+
+deplete	vt. 耗盡,使...空竭  = consume
+	If we continue to deplete the earth's natural resources, we will cause serious damage to the environment.
+	The illness depletes the body of important vitamins.
+	He consumes huge amounts of bread with every meal.
+
+
 ecosystem	n. 生態系統
+
 extinction	n.熄滅； 消滅，滅絕； 廢除； [物]消光，自屏，衰減
+extinct: adj.
+	不可寫成動詞
+
+	動詞要寫成：
+	become extinct 
+	go extinct
+
+	名詞為：extinction
+	ex:
+		extinct animals
+		There is concern that the giant panda will soon become extinct.
+
 fauna	n. （某地區或某時期的）所有動物
 flora	n. 植物, 群落 （大寫）Flora：[羅神]花神弗洛拉，弗洛拉（女名）
+
+	While she was in Hawaii, she studied the local flora and fauna.
+	local flora and fauna: 當地的動植物
+
 geology	n. 地質學，（某地區的）地質情況，地質學的著作
 global	adj. 全球性的, 全局的
+
 impact	n. 衝擊(力), 衝突, 影響(力) vt. 擠入, 壓緊; 撞擊; 對...發生影響
 pollution	n. 污染, 污染物
 reserve	n. 預備品, 貯存, 候補 n. 克制, 含蓄 vt. 保留, 預訂, 延期
 resource	n. 資源,謀略,消遣
 substance	n. 物質,實質,內容,重要性,財產
+
 summit	n. 頂點;最高階層 vi. 參加最高級會議,爬到最高點
+
 toxic	adj. 有毒的 n. 有毒物質
 =========================
 https://www.shanbay.com/wordlist/181570/509281/
@@ -90,7 +167,22 @@ medical	adj. 醫療的,醫學的,藥物的,需治療的
 metabolism	n. 新陳代謝
 muscle	n. 肌肉 vt. 用力擠 vi. 用力進行
 nauseating	adj. 使人噁心的
-nutrient	adj. 營養的,滋養的 n. 營養物,營養品
+
+nutrient	adj. 營養的,滋養的 n. 營養物,營養品 
+nutrituous = nutrient = nourishing 營養的
+
+nourishment 營養 (比較像是營養的食物等)
+	nutrient  = 養份 (營養的物質，如礦物質，維生素等)
+	nutrition = 1:營養物、食物  2: 吸收營養的過程  3:營養學
+	ex: Please bless this food to the nourishment of our bodies.
+		Young babies obtain all the nourishment they need from their mother's milk.
+		Because of his poor nutrition, he has grown weaker and weaker. 
+		She's a professor of nutrition at Columbia University.
+		//大致上表示養份、營養的食物時三個可以代換，但是專指講到"營養的食物"的時候會比較常使用nourishment
+		//但是講到消化不良、營養不良(poor nutrition)等，使用nutrition比較正確。 因為nutrition還有指稱消化過程
+		//營養學是學科，也只能用nutrition
+
+
 pulse	n. 脈衝,脈波,脈搏 vt. &vi. 跳動,脈跳
 unbalanced	adj. 失衡的, 精神失常的, 判斷不可靠的 動詞unbalance的過去式和過去分詞
 =========================
@@ -107,6 +199,13 @@ keyboard	n. 鍵盤 vt. 用鍵盤輸入(信息)
 monitor	n. 監督器, 班長, 監聽員, [計算機]顯示器, 監視器 v. 監視, 監聽, 監督
 mouse	n. 老鼠,鼠標，膽小如鼠的人，烏青色的腫塊 vi. 捕鼠，躡手躡腳行動 vt. 仔細尋找
 prompt	adj. 迅速的, 敏捷的, 立刻的 vt. 激起, 促進, 推動; 提示 vi. 提示 n. 提示; 提示的內容 n. [商]付款期限
+	They've written back already - that was a very prompt reply.
+	They're usually fairly prompt in dealing with enquiries.
+	The bishop's speech has prompted an angry response from both political parties.
+	Recent worries over the president's health have prompted speculation over his political future.
+
+	bishop: 主教
+
 scroll	n. 捲軸,目錄 vt.& vi. 捲動 scroll wheel 滑輪
 wheel	n. 輪子,週期,旋轉運動 vi. 旋轉,轉動 vt. 推或拉車,傳送,打圈,裝以車輪
 shift	n. 交換,變化,移動,接班者 vt. 更替,移轉,變聲 vi. 改變,定責,更衣
@@ -120,11 +219,28 @@ accomplishment	n. 成就,完成
 ambition	n. 雄心,野心,抱負,精力 vt. 有...野心,追求
 candidate	n. 候選人, 求職者
 commute	vi. 交換,通勤,折償 vt. 交換,減刑,改變付款方式 n. 乘車上下班,通勤
+
 determined	adj. 堅毅的,下定決心的
+determine 	v.決定：
+undermine	v. 破壞 = damage = wreck = destroy
+	Criticism just undermines their confidence.
+
 earnings	n.所得,收入
 evaluation	n. 估價,評價
 executive	n.總經理； 行政部門； [計算機]執行指令 adj.執行的； 管理的； 政府部門的
+
 obstacle	n. 障礙,絆腳石
+	 be a hindrance to / be a hurdle to / be an impediment to / be an obstacle to  對…構成阻礙
+
+	 The biggest obstacle in our way was a tree trunk in the road.
+	 to put an obstacle in sb's way
+
+	 Resistance is the process of avoiding change and is a major obstacle to progress.
+
+
+	 hurdle:欄，跳欄
+	 	I'm trying to be patient, but my confidence is low and that is a hard hurdle to overcome.
+
 potential	adj.潛在的，有可能的； [語法學]可能語氣的，表示可能性的； 有能力的 n.潛力，潛能； [物]電位，勢能； 潛能的事物； [語]可能語氣
 professional	adj. 職業(上)的,專業的 n. 專業人員
 promotion	n. 促進,提升,推廣
@@ -133,50 +249,110 @@ schedule	n. 時間表, 一覽表, 計畫 vt. 安排, 計畫, 預定, 編制目�
 supervisor	n. 監督人, 管理人, 檢查員, 督學, 主管人,導師
 =========================
  Shapes and Patterns
- checkered	adj. 方格式的，有波折的 動詞checker的過去式和過去分詞
+
+checkered	adj. 方格式的，有波折的 動詞checker的過去式和過去分詞
+ = chequered
+ 	She was wearing a mini skirt with a chequered pattern and a pink and white string top with a butterfly on it.
+
+plaid	n. 格子花呢披肩, 格子花呢 adj. 有格子圖案的
+
 circle	n. 圓周,社交圈,循環 vt. &vi. 包圍,盤旋,環繞
 diagonal	adj. 對角線的, 斜的, 斜紋的 n. 對角線, 斜線, 斜列
+	The book has a diagonal black stripe on the cover.
+horizontal	adj. 水平的,橫的 n. 水平線,水平面
+vertical	adj. 垂直的,頂點的,縱向的 n. 垂直物, 垂直的位置
+
 diamond	n. 鑽石,像鑽石的物質,菱形,紙牌的方塊,棒球內場 vt. 用鑽石裝飾 adj. 60或75週年紀念的
 heart	n. 心,中心,要點,在撲克牌中指紅桃 v. 鼓起勇氣,激勵
-horizontal	adj. 水平的,橫的 n. 水平線,水平面
-plaid	n. 格子花呢披肩, 格子花呢 adj. 有格子圖案的
+
+
 polka	n. 波爾卡舞（19世紀流行的一種輕快舞蹈） polka-dot 帶圓點的
+
 dot	n. 小圓點,少量,小東西 vt. 作小點記號,點綴 vi. 作小點記號 [計算機] 點
+
 rectangle	n. 長方形,矩形
+triangle	n. 三角(形)
 square	n. 正方形,街區,平方，廣場 adj. 正方形的,正直的,公正的,結實的 vt. 使...成方形,調整，一致 vi. 符合 adv. 成直角,直接的,正方形地
 star	n. 星, 明星 v. 以星狀物裝飾, 變成演員
+
 striped	adj. 有斑紋的 動詞strip的過去式和過去分詞
-triangle	n. 三角(形)
-vertical	adj. 垂直的,頂點的,縱向的 n. 垂直物, 垂直的位置
+	green and white striped pyjamas
+
 zigzag	n. 曲折, 之字形 adj. 曲折的, 鋸齒形的 adv. 曲折地, 成鋸齒形地 vt. 使曲折 vi. 曲折前行
 =========================
 Physical Descriptions
 
-beard	n. 鬍鬚 vt. 抓住鬍鬚,公開反對
-chubby	adj. 圓胖的
+beard	n. 鬍鬚(臉夾、臉下方的鬍鬚) vt. 抓住鬍鬚,公開反對
+moustache	n. 小鬍子，八字鬚(嘴唇上方的鬍鬚)
+	 =mustache（美）
+
+chubby	adj. 圓胖的(比fat好一點)
+	chubby cheeks，chubby legs 
+overweight	adj. 超重的，過胖的 n. 超重 vt.使超重，過於重視
+
 gorgeous	adj. 華麗的, 燦爛的, 好極了
 handsome	adj. 英俊的,慷慨大方的,可觀的,靈巧的
-moustache	n. 小鬍子，八字須 =mustache（美）
-muscular	adj. 肌肉的, 肌肉發達的
-overweight	adj. 超重的，過胖的 n. 超重 vt.使超重，過於重視
-pimple	n. 丘疹, 膿皰, 疙瘩
+
+muscular/ˈmʌs.kjə.lɚ/	adj. 肌肉的, 肌肉發達的
+
+pimple	n. 丘疹, 膿皰, 疙瘩 (更常指粉刺、青春痘)
+	Don’t touch pimples or wash them too much.
+
 plain	n. 平原,草原 adj. 簡單的,平坦的,平常的,家常的 adj.純的，不摻雜的
-scruffy	adj. 不整齊的, 骯髒的, 破舊的
-stocky	adj. 矮胖的, 健壯結實的
+
+scruffy /ˈskrʌf.i/ adj. 不整齊的, 骯髒的, 破舊的
+	They live in a scruffy part of town.
+	a small, scruffy-looking man
+
+stocky	adj. 矮胖的, 健壯結實的  (矮壯的)
+	The man was described as short and stocky and very strong.
+
 tan	n. 曬黑的皮膚 tanned 被曬黑的
+	She came back from Spain with a deep tan.
+
 tattoo	n. &amp; vt. (在皮膚上)刺圖案, 紋身
+
 underweight	n. 重量不足 adj. 重量不足的
 wrinkle	n. 皺紋 v. (使)起皺紋 vi. (使)起皺紋,皺眉 vt. 使起皺紋
+	/ˈrɪŋ.kəl/
+
 =========================
 Relationships
-acquaintance	n. 熟人,相識,瞭解
-close	n. 完結, 結論 adj. 靠近的,親近的，幾乎，密切的, 勢均力敵的 vt. 關,結束,靠近 vi. 關，停業, 搏鬥 adv. 緊挨著, 緊緊地
+acquaintance /əˈkweɪn.təns/ 	n. 熟人,相識,瞭解
+	1:  a person that you have met but do not know well: (相識)
+		a business acquaintance
+	2:  knowledge of a subject (瞭解)
+		Sadly, my acquaintance with Spanish literature is rather limited.
+	
+	He gradually lost contact with all his old acquaintances.
+	I recently met an old work acquaintance of mine and I hardly recognized him.
+
+	acquire: 獲得
+
+close	n. 完結, 結論 
+		adj. 靠近的,親近的，幾乎，密切的, 勢均力敵的 
+		vt. 關,結束,靠近 
+		vi. 關，停業, 搏鬥 
+		adv. 緊挨著, 緊緊地
+
 colleague	n. 同事
+	We're entertaining some colleagues of Carol's tonight.
+
+	college: 大學
+
 distant	adj. 遙遠的,疏遠的，遠房的，陌生的，遠行的
+
 divorce	n. 離婚 v. 與...辦離婚
+
 employee	n. 僱員
+
 engaged	adj. 忙碌的,使用中的 v. 預訂,約定,參與 vbl. 預訂,約定,參與
-fiance	n. 未婚夫
+
+fiance	/ˌfiː.ɑːnˈseɪ/ n. 未婚夫
+fiancee /ˌfiː.ɑːnˈseɪ/ n. 未婚妻 (兩者發音一樣)
+	If a relative announces his engagement, you must at once go to see his fiancée.
+	Have you met Christina's fiancé?
+
 landlord	n. 地主, 房東
 tenant	n. 房客,佃戶 vt. 居住
 mentor	n. 指導者 vt. 指導
@@ -184,25 +360,64 @@ neighbour	n. 鄰居(鄰近的東西, 鄰近值) vt 鄰接(相鄰, 接近)
 partner	n. 合作者,搭檔,配偶 vt. &vi. 同...合作,做...的搭檔, 合作
 relative	adj. 相對的,比較的,涉及到的 n. 親屬,同類事物,相關物
 strained	adj. 緊張的, 不自然的 動詞strain的過去式和過去分詞
+	Relations between the two countries have become strained (= difficult) recently.
+	She was looking strained and had dark circles beneath her eyes.
+
+	strain: an injury to a muscle or similar soft part of the body caused by using that part too much (扭傷、拉傷)
+
+		a groin/hamstring strain
+		His muscles knotted with the strain.
+
+			knot: 打結、拉緊
+
 =========================
 Personality
 
 arrogant	adj. 傲慢的, 自大的
+
 clever	adj. 聰明的,機靈的
-courageous	adj. 勇敢的
+
+courageous /kəˈreɪ.dʒəs/	adj. 勇敢的 = brave
+	It was a courageous decision to resign in protest at the company's pollution record.
+
 cowardly	adj. 懦弱的, 卑怯的, 膽小的
+	This was a particularly brutal and cowardly attack.
+		brutal: 殘忍的
+	They are guilty of a cowardly failure to address the problem.
+
+	coward: n. 懦夫
+
 foolish	adj. 愚蠢的，荒謬的，可笑的
+
 generous	adj. 慷慨的,寬宏大量的,豐盛的,味濃的
 humble	adj. 卑下的, 謙遜的, 粗陋的 vt. 使...卑下, 貶低
-idealistic	adj. 理想主義的
-miserly	adj. 吝嗇的
+idealistic	/ˌaɪ.diː.əˈlɪs.tɪk/ adj. 理想主義的
+	When I was young and idealistic I believed it was possible to change the world.
+
+miserly	adj. 吝嗇的 = stingy 
+	The workers are paid a miserly $2 a day.
+	Old men, conscious that they are about to leave the good things of the world, are grasping and miserly .
+
+		conscious: 意識	
+	misery: n. 苦難、痛苦
+		Ten years of marriage to him have made her life a misery.
+
 objective	adj. 客觀的, 目標的 n. 目標, 目的; 物鏡 n. =objective case 賓語
+
 optimistic	adj. 樂觀的, 樂觀主義的
+
 outgoing	adj. 對人友好的，開朗的；出發的，外出的；即將離職的；樂於助人的 n. 外出；流出；開支 v. 超過；優於（outgo的ing形式）
-pessimistic	adj. 悲觀的, 悲觀主義的
+
+pessimistic /ˌpes.əˈmɪs.tɪk/ adj. 悲觀的, 悲觀主義的
+	The tone of the meeting was very pessimistic.
+	The doctors are pessimistic (= not hopeful) about his chances of recovery.
+
 practical	adj. 實際的,實用的,明智的 n. 實踐考試
+
 subjective	adj. 主觀的 n. 主格,主觀事物
+
 withdrawn	adj. 偏僻的，離群的，孤獨的 withdraw的過去分詞
+	Following her son's death, she became quiet and withdrawn and rarely went out.
 =========================
 Travel and Transportation
 accommodation	n. 住處，膳宿；調節；和解；預訂舖位

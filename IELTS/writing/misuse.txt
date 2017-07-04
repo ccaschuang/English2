@@ -76,7 +76,7 @@ extinct: adj.
 		There is concern that the giant panda will soon become extinct.
 
 economy
-	economiy是經濟
+	economy是經濟
 	economics：經濟學
 	economic adj
 	economical ：省錢的
