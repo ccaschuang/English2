@@ -527,6 +527,9 @@ vandalism
 
 tan
 
+unearth
+
+understandable
 =========================
 summarize	vt. &vi. 概述,摘要而言
 
