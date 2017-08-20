@@ -1,0 +1,62 @@
+Perfect Tense 完成式
+
+完成式：  have/has/had + p.p.
+
+單純的句子時：是以配合時間點來看：
+
+Have you finished your homework?
+
+
+1:通常有：Since, For 時，使用現在完成式
+	for 表示一段時間， since 表示從過去某一時間點到現在。
+
+使用before, after的則通常是單純的過去式
+
+ex: 
+	Rebecca has lived here for 10 years.  Rebecca 已經在這裡住了10年。
+	Rebecca has lived here since 2001.  Rebecca 自2001年以來一直住在這裡。
+	I have been here for two hours.我在這裡已經兩個鐘頭。
+	I have been here since 10 o'clock.從10點開始我就一直在這裡。
+
+
+帶有副詞 ever, never, still, just, already, yet 等的句子，通常需要用現在完成式或過去完成式。
+	Have you ever failed a class?   你課業有被當掉過嗎？
+		ever 通常用在疑問句。
+
+	She has never been to Korea.   她從來沒去到過韓國。
+		never 通常用在帶有否定意思的肯定句。
+
+	Mary has just finished her homework.   瑪麗剛做了她的功課。
+		just 通常用在表示某個動作不久前才剛剛完成。
+
+	Don't forget to tell him to be here on time. ～ 不要忘了告訴他要準時到這裡來。
+	I have already told him.   我已經告訴過他了。	
+		already 通常用在表示比預期發生得早的動作。
+
+	Have you done your homework? ～  你功課做完沒？
+	No, I haven't done it yet.   不，我還沒有。
+		yet 通常用在表示比預期發生得晚的動作。
+
+
+
+
+以時間軸來看
+
+|-------------|------------------|--------------------------|
+   過去完成式          過去式             現在
+
+複雜句的時候，是在於比過去還要久遠之前的時態，要使用過去完成式
+
+
+
+	In 1826, Colonel John by named the area around the Rideau Canal Bytown. 
+	Within 30 years, it had grown substantially and it became clear this would eventually grow into a great city.
+		(在這30年內，他變得非常重要，而且很明顯的他最終將變成一個偉大的都市
+
+		變的非常重要<--先發生，用過去完成式。
+
+
+
+	In 1857, Queen Victoria had been asked to choose a capital and she chose Ottawa as the capital of the "province of Canada"
+
+	(Victoria女王被要求選一個首都，於是她選了Ottawa, 被要求的事件先發生，所以用過去完成式)

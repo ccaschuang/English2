@@ -1,0 +1,39 @@
+Direction, Map
+
+Celpip常見的題型之一：看地圖說明各種店在哪裡
+
+基本上建議說明會是
+
+Nort, South, East, West 
+
+1: 在哪一個corner會用
+
+on the north west corner of Graham Ave and Hargrave St. 
+	(在graham ave 跟hargrave 街交叉口的西北corner)
+
+2: 在哪一條街上也可以加方向(東南西北)，然後可以再加上是哪兩條路的中間
+	The library is on the south side of Graham Ave, between Smith St. and Donald St. 
+3: 在誰的旁邊會用 next to, 在誰的對面則使用across from 
+	Best Western is next to Rib Room, on the south west corner of York Ave and Donald St.
+		(Best Western在Rib Room的旁邊)
+
+	The church is across from the library and is on the north west corner of Graham Ave and Smith St.
+	(教堂在圖書館的對面)
+
+其他會用到的：
+across the street 過馬路
+
+kitty corner, katty corner: 斜對角
+	A restaurant cater-cornered from the movie theater
+
+up the street
+
+down the street
+
+around the corner, 
+
+on the right, 
+on the left
+
+
+

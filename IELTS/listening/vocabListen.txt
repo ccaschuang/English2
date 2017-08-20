@@ -2,7 +2,7 @@ freak out 嚇壞了
 
 conventional 常規、routine的事
 
-n. 治療專家，特定療法技師
+therapist n. 治療專家，特定療法技師
 ex:
 	"Go on," the therapist prompted him. “接著說，”醫生鼓勵他道。
 
@@ -11,8 +11,7 @@ n. 郊區，城郊;邊緣;附近，周圍
 ex:
 	It had become almost a dormitory suburb of the city. 它幾乎成為了城市的一個市郊住宅區。
 
-psychological [ ˌsaɪkəˈlɒdʒɪkl ]   掌握
-adj. 心理的;精神上的，精神（現象）的;心理學（上）的;關於心理學的
+psychological [ ˌsaɪkəˈlɒdʒɪkl ] adj. 心理的;精神上的，精神（現象）的;心理學（上）的;關於心理學的
 ex:
 Even minor head injuries can cause long-lasting psychological effects.
 即使是輕微的頭部創傷也會對心理產生長期影響。
@@ -29,8 +28,7 @@ ex:
 The economy has become a troublesome issue for the Conservative Party.
 經濟狀況已成為保守黨的一大難題。
 
-lender [ ˈlendə(r) ]   未掌握
-n. 出借人，貸方
+lender [ ˈlendə(r) ] n. 出借人，貸方
 ex:
 He suspects you dropped the ball on the Lender project.
 因為他很懷疑你在貸方項目搞鬼.
@@ -79,6 +77,8 @@ Antarctica [ æn'tɑ:ktɪkə ]  n. 南極洲
 ex:
 The greater portion of Antarctica is still terra nullius.
 南極洲的大部分地方不屬於任何國家.
+
+nullius: 無主地
 
 alteration [ ˌɔ:ltəˈreɪʃn ]   n. 變化，改變;變更
 ex:
@@ -354,12 +354,191 @@ The Gulf has 65 per cent of the world's oil reserves.
 shoplifters 扒手
 
 Lately we've caught quite a few - shoplifters.
-最近我们抓到不少扒手.
+最近我們抓到不少扒手.
 
-syndicate [ ˈsɪndɪkət ]   n. 辛迪加，企业联合组织，财团
-词典例句
+syndicate [ ˈsɪndɪkət ]   n. 辛迪加，企業聯合組織，財團
+詞典例句
 A syndicate of local businessmen is bidding for the contract.
-一个当地企业家的联合组织在向这一合同投标.
+一個當地企業家的聯合組織在向這一合同投標.
 
 constipation: 便密
-diarrhoea: 腹泻
+diarrhoea: 腹瀉
+
+brochure /broʊˈʃʊr/: 小冊子
+
+stalling for time: 拖延時間
+
+cuddle: 抱 
+ 	I cuddle my baby and close my eyes, marking a moment of grace.
+
+trot: 小跑步
+ 	The coyote trotted off.  草原狼跑走了
+
+hilly : hill的形容詞
+	形容多丘陵的，
+
+	Auckland is hilly and not suitable to build a railway.
+
+conquest [ ˈkɒŋkwest ]  n. 征服，擊敗;戰利品;（尤指）愛情的俘虜;贏得（物）
+詞典例句
+He was telling his tales of conquest in clubland.
+當時他正在大講特講自己在夜總會的征服史。
+
+conquer: v. 征服
+
+sewage  [ ˈsu:ɪdʒ ]  n. （下水道裡的）污物;下水道;污水
+詞典例句
+Cities upstream use the river to get rid of sewage.
+上游的城市將污水排放到河裡。
+
+petrol  [ ˈpetrəl ]  n. 汽油
+詞典例句
+The boom of the 1980s led to a taste for petrol-guzzling cars.
+20世紀80年代的經濟繁榮使人們喜歡上高油耗的汽車。
+
+surveillance 監視，監督
+
+withstand 抵擋；經受
+
+deficiency 缺陷；缺乏，不足
+fault 故障；缺點，錯誤
+flaw 瑕疵；缺點
+defect 缺點，缺陷
+
+surrounding 周圍的，附近的
+vicinity /vəˈsɪn.ə.t̬i/ 鄰近，附近
+	ex: There are several hotels in the immediate vicinity of the station.
+		We could see that there were several open Wi-Fi networks in the vicinity.
+neighborhood 周圍；附近一帶
+adjacent 鄰近的，毗連的
+
+momentary 瞬間的，短暫的
+transient 瞬間的，短暫的
+temporary 臨時的，暫時的
+不同義的詞為：
+momentous 重大的，重要的
+
+
+
+martial : 武
+martial arts: 武術
+
+maritial : adj:  婚姻的
+maritial status: 婚姻狀態
+ 
+celiac disease: /ˈsiː.liː.æk dɪˌziːz/ 乳糜瀉:  患此病的人需要吃gluten-free的食物
+	對wheat, barley, rye過敏
+	People with coeliac disease need to keep to a gluten-free diet.
+Coeliac = celiac: 腹腔的
+
+ferry: 渡船
+canoe: 獨木舟
+yacht: 遊艇
+paddle boat: 腳踏船 (類似天鵝船一類)
+cruise: 漫遊、巡航 a journey on a large ship for pleasure, 
+	ex: 
+		They're going on a cruise round the Med.
+		They've just set off on a round-the-world cruise.
+
+neat: adj. 整潔
+
+sew: 縫、縫製
+現在式(Present Tense)：sew
+過去式(Past Tense)：sewed
+
+prized possession: 珍貴的財產
+
+priceless= 無價= invaluable 無法恆量價值的：很珍貴
+
+worthless= 無價 = useless, needless：完全沒有用處
+過去分詞(Past Participle)：sewn
+
+marhsal: 
+	元帥、leader
+
+	Chris Hadfield was the marshal of Stampede 101.
+
+auxiliary  /ɑːɡˈzɪl.i.er.i/ 助、補助
+	auxiliary verb: 助動詞
+
+oculist [ ˈɒkjəlɪst ]   n. 眼科醫生
+詞典例句
+If your eyes are infected, you must go to an oculist.
+如果你的眼睛受到感染, 就要去看眼科醫生.
+
+
+immaculate /ɪˈmæk.jə.lət/ 非常的乾淨
+	perfect clean ≒neat, tidy 
+
+	ex: dressed in an immaculate white suit
+		an immaculate garden
+
+malevolent: 壞心腸的
+
+irrigation: 灌溉
+	Feeding increasing populations is possible due primarily to improved irrigation systems.
+	能養活不斷增長的人口主要是由於改進的灌溉系統。
+
+	Food production has kept pace with soaring populations mainly because of the expansion of artificial irrigation systems that make possible the growth of 40 % of the world's food.
+	食物生產能夠跟上人口數量的不斷增長，主要是因為人工灌溉系統的擴張，這使得全球食物產量增長了40%。
+
+	soar:飆升、快速增長
+
+
+ortnight [ ˈfɔ:tnaɪt ]  n. 兩星期，十四天
+	I really feel in the pink after a fortnight's holiday.
+	度了兩星期假後,我的確感到身體非常舒適.
+
+compliant [ kəmˈplaɪənt ] adj. 遵從的;依從的;（與系列規則相）符合的;一致的
+	A compliant person gives in easily to other people's views.
+	一個(性格)溫順的人很容易順從別人的意見.
+
+decayed teeth [醫]蛀牙
+
+	Lack of Calcium in children would lead to rickets, eclampsia and decayed teeth, etc.
+	缺鈣兒童會出現佝僂 、 驚厥、齲齒等病.
+
+morality [ məˈræləti ] n. 道德;道德準則;品德高尚的行為;道德觀
+詞典例句
+He has overthrown the basic standards of morality.
+他已摒棄了基本的道德標準.
+
+
+linguistics: 語言學
+
+cater [ ˈkeɪtə(r) ] vt.&vi. 提供飲食及服務 vt. 滿足需要，適合;投合，迎合 n. （骰子，紙牌的）四點
+詞典例句
+They maintain a database of hotels that cater for businesswomen.
+他們維護著一個服務於商界女性的酒店資料庫。
+
+counsel [ ˈkaʊnsl ] n. 協商，討論;建議;策略;法律顧問，辯護人 vt. 勸告，建議;提供專業諮詢
+詞典例句
+Singleton's counsel said after the trial that he would appeal.
+審判結束後，辛格爾頓的律師表示他將會上訴。
+
+torch [tɔ:tʃ]   noun. 手電筒; 、火把
+SYN flashlight [AmE] :火把; 火炬:暗戀某人 verb. 故意點燃，放火燒:
+詞典例句
+Rioters torched several abandoned cars.
+暴徒縱火燒燬了幾輛被遺棄的汽車。
+
+calligraphy [kə'liɡrəfi]  noun. 書法; 字體
+
+ferries n. 渡船(ferry的名詞複數);渡口;擺渡;飛機渡運 v. 運送(ferry的第三人稱單數);（乘渡船）渡過（河等）;渡運飛機;擺渡，用（渡）船渡，（船）來往行駛
+詞典例句
+Ferries are very powerful and manoeuvrable compared to cargo ships.
+與貨船相比，渡船馬力大而且易操縱。
+
+flamingo [flə'miŋɡəu]   noun. 紅鸛，火烈鳥
+
+vet: 獸醫
+
+sunshield 遮阳
+词典例句
+One - touch Integrated SunShield: Smoke - tinted 3 - stage adjustable SunShield deploys quickly and easily ( patent pending ).
+一触式综合遮阳: 无烟着色3级可调遮阳部署快速,方便地 ( 专利待定 ).
+
+epidemic [ ˌepɪˈdemɪk ] n. 流行病;迅速的传播、生长或发展;风尚等的流行 adj. 流行性的;极为盛行的
+词典例句
+The major impact of this epidemic worldwide is yet to come.
+这种传染病在世界范围内的重大影响还未完全显现。
