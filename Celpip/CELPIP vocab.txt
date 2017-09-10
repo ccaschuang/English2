@@ -1,13 +1,14 @@
 assess	v. 估定, 評定
 	The insurers will need to assess the flood damage. They assessed the cost of the flood damage at £2,500.
 
-coherence	n. 粘附(附著, 結合, 凝聚, 相參性, 同調, 連貫性)
+coherence /koʊˈhɪr.əns/ n. 粘附(附著, 結合, 凝聚, 相參性, 同調, 連貫性)
 	There was no coherence between the first and the second half of the movie.
 compare	vt.&vi. 比較,比喻,對照 n. 比較，對照
 
 contrast	n.對比，對照； 差異； 對照物，對立面； [攝]反差
 
 demonstrate	vt. 示範, 演示, 證明 vi. 示威
+
 elaborate	adj. 精細的, 詳盡的, 精心的 v. 詳細地說明, 用心地作, 推敲
 	You want a plain blouse to go with that skirt - nothing too elaborate.
 		(表示沒有太過華麗的衣服)
@@ -85,6 +86,14 @@ sympathetic /ˌsɪm.pəˈθet̬.ɪk/	adj. 同情的,共鳴的 n. 交感神經
 	He suffers from back trouble too, so he was very sympathetic about my problem.
 	She just needed someone who would lend a sympathetic ear to her (= listen to her in a kind and understanding way) once in a while.
 
+in charge of 負責、管理
+	Who’s in charge here?
+	The teacher put me in charge of organizing the project.
+
+strike:
+	v. 1: 打擊
+	   2: 罷工
+	  Labour unions sometimes strike to gain job security.
 =========================
 https://www.shanbay.com/wordlist/181570/509278/
 Environment and Nature
@@ -513,39 +522,63 @@ Suffixes
 -ness	suff. (用於形容詞後構成名詞)表示“狀態”，“性質”
 -tion	
 ========================
-whine 抱怨
+whine 抱怨, 	嗚咽
+	Alice, if you keep whining I won't take you - do you understand?
 
-wrap up
+	Leon's dog was sitting by the door whining, so I thought I'd better take it for a walk.
+
+wrap up 打包
+	Have you wrapped up Jenny's present yet?
 
 waist 腰部
 
-vocal
+vocal 聲音的:relating to or produced by the voice, either in singing or speaking:
+	a piece of vocal music
+	The six principal roles in this opera have an average vocal range of two octaves.
 
-vibrant
+vibrant 充滿活力的
 
-vandalism
+vandalism 人為破壞 (law: 損毀罪) the crime of intentionally
+	Beset by violence and vandalism, this is one of the most unpleasant areas in the city.
+	These schools are known to be vulnerable to vandalism.
 
-tan
+tan adj.黃褐色  n小麥色的皮膚(指被太陽曬黑的皮膚色)
+	Annabelle was flaunting her tan in a little white dress.
+	She came back from Spain with a deep tan.
 
-unearth
+	flaunt:炫耀
+
+unearth  v. 1: 挖掘  2:發現
+	Building at the site was halted after human remains were unearthed earlier this month.
+
+
 
 understandable
 
-tranquil
+tranquil: calm and peaceful 寧靜、安寧
+	She stared at the tranquil surface of the water.
 
-trophy
+
+trophy: 獎杯、記念盃
 
 turn in
 
-toss and turn
+toss and turn 輾轉反側 (晚上睡不著)
+	I was tossing and turning all night.
 
-thrill
+thrill (興奮的)顫抖 a feeling of extreme excitement, usually caused by something pleasant:
+	So why do people still go hunting - is it the thrill of the chase?
+	It gave me a real thrill to see her again after so many years.
+
 
 accelerate
 
-acute
+acute:	
+	急性
 
-adolescence
+adolescence /ˌæd.əˈles.əns/ 青春期
+	She had a troubled adolescence.
+	yet another novel about the joys and sorrows of adolescence
 
 anesthetic
 
