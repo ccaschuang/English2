@@ -1,0 +1,12 @@
+Kitchenware
+
+juicer：果汁機
+
+squeezer: 壓榨機、榨汁機
+
+strainer:果濾器
+
+pot: 鍋子
+
+dish washer: 洗碗機
+

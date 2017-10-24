@@ -247,3 +247,28 @@ expectation 預期
 prospect 前景；預期
 不同義的詞為：
 scan 掃瞄；瀏覽
+
+
+同义的词为：
+	association 联盟，协会；联合
+	institute 协会，学院；制定
+	union 联盟，协会；联合
+
+不同义的词为：
+	amend 修改，改善
+
+同义的词为：
+	bushes 灌木
+	woods 树林
+	timber 木材，木料
+	jungle 丛林
+	forest 森林
+不同义的词为：
+	peer 凝视；同等的人；同龄人
+
+同义的词为：
+	onwards 朝前
+	forwards 向前
+	forth 向前
+不同义的词为：
+	omit 省略，删除，忽视

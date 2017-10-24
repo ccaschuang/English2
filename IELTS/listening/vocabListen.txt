@@ -1,3 +1,11 @@
+towel x2 [ ˈtaʊəl ] n. 毛巾，手巾;紙巾 vt. 用毛巾擦 vi. 用毛巾擦乾身體
+	She opened her front door draped in a towel.
+	她身裹毛巾打開了前門。
+
+	drape: to be loosely covered with a cloth	輕輕的包裡住
+		The coffins were all draped with the national flag.
+		He draped his jacket over the back of the chair and sat down to eat.
+
 freak out 嚇壞了
 
 conventional 常規、routine的事
@@ -533,66 +541,148 @@ flamingo [flə'miŋɡəu]   noun. 紅鸛，火烈鳥
 
 vet: 獸醫
 
-sunshield 遮阳
-词典例句
+sunshield 遮陽
+詞典例句
 One - touch Integrated SunShield: Smoke - tinted 3 - stage adjustable SunShield deploys quickly and easily ( patent pending ).
-一触式综合遮阳: 无烟着色3级可调遮阳部署快速,方便地 ( 专利待定 ).
+一觸式綜合遮陽: 無煙著色3級可調遮陽部署快速,方便地 ( 專利待定 ).
 
-epidemic [ ˌepɪˈdemɪk ] n. 流行病;迅速的传播、生长或发展;风尚等的流行 adj. 流行性的;极为盛行的
-词典例句
+epidemic [ ˌepɪˈdemɪk ] n. 流行病;迅速的傳播、生長或發展;風尚等的流行 adj. 流行性的;極為盛行的
+詞典例句
 The major impact of this epidemic worldwide is yet to come.
-这种传染病在世界范围内的重大影响还未完全显现。
+這種傳染病在世界範圍內的重大影響還未完全顯現。
 
 roller coaster 雲霄飛車
 
-rendezvous /ˈrɒn.deɪ.vuː/ noun. 〔常指秘密的〕约会，会面:约会地点:热门聚会处〔指酒吧、饭店等〕: verb. 〔在约定的时间或地点〕会面，相会;〔太空船、飞机或军用车辆为调动补给等而〕在约定地点会合
+rendezvous /ˈrɒn.deɪ.vuː/ noun. 〔常指秘密的〕約會，會面:約會地點:熱門聚會處〔指酒吧、飯店等〕: verb. 〔在約定的時間或地點〕會面，相會;〔太空船、飛機或軍用車輛為調動補給等而〕在約定地點會合
 
 We'll rendezvous with James in Nicosia.
-我们将在尼科西亚和詹姆斯碰头。
+我們將在尼科西亞和詹姆斯碰頭。
 
 hovercraft：氣墊船
 
-psychotherapy [ ˌsaɪkəʊˈθerəpi ]  n. [医]精神疗法;心理疗法
-词典例句
+psychotherapy [ ˌsaɪkəʊˈθerəpi ]  n. [醫]精神療法;心理療法
+詞典例句
 The Kaleses use moderate afternoon exercise, along with psychotherapy and biofeedback, to treat severe insomniacs.
-两位凯利斯用不太剧烈的午后运动, 结合精神疗法及机能反馈疗法, 来治疗严重的失眠患者.
+兩位凱利斯用不太劇烈的午後運動, 結合精神療法及機能反饋療法, 來治療嚴重的失眠患者.
 
-irrigation [ ˌɪrɪ'ɡeɪʃn ]  n. 灌溉;水利;[医]冲洗;冲注洗剂
+irrigation [ ˌɪrɪ'ɡeɪʃn ]  n. 灌溉;水利;[醫]沖洗;沖注洗劑
 
 	Irrigation is easy in the South because of the abundance of water.
-	南方多水,利于灌溉.
+	南方多水,利於灌溉.
 
-performer [ pəˈfɔ:mə(r) ]  n. 执行者;演奏者;演员，歌手;完成者
+performer [ pəˈfɔ:mə(r) ]  n. 執行者;演奏者;演員，歌手;完成者
 	A performer in evening dress plays classical selections on the violin.
-	一名身穿晚礼服的表演者用小提琴演奏了几段古典音乐。
+	一名身穿晚禮服的表演者用小提琴演奏了幾段古典音樂。
 
 
-bungalow [ ˈbʌŋgələʊ ] n. <英>平房;<美>单层小屋，多于一层的小屋
+bungalow [ ˈbʌŋgələʊ ] n. <英>平房;<美>單層小屋，多於一層的小屋
 	A bungalow is / Bungalowsare a type of house.
-	小平房是房子中的一种类型.
+	小平房是房子中的一種類型.
 
-tram   n. 有轨电车轨道;煤车，矿车，缆车 vt. 用电车（等）运;坐电车
+tram   n. 有軌電車軌道;煤車，礦車，纜車 vt. 用電車（等）運;坐電車
 	You can get to the beach easily from the centre of town by tram.
-	你从市中心乘有轨电车到海滩会很方便。
+	你從市中心乘有軌電車到海灘會很方便。
 
-cupboard [ ˈkʌbəd ]  n. 橱柜;衣柜;食物柜;壁橱
+cupboard [ ˈkʌbəd ]  n. 櫥櫃;衣櫃;食物櫃;壁櫥
 	The kitchen cupboard was stocked with tins of soup.
 
-wasteland [ ˈweɪstlænd ]   n. 荒地;荒漠;贫乏
-词典例句
+wasteland [ ˈweɪstlænd ]   n. 荒地;荒漠;貧乏 = barren
+詞典例句
 We shall turn this piece of wasteland into wheat fields.
-我们要把这块不毛之地改成麦田.
+我們要把這塊不毛之地改成麥田.
  
  (與badland不同的地方是：badland主要會是以石頭為主，wasteland則是純粹指該地沒有相關資源)
 
- chin [ tʃɪn ]  n. （尤指人的）颏，下巴;聊天;引体向上动作 v. 用下巴夹住;聊天;作引体向上动作
-词典例句
+ chin [ tʃɪn ]  n. （尤指人的）頦，下巴;聊天;引體向上動作 v. 用下巴夾住;聊天;作引體向上動作
+詞典例句
 He put his hand under her chin in an almost paternal gesture.
-他以近乎父亲的姿态用手托着她的下巴。
+他以近乎父親的姿態用手托著她的下巴。
 
 cheek:臉頰
 chest: 胸、胸腔
 
-craft [ krɑ:ft ] n. 手艺;诡计;飞行器;船 vt. 手工制作;精巧地制作
+craft [ krɑ:ft ] n. 手藝;詭計;飛行器;船 vt. 手工製作;精巧地製作
 	The frail craft rocked as he clambered in.
-	他爬进来的时候，那件易碎的工艺品摇晃起来。
+	他爬進來的時候，那件易碎的工藝品搖晃起來。
+
+a chill down my spine: 毛骨悚然；背脊發涼
+	That's when I felt a chill down my spine.
+
+dioxide [ daɪˈɒksaɪd ]  n. [化]二氧化物
+	Carbon dioxide is a necessary result of the oxidation of carbon compounds.
+	碳化合物氧化後必然會產生二氧化碳。
+
+canteen [ kænˈti:n ]  n. 小賣部;食堂，小飯館;水罐;餐具盒，炊具箱
+	This is a much frequented canteen.
+	這是一家就餐人數很多的食堂.
+encyclopedia [ ɪnˌsaɪklə'pi:dɪə ]   掌握  n. 百科全書 na. “encyclopaedia”的變體
+
+	Geoff is a walking encyclopedia. He knows about everything.
+	傑夫是個活百科全書, 他什麼都懂.
+
+	活字典：walking encyclopedia 
+
+overdraft [ ˈəʊvədrɑ:ft ]  n. 透支;透支額
+
+	Her bank warned that unless she repaid the overdraft she could face legal action.
+	銀行警告她如果不償還透支錢款，她將面臨訴訟。
+
+
+timber [ ˈtɪmbə(r) ]n. 木材，木料;（用於建築或製作物品的）樹木;用材林，林場;素質 vt. 用木料支撐;備以木材
+
+	Half of the north-west's timber land is public property.
+	西北部的一半林地是公共財產。
+
+chancellor [ 'tʃɑ:nsələ(r) ] n. 大臣;（某些美國大學的）校長;
+（德國或奧地利的）總理;（英國大學的）名譽校長
+
+	Chancellor Helmut Kohl was the leading cheerleader for German unification.
+	赫爾穆特·科爾總理是德國統一的主要支持者。
+
+contaminants [ kən'tæmɪnənts ] n. 污染物，致污物(contaminant的名詞複數)
+	We are exposed to an overwhelming number of chemical contaminants every day in our air, water and food.
+	我們每天都會通過空氣、水和食品接觸到數量驚人的化學污染物。
+
+bibliography [ ˌbɪbliˈɒgrəfi ] n. 書目提要，書目;書志學，書志;文獻，文獻學
+
+	At the end of this chapter there is a select bibliography of useful books.
+	本章末尾列有一份有用的精選書目。
+
+energies n. 活力(energy的名詞複數);[物理學]（原子、電、輻射的）能;[常用複數]精力;（有效地發揮的）力量
+
+	He devoted his energies to the reformation of science.
+	他致力於科學的改革。
+
+	reformation: 改革
+herbivorous [ hɜ:'bɪvərəs ]  adj. 食草的
+
+	Herbivorous animals have very small canine teeth, or none.
+	食草動物的犬牙很小或者沒有.
+
+prospectus [ prəˈspektəs ]  n. 內容說明書;（即將出版的書等的）內容介紹，簡介;計畫書，意見書;（講義等的）大綱
+
+	Yes, I did read about it in the prospectus you sent me about the section.
+	對了, 在你們寄給我的質檢科規劃書中我讀到過.
+
+pensioners n. 領取退休、養老金或撫卹金的人(pensioner的名詞複數)
+	I would like to know why we pensioners are being so badly treated.
+	我想知道為什麼我們這些領養老金的人受到如此惡劣的對待。
+
+sewer [ ˈsu:ə(r) ] n. 陰溝，污水管，下水道;裁縫師 v. 從…排污水
+
+	They are tearing up the street to repair a sewer.
+	他們正挖開馬路修下水道.
+
+	sew:/soʊ/  	縫 v.
+
+satisfactory [ ˌsætɪsˈfæktəri ] adj. 令人滿意的;符合要求的;[神]贖罪的
+	Theirs had been a happy and satisfactory marriage.
+	他們的婚姻曾經一直幸福美滿。
+
+voucher ['vautʃə]  noun. 代金券:收据，收条，凭单
+	First prize is a ￡1000 travel voucher.
+	头等奖是价值 1000 英镑的旅行券。
+
+excursion [ ɪkˈskɜ:ʃn ] n. （尤指集体）远足;短途旅行，游览;离题;[机]冲程
+	She felt more than usually hungry after her excursion.
+	远足后，她比平时感觉更饿。
