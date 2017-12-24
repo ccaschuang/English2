@@ -1,4 +1,4 @@
-assess	v. 估定, 評定
+ assess	v. 估定, 評定
 	The insurers will need to assess the flood damage. They assessed the cost of the flood damage at £2,500.
 
 coherence /koʊˈhɪr.əns/ n. 粘附(附著, 結合, 凝聚, 相參性, 同調, 連貫性)
@@ -78,13 +78,17 @@ indifferent	adj. 漠不關心的, 無重要性的, 中立的
 
 jealous	adj. 妒忌的,戒備的
 envious adj. 羨慕的
-
+	envy: v. 羨慕 (但有時候也會翻成忌妒)
 lonely	adj. 孤獨的,寂寞的,荒涼的
 surprised	adj. 感到驚訝的 vbl. 感到驚訝
 
 sympathetic /ˌsɪm.pəˈθet̬.ɪk/	adj. 同情的,共鳴的 n. 交感神經
 	He suffers from back trouble too, so he was very sympathetic about my problem.
 	She just needed someone who would lend a sympathetic ear to her (= listen to her in a kind and understanding way) once in a while.
+
+pathetic:  adj: 可憐、憐敏
+	The refugees were a pathetic sight - starving, frightened and cold.
+	Pathetic!! All of you, pathetic. 可憐的人，你們全部的人都很可憐。
 
 in charge of 負責、管理
 	Who’s in charge here?
@@ -634,3 +638,18 @@ summarize	vt. &vi. 概述,摘要而言
 CELPIP vocab
 http://www.tceducation.ca/en/wordlist-500/
 https://www.shanbay.com/wordlist/181570/509182/
+
+---
+archaeology [ ˌɑ:kiˈɒlədʒi ] n. 考古学;古物;古迹
+	Aerial photography has revolutionized the study of archaeology.
+	航空摄影已经给考古学研究带来了一场革命。
+anthropology: 人類學
+
+astronomy [ əˈstrɒnəmi ] n. 天文学
+词典例句
+	Speaking generally, the space enterprise has served astronomy well.
+	总的说来，航空企业很好地促进了天文学的发展。
+
+astrology [ əˈstrɒlədʒi ]  n. 占星术;占星学;原始天文学
+	She's busy writing a book on astrology.
+	她正忙着写一本关于占星术的书.

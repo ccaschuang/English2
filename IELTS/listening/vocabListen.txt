@@ -744,4 +744,34 @@ nitpick: 鸡蛋里挑骨头 similar to picky
 hypocrite /ˈhɪp.ə.krɪt/: 偽君子  someone who says they have particular moral beliefs but behaves in way that shows these are not sincere:
 	He's a hypocrite - he's always lecturing other people on the environment but he drives around in a huge car.
 
-	
+canteen [ kænˈti:n ]  n. 小卖部;食堂，小饭馆;水罐;餐具盒，炊具箱
+	This is a much frequented canteen.
+	这是一家就餐人数很多的食堂.	
+
+caravan ['kærəvæn] noun.〔带有食宿设备的〕旅行拖车;〔吉卜赛人居住的〕大篷车，有篷马车;〔带着牲口、车辆等穿越沙漠等地带的〕旅行队
+	a gipsy caravan
+	吉卜赛人的大篷车
+
+archaeology [ ˌɑ:kiˈɒlədʒi ] n. 考古学;古物;古迹
+	Aerial photography has revolutionized the study of archaeology.
+	航空摄影已经给考古学研究带来了一场革命。
+anthropology: 人類學
+
+astronomy [ əˈstrɒnəmi ] n. 天文学
+词典例句
+	Speaking generally, the space enterprise has served astronomy well.
+	总的说来，航空企业很好地促进了天文学的发展。
+
+astrology [ əˈstrɒlədʒi ]  n. 占星术;占星学;原始天文学
+	She's busy writing a book on astrology.
+	她正忙着写一本关于占星术的书.
+
+
+botany	n. 植物學，植物 the scientific study of plants
+	His leisure time was given up to natural history, and especially to mineralogy and botany.
+
+tread: 踏 to walk
+	He trod heavily and reluctantly up the stairs.
+
+	I don't know where you are going with this, but tread carefully because it may be the last conversation we ever have. ：我不知道你接下來要說什麼，但是最好小心一點，因為這可能會是我們最後的對話
+	(此時的tread可以解釋成"對待")
