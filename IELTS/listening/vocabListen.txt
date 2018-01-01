@@ -775,3 +775,7 @@ tread: 踏 to walk
 
 	I don't know where you are going with this, but tread carefully because it may be the last conversation we ever have. ：我不知道你接下來要說什麼，但是最好小心一點，因為這可能會是我們最後的對話
 	(此時的tread可以解釋成"對待")
+
+mobster: 強盜、歹徒
+rubber: 盜賊
+bandit

@@ -105,11 +105,10 @@ Environment and Nature
 botany	n. 植物學，植物 the scientific study of plants
 	His leisure time was given up to natural history, and especially to mineralogy and botany.
 
-deplete	vt. 耗盡,使...空竭  = consume
+deplete	vt. 耗盡,使...空竭  = consume, exhaunst
 	If we continue to deplete the earth's natural resources, we will cause serious damage to the environment.
 	The illness depletes the body of important vitamins.
 	He consumes huge amounts of bread with every meal.
-
 
 ecosystem	n. 生態系統
 
@@ -160,6 +159,9 @@ medical	adj. 醫療的,醫學的,藥物的,需治療的
 metabolism	n. 新陳代謝
 muscle	n. 肌肉 vt. 用力擠 vi. 用力進行
 nauseating	adj. 使人噁心的
+	Her strongest criticism was reserved for the prime minister whom she accused of "nauseating hypocrisy".
+
+	hypocrisy: 虛情假意
 
 nutrient	adj. 營養的,滋養的 n. 營養物,營養品 
 nutrituous = nutrient = nourishing 營養的
@@ -372,6 +374,7 @@ clever	adj. 聰明的,機靈的
 
 courageous /kəˈreɪ.dʒəs/	adj. 勇敢的 = brave
 	It was a courageous decision to resign in protest at the company's pollution record.
+		protest: 抗議
 
 cowardly	adj. 懦弱的, 卑怯的, 膽小的
 	This was a particularly brutal and cowardly attack.
@@ -442,7 +445,7 @@ excursion	n. 遠足, 短途旅行
 
 motorboat	n. 汽艇
 	While you can take a motorboat, many people prefer to take the original Venetian taxi, the famous gondola.
-gondola     n. 覽車
+gondola     n. 1:覽車 2: 小船 (長平底船)
 
 =========================
 Social and Topical Issues
@@ -584,21 +587,33 @@ adolescence /ˌæd.əˈles.əns/ 青春期
 	She had a troubled adolescence.
 	yet another novel about the joys and sorrows of adolescence
 
-anesthetic
+anesthetic /ˌæn.əsˈθet̬.ɪk/: 麻藥
+anaesthetic /ˌæn.əsˈθet̬.ɪk/
+	The operation is performed under anaesthetic.
 
 antibotics
 
-antiseptic
+antiseptic /ˌæn.t̬iˈsep.tɪk/:  防腐劑
+	Antiseptic is used to sterilize the skin before giving an injection.
 
-apathetic
+apathetic /ˌæp.əˈθet̬.ɪk/: showing no interest, enthusiasm, or concern. 無感、不在意的
+	Young people today are so apathetic about politics.
+	Don't be so apathetic - how are you going to get a job if you don't even start looking?
 
-apart from
+apart from: 除了 (except )except for or not considering:
+	Apart from the salary/Salary apart, it's not a bad job.
+	Apart from you and me/You and me apart, I don't think there was anyone there under 30.
 
-apprehensive
+apprehensive: adj. = worried, concerned 憂慮的
+	I'm very apprehensive about tomorrow's meeting.
+	I've invited a lot of people to the party, but I'm a little apprehensive that no one will come.
 
-arthritis
 
-aspriation
+arthritis 關節炎
+
+aspiration 心願、意願
+	I've never had any political aspirations.
+	It's a story about the lives and aspirations of poor Irish immigrants.
 
 attre
 
@@ -653,3 +668,6 @@ astronomy [ əˈstrɒnəmi ] n. 天文学
 astrology [ əˈstrɒlədʒi ]  n. 占星术;占星学;原始天文学
 	She's busy writing a book on astrology.
 	她正忙着写一本关于占星术的书.
+
+nutrition: 營養學
+	She's a professor of nutrition at Columbia University.
