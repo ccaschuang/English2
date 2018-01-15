@@ -604,7 +604,7 @@ apart from: 除了 (except )except for or not considering:
 	Apart from the salary/Salary apart, it's not a bad job.
 	Apart from you and me/You and me apart, I don't think there was anyone there under 30.
 
-apprehensive: adj. = worried, concerned 憂慮的
+* apprehensive: adj. = worried, concerned 憂慮的
 	I'm very apprehensive about tomorrow's meeting.
 	I've invited a lot of people to the party, but I'm a little apprehensive that no one will come.
 
@@ -671,3 +671,5 @@ astrology [ əˈstrɒlədʒi ]  n. 占星术;占星学;原始天文学
 
 nutrition: 營養學
 	She's a professor of nutrition at Columbia University.
+
+stinky: adj. 臭的。having a strong or unpleasant smell.
