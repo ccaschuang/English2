@@ -30,11 +30,14 @@ ex:
 It is little known, unsung and one of the grandest little towns you could ever wish to see.
 它雖然名不見經傳，但卻是不可錯過的最具恢宏氣象的小鎮之一。
 
-roublesome [ ˈtrʌblsəm ]   掌握
+troublesome [ ˈtrʌblsəm ]   掌握
 adj. 令人討厭的;令人煩惱的;引起麻煩的;（孩子等）難管的
 ex:
 The economy has become a troublesome issue for the Conservative Party.
 經濟狀況已成為保守黨的一大難題。
+
+	in trouble = up the creek：在困境中、遇到困難
+
 
 lender [ ˈlendə(r) ] n. 出借人，貸方
 ex:
@@ -781,5 +784,43 @@ rubber: 盜賊
 bandit:
 niajia:
 cat burglar: 飛賊
+
+
+抽籤
+lottery
+pick names out of a hat
+Draw a lottery to ...
+
+	"Let's draw a lottery to determine the order of performance." 我們來抽籤決定表演順序.
+
+	很多人以為 Draw a lottery 是表示抽獎, 其實表示抽獎用 Enter lottery 或 Play lottery 才對, 如下:
+
+	"Enter lottery to win $100 million jackpot!" or "Play lottery to win $100 million jackpot!" (注意: lottery 前面不加 a)
+
+Kimono: 和服
+
+psycholinguistics [ ˌsaɪkəʊlɪŋˈgwɪstɪks ]   n. 语言心理学
+词典例句
+Recently implicit learning and explicit learning an interdisciplinary research focus for applied linguistics and psycholinguistics abroad.
+
+外显学习和内隐学习研究在国际上受到了应用语言学、心理语言学等诸多学科的关注.
+
+School of Arts and Sciences 艺术与科学学院
+A school specializing in the teaching of industrial arts and applied sciences.
+提供多种工艺美术和应用科学指导的工业学校.
+
+department 部門、學系
+faculty: 學院
+	the law faculty: 法律學院
+
+School, Faculty都稱為學院，在不同的學校有不同的稱法
+	在 HKU, 工程學院 叫 Faculty of Engineering, 
+	在 HKUST, 工程學院 叫 School of Engineering, 
+	外國卻有些大學, 工程學院 叫 College of Engineering. 
+	
+snoop: 窺探 (to look around a place secretly)
+	You snoop on me? (通常指侵犯隱私的方式，如趁人不在的時候偷翻人家的抽屜)
+
+
 
 

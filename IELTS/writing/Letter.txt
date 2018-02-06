@@ -128,7 +128,7 @@ Bill
 
 flat 平面，又可以稱為住宅= house
 spoil  1:寵壞 2:毀壞
-distress 
+distress = 苦難 = suffering
 ================================================
 Making a complaint 抱怨信
 	You have bought a washing machine (Sanyo XQB 50-68). First you found that the machine damaged your clotes, and you had it changed. Then you found that the new one seriously entangled the clothes.
@@ -137,6 +137,10 @@ Making a complaint 抱怨信
 
 You should write at least 150 words.
 You do NOT need to write your own address.
+
+通常開頭是：I am writing this email to complain about the dinner last night.
+	(注意是to complain about...  然後後面的句子通常是過去式)
+
 
 Dear Sir or Madam, 
 
@@ -152,7 +156,8 @@ Yours sincerely,
 Jack.
 
 
-entangles
+entangles 絞 (to cause something to become caught in something such as a net or ropes)
+	The dolphin had become entangled in/with the fishing nets.
 instruction booklet 使用說明書
 ========================================================
 Thank you letter: 感謝信
@@ -165,6 +170,8 @@ You do NOT need to write your own address.
 
 
 Dear David:
+
+	(Thank you 後面是加for )
 	I am writing this letter to thank you for the guidance you gave me. I was a perfect stranger when arriving at this city. Once I lost myself for not knowing the way in a downtown street, although I stopped to ask some people for direction. As you know that was the first time for me to come up to this big city.
 
 	I bought a guidebook, but there were still difficulties in going round the city. The streets and shops puzzled me so much taht I would rahter stay indoors. It is your valuable guidance that has enabled me to go about the city without losing myself.  I thank you very much for your kind help. Now I begin to know how to take the proper trolley-buses or buses. Yesterday I went downtown with some of my schoolmates to buy some stationery.
@@ -252,7 +259,7 @@ ex:
 I would like more information or links you have to help me in my process.
 
 
-//Template for introduction emaail
+//Template for introduction email
 
 Dear [first name],
 

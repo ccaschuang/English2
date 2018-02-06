@@ -45,3 +45,7 @@ flatter :奉承
 
 complaint: 抱怨
 compliment: 讚美
+
+
+funny
+hilarious

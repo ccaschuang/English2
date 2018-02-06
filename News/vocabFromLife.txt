@@ -20,3 +20,7 @@ engrave: 刻、刻字
 
 cat burglar: 飛賊
 niajia:忍者
+playa
+
+vigilante 私刑  -->pushiment from society
+	(私下報復)
