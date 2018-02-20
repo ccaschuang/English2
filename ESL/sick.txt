@@ -60,3 +60,9 @@ sprain: 扭傷
 	sprained ankle. 扭傷的腳踝
 
 I sprained my wrist last night when I was playing bastetball.
+
+lap 大腿 (腰部到膝蓋之間)
+thigh: 大腿
+
+blister: v. 起泡、起水泡
+

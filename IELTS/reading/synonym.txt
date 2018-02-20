@@ -272,3 +272,28 @@ scan 掃瞄；瀏覽
 	forth 向前
 不同义的词为：
 	omit 省略，删除，忽视
+
+同义的词为：
+	virtue 美德，优点
+	morality 道德，美德
+不同义的词为：
+	mortality 死亡数
+
+同义的词为：
+
+	building 建筑
+
+	habitation 住所
+
+	dwelliing 住所，寓所
+
+	residence 住宅，住处
+
+不同义的词为：
+
+	illiterate 文盲的，不识字的
+
+	just 公平的
+	impartial 公平的
+不同义的词为：
+	discrimination 歧视，区别对待
