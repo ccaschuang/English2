@@ -29,6 +29,10 @@ stalactite cave: 鐘乳石洞
 astonish: v.震驚
 astonishing: 驚人的
 
+
+glorious 輝煌的
+
+
 marvelous: 奇妙的、不平凡的
 
 magnificent adj.華麗的, 壯麗的

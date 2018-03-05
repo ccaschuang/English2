@@ -33,4 +33,6 @@ outskirts 郊區
 	outskirts of town
 	outskirts of New York (紐約郊區)
 
-	
+leverage
+
+segregation

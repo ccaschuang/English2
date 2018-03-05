@@ -9,3 +9,7 @@ Access restored to displaced residents of Upper Florida Keys
 UN approves watered-down new sanctions against North Korea
 	sanction: 制裁
 	water-down: 沖淡
+
+in the wake of: 在……之後
+
+	In the wake of the Florida school shooting, the NRA is suddenly distinctly vulnerable 在佛洲校園槍擊案之後，NRA(步槍協會)忽然變得非常弱勢
