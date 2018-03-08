@@ -33,6 +33,7 @@ outskirts 郊區
 	outskirts of town
 	outskirts of New York (紐約郊區)
 
-leverage
+leverage: the action or advantage of using a lever: 槓桿作用
+	Using ropes and wooden poles for leverage, they haul sacks of cement up the track.
 
-segregation
+segregation: 隔離
