@@ -37,3 +37,10 @@ leverage: the action or advantage of using a lever: 槓桿作用
 	Using ropes and wooden poles for leverage, they haul sacks of cement up the track.
 
 segregation: 隔離
+
+in panic: 在恐慌中
+	panic:  n. 恐慌
+			adj. 恐慌的
+	His dog is in panic and barking at everyone.
+
+
