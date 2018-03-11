@@ -109,3 +109,17 @@ Sincerely, ccas
 
 
 ============================================================
+Writing Simulation
+
+Task 1: 
+Last weekend you attend the Canada Day community picnic. 
+The event was a potluck, so everyone brought a dish of food to share. Some people, including you, have allergies or can't eat some types of food, such as nuts and seefood, so you included a list of ingredients with your dish. No one else did this.
+
+
+Question:
+Write an email to the community picnic organizer in about 150~200 words. your email should do the following things: 
+	Express your overall enjoyment of last week's event.
+	Explain why each potluck dish needs a list of ingredients. Describe how the potluck could be differently organized next year.
+
+
+(Note: There's an level12 writing png file)
