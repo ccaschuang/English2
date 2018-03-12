@@ -1,5 +1,35 @@
 Writing Exam:
 
+Simulation tests can test from: 
+https://sites.google.com/a/builder88.com/edu/citizen/celpip-citizen/celpip-practise-1?tmpl=%2Fsystem%2Fapp%2Ftemplates%2Fprint%2F&showPrintDialog=1
+
+(Unwritten topics)
+http://www.eslreddeer.com/celpip-writing-topics/
+
+1. A company has announced that it wishes to build a large factory near your community.
+
+Do you support or oppose the factory? Explain your position.
+
+Give reasons for your answer and include any relevant examples from your own knowledge or experience.
+
+2. You are a volunteer at the local community theater group. You have been asked whether the group should spend its money on costumes or on storage.
+
+Which alternative do you support? Explain your position.
+
+Give reasons for your answer and include any relevant examples from your own knowledge or experience.
+
+3. Your company is considering whether or not to sponsor a float in the upcoming community parade. Your superiors have asked for your opinion.
+
+Do you support or oppose the investment? What possible advantages or disadvantages might there be? Explain your position.
+
+Give reasons for your answer and include any relevant examples from your own knowledge or experience.
+
+4. Do you think most celebrities would vote for a law that made it illegal for photographers to take and publish photos of people without permission?
+
+Would you vote for or against a law like that?
+
+Explain your position with reasons and details.
+
 ==================================================
 Read the following information.
 
@@ -136,5 +166,42 @@ Ccas
 
 
 The vocab I use: exotic, delighted.
+
+=======================================
+Writing test Task2:
+
+http://celpip-tip.blogspot.ca/2016/09/celpip-writing-task-2-responding-to.html
+
+Develop your city: 
+
+Nowadays, Many people are moving to the city and the people rate is increasing, so I think the city will develop to grow up. In my opinion, we would better build some big shopping complex in the city.
+
+First of all, We already have lots of parks. In my view, We don't need no more parks and Some people said 'We need some convenience store or building'. 
+
+In addition, when I tried to buy big monitor or computer materials, I have to buy only online! I should wait at least a week because I can't find the big store like the super store or wall mart. 
+
+To sum up, I believe that if the city develops toward to convenience building or store, the city will be grown up.
+
+====================================
+
+http://celpip-tip.blogspot.ca/2018/02/celpip-writing-task-1-writing-email.html
+ Write an email about voluntary
+
+  Dear Mr./Ms. Manager
+
+I am interested in an opportunity to volunteer with the CELPIP-TIP organization. I have significant experience working with children, and would like to continue to do so in a volunteer capacity. 
+
+  I volunteered as a teacher’s aide at the Canada School and enjoyed being able to help kindergarteners learn during their first experience in a class room. In this position, I assisted with classroom projects, provided one-on-one literacy tutoring to the children, and chaperoned field trips. 
+
+For the past several winters, I volunteered with children on the slopes of a local ski resort, assisting coaches with teaching basic skiing to toddlers and elementary school age children. 
+
+  I believe it would be an excellent opportunity to develop my interest in early childhood education, a field I wish to study and pursue professionally in the future. 
+
+ My schedule is flexible and I am available to volunteer both evening and weekend hours, as well as during the day. Please feel free to reach out to me via email or cell phone. 
+
+Thanks for your consideration, and I look forward to hearing from you! 
+
+Sincerely, 
+====================================
 
 
