@@ -202,3 +202,26 @@ illiteracy: 文盲
 serviette:(法語) = a table napkin: 餐巾紙
 
 planetarium: 天文館
+
+
+sewer: 下水道
+collision n. 碰撞(車禍可以用的單字)
+
+witness:證人
+
+opposite: 相反的
+	ex: opposite direction
+		one the opposite side
+
+pamphlet: 小冊子 = booklet
+brochure 手冊
+
+vendor 供應商
+
+
+oriental: 東方的
+	The completed water spout is a charming and simple orientally themed water feature.
+exotic: 異國料理的 (通常是指偏熱帶的)
+	The courtyard was full of exotic plants in terracotta pots.
+	Wherever does he get the money from to go on all these exotic journeys?
+
