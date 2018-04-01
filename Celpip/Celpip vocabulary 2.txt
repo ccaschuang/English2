@@ -152,6 +152,7 @@ malfunction (n. v.)故障、壞掉的
 Oval  橢圓形
 unison  齊奏 (有時又表示雙方意見一致)
 prompt  提示
+	impromptu: 即興adj.
 territory: 領地、領土
 spontaneous: 自發的、發自內心的  
 ​ (happening or done in a natural, often sudden way, without any planning or without being forced)
@@ -189,7 +190,7 @@ teenager: 指13指19歲的人
 	I'm looking after six adolescents for a week.
 ==================
 
-Toque:  A knitted winter hat 
+Toque /toʊk/:  A knitted winter hat 
 		針織帽 (加拿大英文)
 		knit: v. 針織
 		knitted: 針織的
@@ -262,3 +263,13 @@ pail: 桶、水桶= bucket
 	ex: a pail of beer
 
 rehabilitation:復健
+
+veterinary:/ˈvet.ər.ə.ner.i/ 獸醫的：adj.  connected with taking care of the health of animals:
+
+	veterinary medicine
+
+veterinarian: 獸醫 = vet
+	The farmer called the vet out to treat a sick cow.
+anecdote: a short, often funny story, especially about something someone has done.
+		(奇聞軼事，通常是真有其事的好笑故事x)
+	He told one or two amusing anecdotes about his years as a policeman.

@@ -679,3 +679,5 @@ nutrition: 營養學
 	She's a professor of nutrition at Columbia University.
 
 stinky: adj. 臭的。having a strong or unpleasant smell.
+funky: adj. having a bad smell or appearance:
+	The sour cream smells kind of funky.
