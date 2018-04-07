@@ -11,12 +11,22 @@ Eavestrough – A gutter fixed beneath the edge of a roof
 
 	pl(複數：)eavestroughs
 
+bedgasm (n.) a feeling of euphoria experienced when climbing into bed at the end of a very long day.	指在一個長時間的工作後，終於可以回到床上的一種瑜悅感
+	A feeling of complete and utter euphoria which peaks when climbing into bed at the end of an 18-hour workday, a long road trip or hours of extremely strenuous physical activity. Under perfect conditions, the physical release has been likened to that of an intense sexual experience.
+
+	euphoria: /juːˈfɔːr.i.ə/ 極度快樂adj. 
+
+	"It was a three hour drive in the middle of the night, I could barely stay awake. When I got home, I climbed under the covers and had a ten-minute bedgasm."
+
+
 ==============
 President: 總統
+	vice president: 副總統
 Premier：省長  （在部份國家翻為首相）
 The Premier of Alberta: Alberta省長
 	Rachel Notley　is the Premier of Alberta.
-Mayer：市長
+Mayor：市長
+	deputy mayor 副市長
 
 principal: 校長
 
@@ -37,8 +47,11 @@ Inukshuk: 因努伊特石堆
 	(因努人原住民的人造石堆)
 		在因努伊特語中的意思即是「代替人的物體」之意。
 
-quarrel: 吵架	an angry argument or disagreement, typically between people who are usually on good terms.
+quarrel /ˈkwɔːr.əl/: 吵架	an angry argument or disagreement, typically between people who are usually on good terms.
 	That war was not the quarrel of the indigenous people, yet we conscripted them to fight it.
+
+	They had a bitter quarrel about/over some money three years ago and they haven't spoken to each other since.
+
 
 	synomyn: argue: 爭論
 			 fight: 打架
@@ -262,7 +275,10 @@ hive: 蜂巢
 pail: 桶、水桶= bucket
 	ex: a pail of beer
 
-rehabilitation:復健
+rehabilitation /rɪˌhə bɪl.ɪˈte.ʃən/:復健
+	Many amputees in the early stages of their rehabilitation feel despair.
+		the rehabilitation of violent offenders
+	a drug rehabilitation clinic (戒毒診所)
 
 veterinary:/ˈvet.ər.ə.ner.i/ 獸醫的：adj.  connected with taking care of the health of animals:
 
@@ -270,6 +286,6 @@ veterinary:/ˈvet.ər.ə.ner.i/ 獸醫的：adj.  connected with taking care of 
 
 veterinarian: 獸醫 = vet
 	The farmer called the vet out to treat a sick cow.
-anecdote: a short, often funny story, especially about something someone has done.
+anecdote /ˈæn.ɪk.doʊt/: a short, often funny story, especially about something someone has done.
 		(奇聞軼事，通常是真有其事的好笑故事x)
 	He told one or two amusing anecdotes about his years as a policeman.

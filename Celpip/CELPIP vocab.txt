@@ -90,9 +90,14 @@ pathetic:  adj: 可憐、憐敏
 	The refugees were a pathetic sight - starving, frightened and cold.
 	Pathetic!! All of you, pathetic. 可憐的人，你們全部的人都很可憐。
 
-in charge of 負責、管理
+symphony: 交響樂
+
+in charge of 負責、管理 = responsible for something or someone
 	Who’s in charge here?
 	The teacher put me in charge of organizing the project.
+
+	Parents is responsible for their children
+	The city council is responsible for keeping the streets clean.
 
 strike:
 	v. 1: 打擊

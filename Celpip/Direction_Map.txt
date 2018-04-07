@@ -13,6 +13,7 @@ on the north west corner of Graham Ave and Hargrave St.
 
 2: 在哪一條街上也可以加方向(東南西北)，然後可以再加上是哪兩條路的中間
 	The library is on the south side of Graham Ave, between Smith St. and Donald St. 
+
 3: 在誰的旁邊會用 next to, 在誰的對面則使用across from 
 	Best Western is next to Rib Room, on the south west corner of York Ave and Donald St.
 		(Best Western在Rib Room的旁邊)
@@ -23,8 +24,12 @@ on the north west corner of Graham Ave and Hargrave St.
 其他會用到的：
 across the street 過馬路
 
-kitty corner, katty corner: 斜對角
+cater-cornered: 斜對角
 	A restaurant cater-cornered from the movie theater
+
+在…的旁邊 會使用 beside/next to/ aside
+		(next to也算是fancy word，可以考慮使用，如果需要使用多次，可以交替使用)
+	The restaurant is next to the post office.
 
 up the street
 
