@@ -10,3 +10,8 @@ pot: 鍋子
 
 dish washer: 洗碗機
 
+toaster: 烤面包機
+	push the toast down (按下土司機的開關)
+	The toasts pop up. 土司跳起來 (指烤好面包了)
+
+saucepan: /ˈsɔː.spən/  平底鍋

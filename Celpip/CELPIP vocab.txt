@@ -686,3 +686,6 @@ nutrition: 營養學
 stinky: adj. 臭的。having a strong or unpleasant smell.
 funky: adj. having a bad smell or appearance:
 	The sour cream smells kind of funky.
+
+flatmate:室友(指住在同一層，同一間公寓的室友)
+roommate:室友

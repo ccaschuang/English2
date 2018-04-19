@@ -40,9 +40,9 @@ lack
 affect:
 	影響  
 	v. 做某件事而產生了影響或改變某事或某人
-	n. 
+	(幾乎只使用動詞)
 effect:
-	n. 影響
+	n. (C.N.  U.N.) 影響
 	v. 使發生 make something happen
 		! Do not confuse with the verb affect (=to have an effect on something)
 
@@ -51,6 +51,9 @@ effect:
 		Many parents lack confidence in their ability to effect change in their children’s behaviour. 許多雙親在改變他們孩子的行為能力上缺乏信心。
 		decisions which affect our lives 改變我們的生活的決定
 
+	P.S. effect當動詞不常見，如無法應用自如的話，可以使用
+		affect當動詞
+		effect當名詞
 
 modern 現代 (不是modem, 也不是morden, 不要拚錯)
 

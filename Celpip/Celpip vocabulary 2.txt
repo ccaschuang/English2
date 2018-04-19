@@ -14,8 +14,9 @@ Eavestrough – A gutter fixed beneath the edge of a roof
 bedgasm (n.) a feeling of euphoria experienced when climbing into bed at the end of a very long day.	指在一個長時間的工作後，終於可以回到床上的一種瑜悅感
 	A feeling of complete and utter euphoria which peaks when climbing into bed at the end of an 18-hour workday, a long road trip or hours of extremely strenuous physical activity. Under perfect conditions, the physical release has been likened to that of an intense sexual experience.
 
-	euphoria: /juːˈfɔːr.i.ə/ 極度快樂adj. 
-
+   euphoria: /juːˈfɔːr.i.ə/ 極度快樂adj.
+   -gasm:字尾： 表達一個非常開心的事/物 Describing an intensely pleasurable experience or thing.
+		An eyegasm. A nerdgasm.
 	"It was a three hour drive in the middle of the night, I could barely stay awake. When I got home, I climbed under the covers and had a ten-minute bedgasm."
 
 
@@ -286,6 +287,17 @@ veterinary:/ˈvet.ər.ə.ner.i/ 獸醫的：adj.  connected with taking care of 
 
 veterinarian: 獸醫 = vet
 	The farmer called the vet out to treat a sick cow.
-anecdote /ˈæn.ɪk.doʊt/: a short, often funny story, especially about something someone has done.
-		(奇聞軼事，通常是真有其事的好笑故事x)
+
+
+anecdote /ˈæn.ɪk.doʊt/: 奇聞軼事，通常是真有其事的好笑故事
+	a short, often funny story, especially about something someone has done.
+
 	He told one or two amusing anecdotes about his years as a policeman.
+
+metaphor:隱喻
+	"The mind is an ocean" and "the city is a jungle" are both metaphors.
+tender: 嫩的、軟嫩的
+	The chicken is so tender and delicious
+
+ridge: 山脊: 是連成一排的山峰，山峰之間連成一條長線，好像動物的脊骨有一條突出的線條，或是瓦屋的屋脊。山脊是一個與地理學術語.也是分水嶺.  (更多時候，寫成mountain ridge)
+	We walked along the narrow mountain ridge.

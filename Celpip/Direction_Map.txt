@@ -24,8 +24,10 @@ on the north west corner of Graham Ave and Hargrave St.
 其他會用到的：
 across the street 過馬路
 
-cater-cornered: 斜對角
+cater-cornered: 斜對角的 = diagonal
 	A restaurant cater-cornered from the movie theater
+
+
 
 在…的旁邊 會使用 beside/next to/ aside
 		(next to也算是fancy word，可以考慮使用，如果需要使用多次，可以交替使用)

@@ -1,7 +1,3 @@
-utterly= totally 完全地
-	 completely or extremely:
-	The meeting was a complete and utter waste of time.
-
 mighty
 	extremely, very
 
@@ -9,13 +5,17 @@ mighty
 	adv. 很、非常= extremely 
 
 	It's mighty fancy.這非常酷
-
+==============================
 grossly = extremely
 	It was grossly unfair to demand such a high interest rate on the loan.
 	He's grossly overweight.
 
+utterly= totally 完全地
+	 completely or extremely:
+	The meeting was a complete and utter waste of time.
+==============================
 simultaneous:同時的　 = at the same time.
-
+==============================
 Trousers (British English) or pants (American English)
 長褲
 	leggings 緊身長褲
@@ -38,4 +38,76 @@ authentic: 道地的、經典的(用在食物)
  euphoria :extreme happiness,極度開心、極度興奮。
 	 They were in a state of euphoria for days after they won the prize.
 
+==============================
+clash = conflict 衝突 = collision
+
+personality clash : 性格衝突
+	  There's a real personality clash between two of the directors.
+	  (有點像是get along的反義詞)
+
+	  car accident 車禍
+	  multiple car accident/(multiple-car) pileup 連環車禍
+
+	  car collision 車子相撞 = traffic collison 
+	  	(P.S. traffic collision 可以用在更廣的地方，包括撞到行人、撞到樹等)
+==============================
+lid = cover 蓋子
+
+	Can you get the lid off this jar?
+	Put a lid on the saucepan.
+
+	saucepan: /ˈsɔː.spən/  平底鍋
+
+==============================
+be fond of = like 喜歡
+	She was very fond of horses.
+	"I'm very fond of you, you know," he said.
+	My brother is fond of pointing out my mistakes.
+==============================
+rigid= 嚴格的 = strict, stringent
+==============================
+adj形容區：
+ very happy= blissful, ecstatic
+ happy: contented, upbeat
+ sad: glum, sombre
+ very sad: despariing, wretched
+
+ really big: massive, enormous
+ big: sizeable, large
+ small: tiny, little
+ really small: infinitesimal, microscopic
+
+ very good: outstanding, fabulous
+ 			excellent
+ good: acceptable, satisfactory
+ 		decent, fine
+ bad: awful, dreadful
+ very bad: appalling, terrible
+ 	eg: appalling weather 很差的天氣
+
+ very old: ancient, archaic
+ old: elderly, aged
+ young: youthful, fledgling
+ very young: infantile, nascent
+
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
 ==============================

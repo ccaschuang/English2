@@ -27,6 +27,11 @@ An aspiring young journalist.
 abdicate: v. give up, waive 放棄
 	(這屬於很official 的用詞，比較常出現在國王退位、)
 
+dystopia :反烏托邦 = anti-utopia
+	希臘語字面意思是「不好的地方」（not-good place），它是一種不得人心、令人恐懼的假想社群或社會
+	是與理想社會相反的，一種極端惡劣的社會最終形態
+
+demonstration：　＝　demo展示
 prank: 退位
 
 outskirts 郊區
@@ -82,3 +87,11 @@ grossly	非常地adv. = very, extremely
 
 emission
 parallelized
+
+rally: v.團結
+	   n. 造勢活動、示威活動 (用在選舉造勢上)
+
+synapses: 突觸
+retina:視網膜
+
+neuron pl. 神經元 (通常用pl. neurons)
