@@ -44,7 +44,6 @@ Exceptions:
 	St. James. Park
 
 	(例外)	Radium Hot Springs
-	(例外)	The Calgary Tower
 
 塔、建築物、公司 需要加上the
 	The Calgary Tower
@@ -63,5 +62,8 @@ Exceptions:
 
 山峰通常不加，但是"群山" 則需要加
 	ex: Mount Everest聖母峰
+		Mount Fuji 富士山
+		Mount Jade 玉山
+
 		the Himalayas喜馬拉雅山
 		the Rocky Mountains

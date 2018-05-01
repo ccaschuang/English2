@@ -95,3 +95,8 @@ synapses: 突觸
 retina:視網膜
 
 neuron pl. 神經元 (通常用pl. neurons)
+
+fisheries: 漁業
+fisheries management漁業管理
+
+in particular: 特別是、尤其是，特定

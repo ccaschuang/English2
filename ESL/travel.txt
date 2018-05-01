@@ -1,4 +1,5 @@
 spectacular: 狀觀的 = amazing
+	There was a spectacular sunset last night.
 
 Breathtaking: 
 
