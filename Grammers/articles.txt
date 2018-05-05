@@ -43,8 +43,6 @@ Exceptions:
 	17th Street
 	St. James. Park
 
-	(例外)	Radium Hot Springs
-
 塔、建築物、公司 需要加上the
 	The Calgary Tower
 	The Hudson Bay Building
@@ -59,6 +57,8 @@ Exceptions:
 	The Red Sea
 	the Nile 尼羅河
 	the Mediterranean (Sea) 地中海
+
+	(例外)	Radium Hot Springs
 
 山峰通常不加，但是"群山" 則需要加
 	ex: Mount Everest聖母峰

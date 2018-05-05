@@ -31,7 +31,7 @@ High-quality nursery schools could be established that would support families in
 
 
 
-spoilt ：寵壞了
+spoilt ：寵壞了      spoil, spoilt, spoilt
  spoilt children
  unspolit
 
@@ -40,6 +40,7 @@ spoilt ：寵壞了
     ex:
     	He tried not to let the bad news spoil his evening.
     	The oil spill has spoiled the whole beautiful coastline.
+
 
 
 Regardless of (不管) ：中文和no matter差不多，但是regardless of 後面可以加名詞、動名詞、子句(就是個n就對了)
@@ -91,11 +92,15 @@ Furthermore, I bought a coat and a jacket for the coming winter.
 我們也來看看這些連接詞或連接性副詞的其他例句：
  
 Also: I am 28 years old. Helen is also.
-Besides: It rains heavily. Besides, the roads are nearly impassable.
+
+Besides: It rains heavily. 
+Besides, the roads are nearly impassable (不可通行的)
+
 Likewise: To achieve your goal, you must have ambition; likewise you need to exert more efforts.
 Furthermore ( moreover ) : Bicycling is a good exercise ; furthermore ( moreover ), it doesn’t  pollute the air .
 Not only…but also: The car not only is economical but also feels good to drive.
  
+ 	exert: 發揮、使出
 
 用來替換but
 和 but意思相近：however, still, nevertheless, conversely…… 等。
@@ -265,6 +270,37 @@ do not use contractions  (避免縮寫：在academic english test都不要使用
 	do not  --> don't
 
 
-Rather than: instead of
+Rather than: instead of 而不是
 	He's my sister's friend really, rather than mine.
 
+
+=========================
+
+so 的替代詞
+so 的用途是連接前因後果，使文章閱讀起來更順暢。但除了最基本的 “so”，還有很多字可以代替使用，讓你的文章看起來更有變化性喔！
+
+as a result
+Mike had a car accident last night. As a result, he took a day off today.
+Mike 昨天晚上出車禍，因此他今天請假。
+
+thus
+I already had some snacks an hour ago, thus I don’t want to eat anything now.
+我一小時前才吃過點心，所以現在不想吃東西。
+
+then
+I made pesto pasta and then shared it with my family.
+我做了青醬義大利麵，然後與家人分享。
+
+therefore
+He was in the middle of something; therefore, he couldn’t make it tonight.
+他很忙，所以他今晚不能來。
+
+hence
+	They all love ice cream; hence they want to open a dessert shop together.
+	他們都喜歡冰淇淋，所以他們想一起開個甜點店。
+
+consequently
+這邊要特別注意，consequently 並非可完全替代 so。若要使用 consequently，前句要有一個原因， 後面的結果句子中才能夠放 consequently，它的意思比較傾向於「結果導致」。
+
+	He left his wallet at home, and consequently had to borrow money from his friend.
+	他把錢包忘在家，所以只好跟朋友借錢。

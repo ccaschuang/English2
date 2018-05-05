@@ -27,6 +27,9 @@ Vice-President 副總統
 Party 政黨
 Members of Legislative Yuan 立法委員
 
+執政黨 the Party in power
+在野黨 the Party out of power
+
 congressman 美國眾議院議員
 senator 美國參議院議員
 member of parliament (MP) 多用於英國眾議院議員
