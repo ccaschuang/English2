@@ -163,7 +163,7 @@ ex: The dog has been her constant companion these past ten years.
 habitat: n 棲息地
 ex: With so many areas of woodland being cut down, a lot of wildlife is losing its natural habitat.
 
-endangered specis: 瀕危動物
+endangered species: 瀕危動物
 hide: 獸皮= skin, leather (獸毛是fur)
 
 disposable: 一次性的
