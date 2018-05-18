@@ -15,7 +15,7 @@ nurture (注意是nur，而不是nu)   (can be use in child or plants)
 
 保進學生身心發展：promote the student's physical, mental (or intellectual) and emotional development
 
-心裡健康 pshychological soundnes (or well-being/ welfare)
+心裡健康 pshychological soundness (or well-being/ welfare)
 
 welfare: 1:心裡健康  the state of being happy, healthy, or successful​
 		 2:福利: for poor or unemployed people that helps pay for their food, housing, medical costs, etc.
@@ -110,7 +110,7 @@ beget/create undue pressure 產生不必要的壓力
 dampen (or sap) the students' enthusiasm  打擊學生的積極性
   = frustrate the students
 
-  dampen: 挫傷, 
+  dampen: 挫傷,= discourage
   ex: nothing could dampen her enthusiasm
 
 把學生分開教育 segregate students
@@ -118,8 +118,10 @@ dampen (or sap) the students' enthusiasm  打擊學生的積極性
 segregate: 分開、分離
   ex: hazardous waste needs to be segregated from ordinary trash
   hazardous:危險的
+  segregate: 隔離
 
 adverse circumstances/adversity 逆境
+	adverse:不利的
 
  ex:She was always cheerful in adversity.
 
@@ -163,8 +165,9 @@ applied sciences: 應用科學
 	Swedes:瑞典人
 	regard:看待 = treat
 
+	tertiary:  /ˈtɝː.ʃi.er.i/ 第三
 
-
+====================================
 Technology 
 
 cutting-edge technology 尖端的技術
@@ -204,7 +207,7 @@ news outlets: 新聞媒體 (注意，是複數)
 outlet: 1:出口、出路 export
 
 無處不在的：
-	prevalent(adj)  流行、無處不在的=popular, widespread
+	prevalent /ˈprev.əl.ənt/(adj)  流行、無處不在的=popular, widespread
 	ubiquitous(adj) 普及=popular, universal
 	pervasive(adj) 普遍的、
 
@@ -236,6 +239,7 @@ outlet: 1:出口、出路 export
 
 審查：censor
 	ex: I don't edit or censor material to suit my purposes, ever.
+census: 人口調查
 
 刪除：delete, eliminate
 
@@ -263,6 +267,8 @@ outlet: 1:出口、出路 export
 
 媒體炒作
 	media hype
+
+	hype: extravagant or intensive publicity or promotion. 誇張的公共宣傳
 
 誇大事件
 	exaggerate things
@@ -361,6 +367,10 @@ legislate = make laws 立法 = enact laws
 
 	ex: The Princess Royal is a well-known patron of several charities.
 
+	patronize: v.
+			1:翼庇、保護 to speak to or behave towards someone as if they are stupid or not important
+			2:to be a regular customer of a shop or restaurant, etc.:
+		Stop patronizing me - I understand the play as well as you do.
 
 tax revenue 稅收
 the government spending/expenditure on sth 政府開支
@@ -452,6 +462,7 @@ The dominant role of English：英語的統治地位
 	lesser-known:not famous, not popular
 	dialect：方言，小眾使用的語言
 	indigenous: 土著、原住民 = aboriginal = native residence
+	 = First Nation
 
 	(注：aboriginal有歧視的意思在，比較少用，但官方文件還是會使用它)
 
@@ -488,12 +499,12 @@ Cultural heritage which can be divided into two groups:
 	ex:The term ethnic minority is often used to refer to marginalized cultural groups.
 		Discrimination against indigenous pygmies and ethnic minorities is a problem.
 
-		pygmy= dwarf: 矮人、	侏儒
+		pygmy /ˈpɪɡ.mi/= dwarf: 矮人、	侏儒
 
 民族團結：the harmony between ethnic groups(races)
 
 文化融合: cultural integration and synthesis
-	synthesis: 合成=composite, compound
+	synthesis/ˈsɪn.θə.sɪs/: 合成=composite, compound
 文化多元性: cultural diversity/ cutural heterogeneity
 	(cutural heterogeneity非常正式，只在替換詞使用)
 	heterogeneity:異質性
@@ -564,7 +575,7 @@ The tempo/pace of life is acelerating
 ​
 阻礙：
 	impede
-	hinder
+	hinder  /ˈhɪn.dɚ/
 	hamper
 	obstruct
 	inhibit 抑制

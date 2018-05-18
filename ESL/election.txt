@@ -36,6 +36,8 @@ member of parliament (MP) 多用於英國眾議院議員
 member of congress (MC)
 legislator 泛指立法者，因此層級不侷限於國會，地方議會的民意代表亦可用這個字
 
+premier: 首相、總理 
+	(加拿大: 省長)
 Mayor:市長
 deputy maor: 副市長
 
@@ -43,6 +45,7 @@ deputy maor: 副市長
 
 美國憲法第一修正案（英語：First Amendment to the United States Constitution，簡稱：第一修正案（Amendment I)
 
+cabinet members:內閣成員
 
 trifle /ˈtraɪ.fəl/: 瑣事、雞毛蒜皮的小事、微不足道的東西
 	I brought a few trifles back from India - pieces of jewellery and fabric mainly.

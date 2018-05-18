@@ -82,4 +82,7 @@ An adrenaline rush　腎上腺素飆升
 亞斯伯格症候群（英语：Asperger syndrome，簡稱AS)
 Autism: 自閉症
 
-claustrophobia: 幽閉症
+claustrophobia: 幽閉症	
+
+
+	

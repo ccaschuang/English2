@@ -44,7 +44,7 @@ House of Representatives: 眾議院
 Representatives: 眾議員
 
 ==============
-Inukshuk: 因努伊特石堆
+Inukshuk: 因努伊特石堆 = Inuksuk (pl. inuksuit)
 	(因努人原住民的人造石堆)
 		在因努伊特語中的意思即是「代替人的物體」之意。
 
@@ -301,3 +301,14 @@ tender: 嫩的、軟嫩的
 
 ridge: 山脊: 是連成一排的山峰，山峰之間連成一條長線，好像動物的脊骨有一條突出的線條，或是瓦屋的屋脊。山脊是一個與地理學術語.也是分水嶺.  (更多時候，寫成mountain ridge)
 	We walked along the narrow mountain ridge.
+
+**scarcity**: /ˈsker.sə.t̬i/ n. 缺少、短缺 = lack, shortage
+	ex: the scarcity of skilled workers
+  	scarcity of resources: 資源缺乏
+
+
+ Skyscrapers: 摩天大樓
+
+ 惡性循環 a vicious circle (固定用法)
+	ex: Many people get caught/trapped in a vicious circle of dieting and weight gain.
+	vicious: 惡毒的= malicious
