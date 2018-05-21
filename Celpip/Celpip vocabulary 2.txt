@@ -11,6 +11,8 @@ Eavestrough – A gutter fixed beneath the edge of a roof
 
 	pl(複數：)eavestroughs
 
+ditch: 溝 (通常指馬路旁邊的溝道)
+
 bedgasm (n.) a feeling of euphoria experienced when climbing into bed at the end of a very long day.	指在一個長時間的工作後，終於可以回到床上的一種瑜悅感
 	A feeling of complete and utter euphoria which peaks when climbing into bed at the end of an 18-hour workday, a long road trip or hours of extremely strenuous physical activity. Under perfect conditions, the physical release has been likened to that of an intense sexual experience.
 
@@ -35,6 +37,8 @@ Parliament /ˈpɑːr.lə.mənt/議會
 Congress: 國會
 Legislature /ˈledʒ.ə.slə.tʃɚ/ : 立法院
 
+Legislative Assembly of Alberta: Alberta省議會
+
 立委： member of parliament，
 
 senator: 參議員
@@ -47,6 +51,7 @@ Representatives: 眾議員
 Inukshuk: 因努伊特石堆 = Inuksuk (pl. inuksuit)
 	(因努人原住民的人造石堆)
 		在因努伊特語中的意思即是「代替人的物體」之意。
+	(P.S.比較多的拚法是Inuksuk)
 
 quarrel /ˈkwɔːr.əl/: 吵架	an angry argument or disagreement, typically between people who are usually on good terms.
 	That war was not the quarrel of the indigenous people, yet we conscripted them to fight it.
@@ -312,3 +317,10 @@ ridge: 山脊: 是連成一排的山峰，山峰之間連成一條長線，好�
  惡性循環 a vicious circle (固定用法)
 	ex: Many people get caught/trapped in a vicious circle of dieting and weight gain.
 	vicious: 惡毒的= malicious
+
+shrouded: 籠罩
+	Ellesmere land is most often shrouded in darkness,  and the temperature remains well below freezing, has very little vegetation.
+
+caribou:馴鹿 (與reindeer是同一物種，但是比較大隻，比較像elk)
+arctic char: 北極鮭魚 (一種鮭魚，只生存在北極海)
+	Inuit get all of their nutrition from animals, including musk oxen, seals , whales, caribou and arctic char. In particular, their Grise Fiord is not a traditional or indigenous settlement. 

@@ -571,6 +571,10 @@ The tempo/pace of life is acelerating
 	traffic congestion
 	gridlock
 
+	pileup:連環車禍
+
+	ditch (馬路旁的水溝道)
+	lane
 	ex: A car breaking down at rush hour could cause gridlock across half the city.
 ​
 阻礙：
@@ -603,6 +607,7 @@ The tempo/pace of life is acelerating
 	destitute
 	indigent
 
+	impoverish: v. make (a person or an area) poor 使貧窮
 	deprive: v.剝奪
 	ex:
 		I grew up as an orphan and I emigrated as a poor and indigent person.
@@ -695,7 +700,7 @@ surveillance : /sɚˈveɪ.ləns/ 監視
 	population boom
 
 愛慕虛榮的：
-	pretentious   自大的。(喜好炫耀自己的能力)
+	pretentious   自大的。(喜好炫耀自己的能力的)
 	ostentatious /ˌɑː.stənˈteɪ.ʃəs/ too obviously showing your money, possessions, or powe
 
 	ex:
@@ -705,7 +710,8 @@ surveillance : /sɚˈveɪ.ləns/ 監視
 缺少運動的生活方式： 
 	sedentary lifestyle
 
-	sedentary: adj. 缺乏運動的 lack of activity, exercise.
+	sedentary /ˈsed.ən.ter.i/: adj. 缺乏運動的 lack of activity, exercise.
+	sedan: 轎車
 	ex: My doctor says I should start playing sport because my lifestyle is too sedentary.
 
 營養過剩 over-nourishment
@@ -720,8 +726,10 @@ surveillance : /sɚˈveɪ.ləns/ 監視
 		//但是講到消化不良、營養不良(poor nutrition)等，使用nutrition比較正確。 因為nutrition還有指稱消化過程
 		//營養學是學科，也只能用nutrition
 
+		Young babies obtain all the nourishment they need from their mother's milk.
 
-similar vocabulary
+
+similar vocabularies
 	inhibit: 抑制
 	exhibit:展覽、展示
 	inhabit: 居住於
@@ -729,7 +737,7 @@ similar vocabulary
 	probe:探測、探索=explore
 	poverty 貧困
 
-	indigent: 貧困
+	indigent: 貧困 (可以用poor, impoverished來代替)
 	indigenous: 原住民、土著
 
 
@@ -766,7 +774,7 @@ Women
 
 兩性歧視
 	gender discrimination
-	sexism
+	sexism, sexist
 一個開明的社會
 	a progressive/enlightened society
 
