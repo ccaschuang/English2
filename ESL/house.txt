@@ -21,3 +21,6 @@ apartment: 中文都稱公寓：但是condo可以買賣，apartment通常只能�
 townhouse ：排屋
 
 bi-level：只有地下室跟1樓的房子   主臥在1樓
+
+bungalow: 平房 (跟bi-level很像，但不同的是地下室的窗戶小很多)
+

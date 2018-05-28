@@ -24,6 +24,8 @@ on the north west corner of Graham Ave and Hargrave St.
 其他會用到的：
 across the street 過馬路
 
+crosswalk班馬線
+
 cater-cornered: 斜對角的 = diagonal
 	A restaurant cater-cornered from the movie theater
 
@@ -34,8 +36,9 @@ cater-cornered: 斜對角的 = diagonal
 	The restaurant is next to the post office.
 
 up the street
-
-down the street
+down the street  
+	right up the street 跟right down the street (就在右邊) 其實是一樣的意思
+		eg: It's right up the street from the Japanese restaurant
 
 around the corner, 
 

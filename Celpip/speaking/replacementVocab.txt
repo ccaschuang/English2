@@ -10,6 +10,15 @@ utterly= totally 完全地
 	completely or extremely:
 	The meeting was a complete and utter waste of time.
 ==============================
+excited = thrilled 高興的、興奮的 = blissful
+	I feel thrilled 
+==============================
+購買：除了buy以外，可以用purchase, 
+
+另外也可以用pay(付錢)，acquire(獲得)
+其他可以
+buy, purchase, pay, take, acquire, procure
+==============================
 mighty
 	extremely, very
 
@@ -45,7 +54,7 @@ stand: 指那種流動攤販, food stand, food booth都可以，但主要用stan
 food trunk: 
  ==============================
  happiness :開心
- euphoria :extreme happiness,極度開心、極度興奮。
+ euphoria (UN.):extreme happiness,極度開心、極度興奮。
 	 They were in a state of euphoria for days after they won the prize.
 
 happy: blissful
@@ -161,13 +170,24 @@ worthless = no worth (無價值)
 		Indeed it is not a satisfactory way to settle any argument.
 
 ==============================
+advice (U.N.)
+suggestion
+recommend
+propose:
+
+	I would like to recommend you some places to visit.
+
+	I suggest (that) we wait a while before we make any firm decisions.
+
+	I would like to give you some advice.
+==============================
 
  危險
  	danger
  	hazard
  	peril
  	risk
-
+ 	jeopardy (advanced verb)
  	ex: 
  		The busy traffic entrance was a hazard to pedestrians.
  		the hazards of smoking.
@@ -179,6 +199,15 @@ worthless = no worth (無價值)
  		fraught with: v. 充滿
 
 ==============================
+quarrel /ˈkwɔːr.əl/: 吵架	an angry argument or disagreement, typically between people who are usually on good terms.
+	That war was not the quarrel of the indigenous people, yet we conscripted them to fight it.
+
+	They had a bitter quarrel about/over some money three years ago and they haven't spoken to each other since.
+
+
+	synomyn: argue: 爭論
+			 fight: 打架
+==============================
 stimulating: adj. 
 	1:有趣的、刺激的 (可以用做interesting, exciting的替換字)
 
@@ -186,9 +215,13 @@ stimulating: adj.
 	a stimulating discussion
 	The classes look attractive and stimulating.
 ==============================
-colleague: 同事 = co-worker
+colleague: 同事 = co-worker = 
+
+workmates(一起工作的人，不一定是同事)
 
 collaborator 合作的人
+
+company = firm
 ==============================
 entrepreneur: 企業家
 
@@ -207,7 +240,11 @@ founder,創辦人
 優點：merit
 
 缺點：harmful, drawback, downside
+==============================
+danger = risk (n.)
 
+it's extremely dangerous.
+they are at enormous risk
 ==============================
 大量的
 	a host of 
@@ -225,10 +262,36 @@ founder,創辦人
 	The show itself is in a huge exhibition centre, and is on a vast scale.
 	he has a host of friends 
 ==============================
+turn your back on sb.(sth) 
+= betray 背叛
 ==============================
+pressure = stress 壓力
+
+	I am under a lot of stress.
+	Teachers are under increasing pressure to work
+	People under a lot of stress may experience headaches, minor pains, and sleeping difficulties.
+
+stressful: 很有壓力的
 ==============================
+替換字 ( 普通 → 進階 )
+
+1.      Weather → Climate 氣候
+2.      Wet → Humid 潮濕
+3.      Quite → Extremely 非常
+4. 		huge → enormous 巨大的
 ==============================
+tremendous = enormous 巨大的、龐大的
 ==============================
+polluated = contaminated 污染的
+	Much of the coast has been contaminated by nuclear waste.
+
+==============================
+優秀的 good
+替換字：
+excellent, outstanding, 
+==============================
+magnificent: 華麗的
+Significant: 顯著的
 ==============================
 ==============================
 ==============================

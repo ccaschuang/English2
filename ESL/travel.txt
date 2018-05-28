@@ -16,6 +16,9 @@ majestic: 雄偉的
 	Iceland's majestic scenery has often featured in the tremendously popular fantasy drama TV series, Game of Thrones.
 
 
+tremendously:  = extremely 異常的、極度的 = especially, remarkably
+
+
 influx: 湧入
 	With the influx of tourists though comes the possibility that Iceland may become a viction of its own success.
 
