@@ -1,0 +1,8 @@
+shrub 灌木
+
+wood 木頭 = log
+
+trunk：樹幹、驅幹
+stem: 主幹 (跟trunk意思很像)
+
+	P.S. limb: 肢(人體的四肢)

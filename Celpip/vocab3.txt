@@ -6,8 +6,8 @@ tectonic plate: 地殼板塊
 
 mould: 模子、模
 	v 模、陶冶
-mouldy
-	adv. 發霉的
+moldy, moudy
+	adj. 發霉的
 
 malleibility
 

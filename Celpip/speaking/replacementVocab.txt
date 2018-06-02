@@ -18,6 +18,9 @@ excited = thrilled 高興的、興奮的 = blissful
 另外也可以用pay(付錢)，acquire(獲得)
 其他可以
 buy, purchase, pay, take, acquire, procure
+
+	eg: 
+	He acquired the firm in 2008.
 ==============================
 mighty
 	extremely, very
@@ -28,6 +31,29 @@ mighty
 	It's mighty fancy.這非常酷
 ==============================
 simultaneous:同時的　 = at the same time.
+ ==============================
+ happiness :開心
+ euphoria (UN.):extreme happiness,極度開心、極度興奮。
+	 They were in a state of euphoria for days after they won the prize.
+
+happy: blissful
+ecstatic: 欣喜若狂 (類似於狂喜、比happy還要強烈的形容詞) 
+
+elated: thrilled, delighted (very happy的意思，盡量使用這種字，而非使用happy等字眼)
+	I am very happy  --> use I am elated
+
+==============================
+so scared -->  terrified 恐怖的：恐怖的
+	盡量使用terrified，這字比較容易拿高分
+==============================
+sad 傷心的
+	distressed 哀傷的
+
+	depressed: 鬱悶的、憂鬱的
+
+	gloomy: 陰沉的
+
+	miserable: 悲慘的、悲傷的。
 ==============================
 Trousers (British English) or pants (American English)
 長褲
@@ -51,21 +77,8 @@ dish, cuisine 菜餚、餐點
 restaurant: 餐廳
 food vendor：攤位、販賣食物的攤販(通常指food court的餐廳)
 stand: 指那種流動攤販, food stand, food booth都可以，但主要用stand
-food trunk: 
- ==============================
- happiness :開心
- euphoria (UN.):extreme happiness,極度開心、極度興奮。
-	 They were in a state of euphoria for days after they won the prize.
+food truck: 行動餐車(卡車) 
 
-happy: blissful
-ecstatic: 欣喜若狂 (類似於狂喜、比happy還要強烈的形容詞) 
-
-elated: thrilled, delighted (very happy的意思，盡量使用這種字，而非使用happy等字眼)
-	I am very happy  --> use I am elated
-
-==============================
-so scared -->  terrified 恐怖的：恐怖的
-	盡量使用terrified，這字比較容易拿高分
 ==============================
 
 clash = conflict 衝突 = collision
@@ -250,6 +263,7 @@ they are at enormous risk
 	a host of 
 	a multitude of 
 	a vast number of  (接C.N.)
+	an immense number of (接CN.)
 	a great deal of 
 	a vast amount of  (接U.N.)
 	a large number of  (口語混用，但一般用在C.N.)
@@ -257,10 +271,15 @@ they are at enormous risk
 	a variety of：各種各樣
 	a lot of
 
+	enormous money
 	ex: 
 	The city has a multitude of problems, from homelessness to drugs and murder.
 	The show itself is in a huge exhibition centre, and is on a vast scale.
 	he has a host of friends 
+
+	an immense amount of time. 大量的時間
+	an immense amount of love. 大量的愛
+	an immense amount of money. 大量的金錢 = enormous money = large amounts of money
 ==============================
 turn your back on sb.(sth) 
 = betray 背叛
@@ -280,7 +299,20 @@ stressful: 很有壓力的
 3.      Quite → Extremely 非常
 4. 		huge → enormous 巨大的
 ==============================
-tremendous = enormous 巨大的、龐大的
+tremendous = enormous 巨大的、龐大的 = massive
+
+P.S. tremendous 有巨大、龐大的意思，意思很像是huge
+
+	enormous 也有這個意思，但enormous比較常使用在"數量"龐大
+
+	所以像是金錢，會比較常使用enormous amount of money, enormous money (指很多錢)
+	tremendous 會比較用來形容單一物件很巨大
+
+	It's a tremendous inspiration when you see these guys every morning.
+		這是很大(重要)的啟發
+
+	it was a tremendous blow. 這是個巨大的打擊
+huge
 ==============================
 polluated = contaminated 污染的
 	Much of the coast has been contaminated by nuclear waste.
@@ -288,7 +320,9 @@ polluated = contaminated 污染的
 ==============================
 優秀的 good
 替換字：
-excellent, outstanding, 
+excellent, outstanding, extraordinary
+
+
 ==============================
 magnificent: 華麗的
 Significant: 顯著的

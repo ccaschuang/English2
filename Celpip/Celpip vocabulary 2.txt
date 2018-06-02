@@ -319,9 +319,19 @@ ridge: 山脊: 是連成一排的山峰，山峰之間連成一條長線，好�
 	ex: Many people get caught/trapped in a vicious circle of dieting and weight gain.
 	vicious: 惡毒的= malicious
 
-shrouded: 籠罩
+shrouded: v. 籠罩(≒ cover)   n.覆蓋物
 	Ellesmere land is most often shrouded in darkness,  and the temperature remains well below freezing, has very little vegetation.
 
+	Ellesmere land 埃爾斯米爾島 也寫作Ellesmere Island, 
 caribou:馴鹿 (與reindeer是同一物種，但是比較大隻，比較像elk)
 arctic char: 北極鮭魚 (一種鮭魚，只生存在北極海)
 	Inuit get all of their nutrition from animals, including musk oxen, seals , whales, caribou and arctic char. In particular, their Grise Fiord is not a traditional or indigenous settlement. 
+
+
+downtown: 市中心，市區 可當名詞，也可以當形容詞、副詞使用
+	We all work downtown. 我們都在市區工作 (此時的downtown作副詞用，所以前面不應該加 in )
+
+honorary degree. 榮譽學位
+
+
+From cradle to grave: 從搖籃到墳墓 (指出身到死亡)
