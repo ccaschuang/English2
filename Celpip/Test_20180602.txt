@@ -1,8 +1,12 @@
 vocab:
-Apprehensive. 
-Adolescent 
-condemned 
-condolences
+Apprehensive 憂慮的
+
+Adolescent 青少年
+
+condemned 譴責、問罪
+
+condolences 慰問、哀悼
+
 privatization: 民營化
 
 Tutti:合奏
@@ -17,6 +21,12 @@ Reading:
 	https://www.theglobeandmail.com/report-on-business/rob-commentary/ruling-out-privatization-limits-canada-post-reviews-effectiveness/article30128647/
 
 	https://en.wikipedia.org/wiki/Crown_corporations_of_Canada
+
+
+Listening:
+	關於市區要增多停車位，還有引導大家去使用public transportation
+
+
 
 Writing:
 	1: 寫一封道歉跟換時間的信

@@ -23,4 +23,7 @@ Missing April 30 deadline could come with hefty fine.
 	如果超過4/30截止日期，會收到一筆沉重的罰款
 
 	hefty: = heavy, 沉重的
-	
+
+Busting myth of women politicians as pawns.
+	pawn: 馬前卒、棋子
+

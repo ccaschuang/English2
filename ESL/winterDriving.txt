@@ -85,9 +85,9 @@ right-of-way
 
 MSSSM
 	mirrors(先確認後照鏡)
-	short check
+	shoulder check
 	signal  (方向燈)
-	short check
+	shoulder check
 	move (轉換車道)
 
 pedestrians 行人
@@ -106,3 +106,24 @@ P.S.
 	加拿大，你被開單有可能是你距離前車過近
 	也有可能是你開太慢(no minimum speed limit, but it's unsafe driving)
 ====================
+
+gas tank: (汽車) 油箱
+   you have to know which side of your car your gas tank is on.
+   	你要知道你的油箱是在哪一側
+
+pump: 加油站 (通常有兩側各一隻nozzle的地方)
+	I am pulling up to the pump. (停在油箱旁)
+		(It means to drive up (beside, in this case) a particular gas/petrol pump)
+nozzle: 油槍(指噴嘴的意思)
+	
+pull you over = stop you.
+	If the police can not read your license plate, they're going to pull you over and they might give you a ticket.
+
+undo(unbuckle) my seatbelt. 打開安全帶
+
+without further ado = without waiting any longer
+	without further ado, let's embark (start) on our adventure
+
+roll down = pull down 放下(車窗)
+	I roll down the window to have some fresh air.
+roll up 升起(車窗)

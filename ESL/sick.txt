@@ -84,5 +84,5 @@ Autism: 自閉症
 
 claustrophobia: 幽閉症	
 
-
+torso:軀幹
 	
