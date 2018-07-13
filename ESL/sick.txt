@@ -85,4 +85,7 @@ Autism: 自閉症
 claustrophobia: 幽閉症	
 
 torso:軀幹
+
+acupuncturist: 針灸師
+acupuncture: n. 針刺、
 	
