@@ -27,3 +27,6 @@ Missing April 30 deadline could come with hefty fine.
 Busting myth of women politicians as pawns.
 	pawn: 馬前卒、棋子
 
+Mark Zuckerberg clarifies stance on Facebook policy for Holocaust deniers.
+	stance: 姿勢
+	holocaust: 屠殺 (destruction or slaughter on a mass scale, especially caused by fire or nuclear war.)

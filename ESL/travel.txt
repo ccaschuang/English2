@@ -89,3 +89,7 @@ moldy, moudy
 moss 苔蘚
 
 fern 蕨類
+
+vineyard:葡萄園
+
+moth: 蛾

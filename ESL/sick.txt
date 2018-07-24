@@ -88,4 +88,9 @@ torso:軀幹
 
 acupuncturist: 針灸師
 acupuncture: n. 針刺、
-	
+
+thrombosis /θrɑːmˈboʊ.sɪs/ 血栓 plural thromboses
+
+stroke: 中風
+
+twitch: 抽搐
