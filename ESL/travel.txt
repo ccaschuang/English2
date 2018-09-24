@@ -93,3 +93,13 @@ fern 蕨類
 vineyard:葡萄園
 
 moth: 蛾
+
+larch: 落羽松
+Deciduous tree: 落葉喬木
+/dɪˈsɪdʒ.u.əs/
+A deciduous tree loses its leaves in autumn and grows new ones in the spring.
+
+evergreen: 常綠樹(四季葉子都會留著的樹種)
+
+coniferous tree: 針葉樹 (evergreen的一種)
+	

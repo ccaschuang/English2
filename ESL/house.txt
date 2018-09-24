@@ -66,3 +66,34 @@ adjustable desk (升降桌)
 extendable dining table：可調長度的餐桌
 
 craft room 工作室 (有點類似書房的概念，只是通常更大，可以做更多事，如畫畫一類)
+
+command hook: 無痕掛鉤 (不會傷牆壁的鉤子)
+
+paving stones(石頭步道)
+
+swamp:沼澤
+======= Drywall 補牆相關=======
+spackle: 填泥料 (用來補牆的東西)
+	類似於joint coupound, 
+
+patch 補牆片
+dry wall
+
+cement: 水泥
+===============================
+=========screw螺絲==============
+screw: 螺絲
+nail: 釘子
+screwdriver：螺絲起子
+
+stripped screws 螺帽已經毀損的螺絲
+===============================
+
+keyless entry 不需要鑰匙的門鎖
+
+bolt lock
+deadbolt lock 插鎖(一種放在門鎖上面，直接卡住的鎖)
+
+patio lock：水平式把手鎖
+
+

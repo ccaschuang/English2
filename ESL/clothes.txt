@@ -9,3 +9,6 @@ cheongsam 旗袍(中國傳統服飾，音同"中山")
 tuxedo:燕尾服
 
 nightdress:晚禮服
+
+tartan skirt: 格子裙
+	tartan:格子花呢 = plaid

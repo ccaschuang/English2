@@ -94,3 +94,4 @@ thrombosis /θrɑːmˈboʊ.sɪs/ 血栓 plural thromboses
 stroke: 中風
 
 twitch: 抽搐
+ 	sort the twitch: 停止抽搐
