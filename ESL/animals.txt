@@ -1,0 +1,27 @@
+animals
+
+baby animal name:
+
+========================================
+kit :baby beaver
+
+owlet: small owl  baby 貓頭鷹
+
+calf: 小牛
+
+puffling  puffin(海雀的baby，是一種鳥)
+
+gosling 小鵝
+
+lamb 小羊 (young sheep)
+
+kid 1:小孩 2: 小羊 (young goat)
+
+kitten 小貓(young cat)
+
+whelp coyote 的baby
+
+cub:幼獸 (通常指的是小熊等)
+
+kitten: 小貓 (可以用在cat, lynx等，似乎也可以用在lion等)
+	Felidae: 貓科
