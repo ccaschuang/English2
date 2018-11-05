@@ -95,3 +95,13 @@ stroke: 中風
 
 twitch: 抽搐
  	sort the twitch: 停止抽搐
+
+
+cellulite: 橘皮
+varicose veins: 靜脈曲張
+sagging breast: 乳房下垂
+
+
+
+
+postpartum depression 產後憂鬱症
