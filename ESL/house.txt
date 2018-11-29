@@ -71,7 +71,7 @@ command hook: 無痕掛鉤 (不會傷牆壁的鉤子)
 
 paving stones(石頭步道)
 
-swamp:沼澤
+
 ======= Drywall 補牆相關=======
 spackle: 填泥料 (用來補牆的東西)
 	類似於joint coupound, 

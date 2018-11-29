@@ -67,3 +67,7 @@ steamy and sticky 激情、撩人
 
 Assain's Creed刺客教條
 	creed: 信條、教義
+
+
+We did a ditty.
+	(dityt: 短歌、短詩)
