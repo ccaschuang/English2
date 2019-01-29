@@ -21,7 +21,7 @@ kitten 小貓(young cat)
 
 whelp coyote 的baby
 
-cub:幼獸 (通常指的是小熊等)
+cub:幼獸 (通常指的是小熊bear等)
 
 kitten: 小貓 (可以用在cat, lynx等，似乎也可以用在lion等)
 	Felidae: 貓科

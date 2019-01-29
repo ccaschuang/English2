@@ -102,6 +102,35 @@ varicose veins: 靜脈曲張
 sagging breast: 乳房下垂
 
 
-
+eyelid:眼皮
+eyebrow: 眉毛
 
 postpartum depression 產後憂鬱症
+
+concussion: 腦震蕩
+
+STD (n.) 性病 = (sexually transmitted disease)
+STI (n.)  sexually transmitted infection
+	Sexually transmitted diseases are infections that are commonly spread by sexual activity, especially vaginal, anal and oral sex.
+	性病是一種性行為的感染症狀，尤其是經由陰道，肛門，以及口交造成。
+
+SAD (n.) 季節性憂鬱症 = (seasonal affective disorder)
+	Seasonal affective disorder is a mood disorder subset in which people who have normal mental health throughout most of the year exhibit depressive symptoms at the same time each year, most commonly in the winter.
+	季節性憂鬱症是一種小型的群體情緒失調症狀，患者是一般正常人，但是在每年同一時期都會出現憂鬱的症狀，尤其是冬季。
+
+OCD (n.) 強迫症 = (obsessive compulsive disorder)
+
+	Obsessive-compulsive disorder is a mental disorder in which people feel the need to check things repeatedly, including hand washing, counting of things, and checking to see if a door is locked, are unable to control their thoughts or activities for more than a short period of time.
+	強迫症指的是一種精神失調症，患者需要一直重複檢查東西並無法自我控制在短時間內不去執行這些活動跟思想，像是洗手，數東西，以及檢查們有沒有鎖上等等。
+
+Alzheimer’s disease (n.) 阿茲海默症
+
+	Alzheimer’s disease is the cause of 60–70% of cases of dementia.
+	阿茲海默症是百分之六十至七十的失智症造成原因。
+
+piles (n.) 痔瘡 = hemorrhoids
+
+	Hemorrhoids are vascular structures in the anal canal. In their normal state, they are cushions that help with stool control, but become a disease when swollen or inflamed
+	痔墊是位於肛管的血管組織，在正常情形下可協助控制排便。但當它腫脹或發炎時，會呈現病態或變成痔瘡。
+
+He died of heart attack. 他死於心臟病
