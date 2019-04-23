@@ -134,3 +134,6 @@ piles (n.) 痔瘡 = hemorrhoids
 	痔墊是位於肛管的血管組織，在正常情形下可協助控制排便。但當它腫脹或發炎時，會呈現病態或變成痔瘡。
 
 He died of heart attack. 他死於心臟病
+
+osteopathy: 整骨療法(流行於歐洲，從希臘來的)
+chiropractic: 整骨(中式整骨，主要是在spine)
