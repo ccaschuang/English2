@@ -1,0 +1,46 @@
+Ten Challenges for Making Automation a Team Player in Joint Human-Agent Activity
+
+Requirements for joint activity among people
+	1. Enter into an agreement which we call a Basic Compact that the participants intend to work together.
+		跟其他人一樣有做一些基本的日常生活(參與meeting, daily standup...etc)
+	2. Be mutually predictable in their actions
+		可預測，且可被預測
+	3. Be mutually directable
+
+	4. Maintain common ground
+
+10 Challenges
+Challenge 1: To be a team player, an intelligent agent must fulfill the requirements of a Basic Compact to engage in common-grounding activities.
+
+Challenge 2: To be an effective team player, intelligent agents must be able to adequately model the other participants' intentions and actions vis-a-vis the joint activity's state and evolution - for example, are they having trouble? Are they on a standard path proceeding smoothly? What impasses have arisen? How have others adapted to disruptions to the plan? 
+
+Challenge 3: Human-agent team members must be mutually predictable.
+
+Challenge 4: Agents must be directable.
+
+Challenge 5: Agents must be able to make pertinent aspects of their status and intentions obvious to their teammates
+
+Challenge 6: Agents must be able to observe and interpret pertinents signals of status and intentions.
+
+Challenge 7: Agents must be able to engage in goal negotiation.
+
+Challenge 8: Support technologies for planning and autonomy must enable a collaborative approach.
+
+Challenge 9: Agents must be able to participate in managing attention.
+
+Challenge 10: All team members must help control the costs of coordinated activity.
+
+tacit 默契的 adj.
+	understood or implied without being stated.
+	eg: Will they ever come to terms with what was done in their names and, for the most part, with their tacit approval?
+
+pertinent: 相關的 adj.
+	relevant or applicable to a particular matter; apposite.
+	eg: That leads me to another point in the fight against crime that is very pertinent to the discussion.
+
+autonomy: 自治、獨立
+	(of a country or region) the right or condition of self-government, especially in a particular sphere.
+
+	eg: The government formally granted universities autonomy over academic and financial affairs.
+
+sphere:	1. 球  2. 領域
