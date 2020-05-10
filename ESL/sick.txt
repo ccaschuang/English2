@@ -142,6 +142,7 @@ chiropractic: 整骨(中式整骨，主要是在spine)
 
 My Neck is a little stiff.我的脖子有一點僵硬
 
+hermia surgery 疝氣手術
 ============================================================
 病歷表：各項英文：
 	Pneumonia, 

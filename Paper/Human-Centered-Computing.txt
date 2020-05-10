@@ -44,3 +44,6 @@ autonomy: 自治、獨立
 	eg: The government formally granted universities autonomy over academic and financial affairs.
 
 sphere:	1. 球  2. 領域
+
+fellow: 同伴、夥伴
+brittle
